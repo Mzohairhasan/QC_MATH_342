@@ -348,34 +348,35 @@ Write a function `my_simple_ols` that takes in a vector `x` and vector `y` and r
 ```{r}
 my_simple_ols = function(x, y){
   ols_obj = list()
-  if (class(x) != "numeric") {
-    stop("x is not numeric")
+  # Check if x & y are numeric
+  if(class(x) != 'numeric'){
+    stop('x is not numeric')
   }
-  if (class(y) != "numeric") {
-    stop("y is not numeric")
+  
+  if(class(y) != 'numeric'){
+    stop('y is not numeric')
   }
   
   n = length(x)
   
-  if (length(y != n)) {
+  # Check if x and y have the same length
+  if(length(y) != n){
     stop("x and y are not the same length")
   }
+  
   x_bar = mean(x)
   y_bar = mean(y)
-  b_1 = sum((x - x_bar) * (y - y_bar)) / sum((x - x_bar)^2) #sum of x_i and y_i
-  b_0 = y_bar - b_1 * x_bar
-  e = y - (b_0 + b_1*x)
-  
-  
-  SSE = sum(e^2)
-  MSE = SSE / (n-1)
-  RMSE = sqrt(MSE)
-  SST = sum((y - y_bar)^2)
-  RSQ = (SST - SSE) / SST
+  b_1 = (sum(x*y) - n*x_bar*y_bar)/(sum(x^2)-n*(x_bar)^2) 
+  b_0 = y_bar - b_1 * x_bar  # intercept
+  e = y - (b_0 + b_1 * x) # residuals
+  SSE = sum(e^2) # Sum of Squared Errors
+  MSE = SSE/(n-2) # Corrected Mean Squared Error
+  RMSE = sqrt(MSE) # Root Mean Squared Error
+  SST = sum((y - y_bar)^2) # Total Sum of Squares
+  Rsq = (SST - SSE) / SST # R-squared
   
   class(ols_obj) = "my_simple_ols_obj"
-  ols_obj
-  
+
   ols_obj$b_1 = b_1
   ols_obj$b_0 = b_0
   ols_obj$e = e
@@ -383,7 +384,7 @@ my_simple_ols = function(x, y){
   ols_obj$MSE = MSE
   ols_obj$RMSE = RMSE
   ols_obj$SST = SST
-  ols_obj$RSQ = RSQ
+  ols_obj$Rsq = Rsq
   
   ols_obj
 }
@@ -401,6 +402,14 @@ expect_equal(my_simple_ols_mod$RMSE, summary(lm_mod)$sigma, tol = 1e-4)
 expect_equal(my_simple_ols_mod$Rsq, summary(lm_mod)$r.squared, tol = 1e-4)
 
 ```{r}
+lm_mod = lm(y ~ x)
+my_simple_ols_mod = my_simple_ols(x, y)
+#run the tests to ensure the function is up to spec
+pacman::p_load(testthat)
+expect_equal(my_simple_ols_mod$b_0, as.numeric(coef(lm_mod)[1]), tol = 1e-4)
+expect_equal(my_simple_ols_mod$b_1, as.numeric(coef(lm_mod)[2]), tol = 1e-4)
+expect_equal(my_simple_ols_mod$RMSE, summary(lm_mod)$sigma, tol = 1e-4)
+expect_equal(my_simple_ols_mod$Rsq, summary(lm_mod)$r.squared, tol = 1e-4)
 ```
 
 Verify that the average of the residuals is 0 using the `expect_equal`. Hint: use the syntax above.
