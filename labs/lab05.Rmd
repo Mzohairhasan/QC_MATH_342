@@ -305,30 +305,42 @@ Now repeat the exercise above except use 5-fold CV (K=5 cross validation) for ea
 
 ```{r}
 K = 5
-oos_e_by_p_k = matrix(NA, nrow = n, ncol = n) #save all residuals here - each row are the residuals for number of features = j
+#oos_e_by_p_k = matrix(NA, nrow = n, ncol = n) #save all residuals here - each row are the residuals for number of features = j
+
+
+set.seed(1984)
+temp = rnorm(n)
+folds_vec = cut(temp, breaks=quantile(temp, seq(0, 1, length.out=K+1)), include.lowest=TRUE, labels=FALSE)
+head(folds_vec, 100)
 
 min_ntrain = min(n - table(folds_vec))
-oos_se_by_p_by_k = matrix(NA, nrow = n_train, ncol = K)
-ooss_e_by_p = array(NA, n_train)
 
-for (j in 1:n_train) {
-  
+ooss_e_by_p = array(NA, min_ntrain)
+oos_se_by_p_by_k = matrix(NA, nrow = min_ntrain, ncol = K)
+
+
+for (j in 1:min_ntrain) {
   all_e_test = array(NA, n)
   
-  for (k in 1:K) {
-    test_indices = which(folds_vec == k)
-    train_indices = setdiff(1:n, test_indices)
-    X_with_junk_train = X_with_junk[train_indices, ]
-    y_train = y[train_indices]
-    X_with_junk_test = X_with_junk[test_indices, ]
-    y_test = y[test_indices]
-    X_with_junk_train_j = X_with_junk_train[ , 1:j, drop = FALSE]
-    b = solve(t(X_with_junk_train_j) %*% X_with_junk_train_j) %*% t(X_with_junk_train_j) %*% y_train
-    yhat_test = X_with_junk_test[ , 1:j, drop = FALSE] %*% b
-    e_k = y_test - yhat_test
-    all_e_test[test_indices] = e_k
-    oos_se_by_p_by_k[j,k] = sd(e_k)
-  }
+      for (k in 1:K) {
+      # Test train split 
+      test_indices = which(folds_vec == k)
+      train_indices = setdiff(1:n, test_indices)
+      
+      #Extract X_train, y_train, X_test, y_test
+      X_with_junk_train = X_with_junk[train_indices, ]
+      y_train = y[train_indices]
+      X_with_junk_test = X_with_junk[test_indices, ]
+      y_test = y[test_indices]
+      
+      X_with_junk_train_j = X_with_junk_train[ , 1:j, drop = FALSE]
+      b = solve(t(X_with_junk_train_j) %*% X_with_junk_train_j) %*% t(X_with_junk_train_j) %*% y_train
+      yhat_test = X_with_junk_test[, 1:j, drop=FALSE] %*% b
+      
+      e_k = y_test - yhat_test
+      all_e_test[test_indices] = e_k
+      oos_se_by_p_by_k[j,k] = sd(e_k)
+    }
   ooss_e_by_p[j] = sd(all_e_test)
 }
 ```
@@ -337,8 +349,8 @@ plotting:
 #now plot it
 pacman::p_load(ggplot2)
 ggplot(data.frame(
-    s_e = ooss_e_by_p, #we are taking the sd over all n oos residuals
-    p = 1 : n_train
+    s_e = ooss_e_by_p,
+    p = 1 : min_ntrain
   )) +
   geom_line(aes(x = p, y = s_e))
 
