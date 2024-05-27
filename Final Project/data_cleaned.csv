@@ -1,0 +1,2231 @@
+age_of_property,coop_condo,dining_room_type,fuel_type,garage_exists,kitchen_type,maintenance_cost,num_bedrooms,num_full_bathrooms,num_half_bathrooms,num_total_rooms,parking_charges,pct_tax_deductibl,sale_price,sq_footage,total_taxes,zip_code,common_charges_numeric_dollars
+69,co-op,combo,gas,0,eat in,NA,2,1,0,5,0,0,228000,NA,NA,11355,767
+69,co-op,formal,oil,0,eat in,604,1,1,0,4,0,0,235500,890,NA,11354,0
+20,condo,combo,NA,0,efficiency,NA,1,1,0,3,0,0,137550,550,5500,11368,167
+22,condo,combo,gas,0,eat in,NA,3,2,0,5,0,0,545000,NA,2260,11354,275
+75,co-op,combo,gas,0,eat in,660,2,1,0,4,0,39,241700,675,NA,11426,0
+86,co-op,combo,oil,0,eat in,932,2,1,0,4,0,0,250000,1000,NA,11415,0
+74,co-op,combo,gas,0,efficiency,660,1,1,0,3,0,0,145000,NA,NA,11423,0
+64,co-op,NA,gas,0,efficiency,514,0,1,0,2,0,0,109000,375,NA,11375,0
+64,co-op,NA,oil,0,eat in,781,1,1,0,4,20,0,212000,NA,NA,11360,0
+19,condo,other,NA,0,eat in,NA,1,1,0,3,0,0,535000,681,1320,11102,0
+42,condo,formal,gas,1,eat in,NA,2,2,0,5,0,0,675000,NA,5400,11360,821
+42,condo,combo,oil,1,eat in,NA,1,1,0,4,0,0,468000,NA,3500,11360,546
+63,co-op,combo,gas,0,eat in,829,2,1,0,4,0,0,220000,NA,NA,11362,0
+64,co-op,combo,oil,0,Combo,986,3,1,0,5,20,0,280000,950,NA,11357,0
+39,condo,formal,gas,1,eat in,NA,3,2,0,6,0,0,533000,1100,3333,11365,238
+64,co-op,combo,oil,0,Combo,1000,2,2,0,5,0,0,370000,1300,NA,11355,0
+62,co-op,formal,other,0,combo,NA,2,2,0,5,0,0,392000,NA,NA,11374,0
+69,co-op,NA,oil,0,efficiency,587,1,1,0,3,0,0,200000,NA,NA,11375,0
+61,co-op,NA,gas,0,efficiency,1459,2,2,0,5,215,0,289550,NA,NA,11415,0
+64,co-op,combo,oil,0,efficiency,655,1,1,0,3,0,0,140000,NA,NA,11415,0
+68,co-op,combo,oil,0,eat in,791,1,1,0,3,0,50,175000,NA,NA,11415,0
+68,co-op,NA,oil,0,efficiency,660,1,1,0,4,0,0,150000,NA,NA,11423,0
+16,condo,combo,gas,0,efficiency,NA,3,2,0,7,0,0,500000,991,373,11373,510
+76,co-op,NA,oil,0,efficiency,963,1,1,0,4,75,0,105000,NA,NA,11435,0
+66,co-op,other,oil,0,eat in,830,3,1,1,5,0,0,270000,1150,NA,11372,0
+69,co-op,combo,gas,0,efficiency,512,1,1,0,3,0,0,130000,NA,NA,11427,0
+40,condo,other,gas,0,eat in,NA,2,1,0,5,0,0,527000,1000,3186,11379,385
+70,co-op,formal,gas,0,efficiency,733,2,1,1,5,20,0,350000,NA,NA,11360,0
+63,co-op,combo,other,0,efficiency,1103,2,1,0,5,0,0,365000,NA,NA,11361,0
+72,co-op,combo,oil,0,efficiency,786,2,1,0,4,0,0,290000,NA,NA,11375,0
+96,co-op,NA,gas,0,eat in,NA,1,1,0,3,0,0,285000,850,NA,11372,0
+64,co-op,NA,gas,0,Combo,855,2,1,0,4,100,0,380000,900,NA,11363,0
+64,co-op,formal,gas,0,efficiency,850,2,2,0,5,0,0,255000,NA,NA,11414,0
+59,co-op,combo,NA,0,eat in,685,1,1,0,3,70,45,175000,750,NA,11385,0
+72,co-op,formal,gas,0,efficiency,500,1,1,0,3,0,0,138000,NA,NA,11357,0
+9,condo,NA,gas,0,eat in,NA,1,1,0,3,0,0,570000,NA,16,11101,406
+9,condo,NA,gas,0,eat in,NA,1,1,0,3,0,0,605000,530,19,11101,468
+69,co-op,combo,gas,0,efficiency,669,1,1,0,4,0,0,175500,NA,NA,11364,0
+64,co-op,formal,gas,0,eat in,845,2,1,0,6,20,0,222500,950,NA,11360,0
+55,co-op,formal,oil,1,eat in,1827,2,2,0,5,135,40,600000,NA,NA,11360,0
+64,co-op,combo,gas,0,eat in,1201,2,1,0,5,26,0,260000,NA,NA,11360,0
+72,co-op,other,gas,0,efficiency,543,1,1,0,3,95,0,220000,NA,NA,11372,0
+94,co-op,other,oil,0,efficiency,857,2,1,0,5,22,0,154000,NA,NA,11414,0
+69,co-op,NA,oil,0,efficiency,664,1,1,0,3,0,0,155000,NA,NA,11362,0
+69,co-op,other,gas,0,efficiency,739,2,1,0,5,0,0,327000,984,NA,11374,0
+74,co-op,combo,gas,0,eat in,576,1,1,0,4,0,0,106000,NA,1127,11422,0
+63,co-op,combo,oil,0,efficiency,813,2,2,0,6,0,0,260000,1200,NA,11368,0
+74,co-op,NA,oil,0,Combo,684,1,1,0,4,0,0,135000,590,NA,11004,0
+79,co-op,NA,oil,0,efficiency,720,2,1,0,4,0,0,124000,702,NA,11413,0
+83,co-op,formal,gas,0,Combo,910,2,1,0,4,0,0,340000,1000,NA,11375,0
+69,co-op,combo,gas,0,Eat In,814,2,1,0,4,0,0,233000,NA,NA,11354,0
+56,co-op,formal,gas,0,efficiency,392,1,1,0,4,0,0,127500,NA,NA,11374,0
+39,condo,combo,gas,0,Combo,NA,1,1,0,3,0,0,440000,689,2776,11355,210
+39,condo,NA,gas,0,efficiency,495,2,1,1,5,0,0,610000,NA,5920,11354,0
+72,co-op,NA,oil,0,efficiency,724,1,1,0,3,100,40,131000,750,NA,11435,0
+74,co-op,combo,oil,0,eat in,846,3,1,0,5,0,0,275000,NA,NA,11362,0
+59,co-op,formal,oil,0,efficiency,733,1,1,0,3,70,0,96000,NA,NA,11414,0
+74,co-op,formal,gas,0,efficiency,601,3,1,0,6,0,0,270000,NA,NA,11364,0
+63,co-op,formal,gas,0,eat in,1118,3,2,0,5,95,0,390000,NA,NA,11362,0
+75,co-op,combo,oil,0,eat in,750,1,1,0,3,125,50,235000,NA,NA,11375,0
+64,co-op,combo,gas,0,efficiency,1124,3,1,0,5,170,0,436000,NA,NA,11374,0
+55,co-op,combo,gas,0,combo,575,1,1,0,4,0,50,145000,NA,NA,11415,0
+75,condo,formal,gas,0,eat in,NA,1,2,0,6,0,0,420000,NA,4300,11364,535
+64,co-op,combo,gas,0,eat in,660,1,1,0,3,0,0,130000,750,NA,11423,0
+35,condo,combo,gas,0,efficiency,NA,2,2,1,8,0,0,420000,1000,1400,11432,305
+60,co-op,formal,oil,0,eat in,860,1,1,0,3,0,45,275000,825,NA,11375,0
+74,co-op,NA,gas,0,eat in,722,1,1,0,3,0,0,237000,NA,NA,11104,0
+54,co-op,NA,gas,0,efficiency,2172,3,2,1,7,80,40,400000,1800,NA,11360,0
+88,co-op,other,gas,0,Eat In,869,1,1,0,3,0,49,235000,1000,NA,11415,0
+9,condo,NA,gas,0,eat in,NA,0,1,0,3,0,0,596000,532,51,11101,461
+69,co-op,combo,gas,0,efficiency,581,1,1,0,3,21,0,155000,NA,NA,11414,0
+74,co-op,NA,oil,0,efficiency,656,1,1,0,4,0,0,145000,586,NA,11361,0
+74,co-op,combo,gas,0,eat in,573,1,1,0,4,0,0,113000,NA,1127,11422,0
+69,co-op,combo,gas,0,Combo,641,2,1,0,4,0,50,162000,NA,NA,11427,0
+60,co-op,formal,gas,0,efficiency,732,2,1,0,5,0,0,145000,NA,NA,11414,0
+63,co-op,combo,gas,0,efficiency,642,1,1,0,3,115,0,160000,NA,NA,11362,0
+88,co-op,NA,oil,0,eat in,452,0,1,0,2,0,0,175000,NA,NA,11377,0
+73,co-op,combo,oil,0,efficiency,638,1,1,0,3,0,0,180000,NA,NA,11367,0
+74,co-op,formal,oil,0,efficiency,746,1,1,0,3,0,0,164000,NA,NA,11367,0
+66,co-op,NA,gas,0,eat in,760,1,1,0,3,80,0,110000,NA,NA,11432,0
+17,condo,combo,gas,1,eat in,NA,2,2,0,4,0,0,476000,863,699,11385,333
+59,co-op,other,gas,0,efficiency,745,1,1,0,3,0,0,100000,NA,NA,11414,0
+74,co-op,formal,oil,0,efficiency,913,2,2,0,4,0,0,217500,NA,NA,11357,0
+33,condo,combo,gas,0,efficiency,NA,1,1,0,3,0,0,235000,NA,1830,11368,293
+54,co-op,combo,gas,0,efficiency,1342,2,2,0,5,135,0,492500,NA,NA,11360,0
+15,condo,combo,gas,0,Eat In,NA,2,2,0,6,0,0,550000,1029,93,11355,317
+74,co-op,formal,oil,0,eat in,720,2,1,0,4,0,40,120000,NA,NA,11423,0
+55,co-op,other,gas,0,eat in,NA,1,1,0,3,0,0,210000,750,NA,11354,595
+72,co-op,combo,oil,1,eat in,815,1,1,0,3,100,0,197500,NA,NA,11375,0
+65,co-op,formal,oil,0,eat in,596,1,1,0,3,0,0,220000,NA,NA,11373,0
+60,co-op,combo,gas,0,combo,NA,1,1,0,3,0,0,283500,NA,NA,11375,0
+61,co-op,combo,oil,1,efficiency,458,1,1,0,2,245,0,173000,NA,NA,11377,0
+70,co-op,other,oil,0,eat in,597,2,1,0,4,0,0,169000,850,NA,11421,0
+84,co-op,combo,oil,0,efficiency,322,1,1,0,3,0,0,143000,NA,NA,11415,0
+73,co-op,combo,oil,0,eat in,849,2,1,0,4,0,0,170000,NA,NA,11369,0
+59,co-op,other,gas,0,efficiency,753,1,1,0,3,0,0,82000,NA,NA,11414,0
+51,condo,combo,electric,1,efficiency,NA,2,1,0,4,0,0,383000,778,2433,11367,498
+74,co-op,combo,gas,0,efficiency,575,1,1,0,4,0,50,165000,NA,NA,11364,0
+74,co-op,other,NA,0,eat in,499,1,1,0,3,0,0,185000,NA,NA,11435,0
+89,co-op,combo,oil,0,eat in,804,1,1,0,3,0,0,409000,NA,NA,11372,0
+74,co-op,NA,oil,0,eat in,475,0,1,0,2,110,50,145000,500,NA,11375,0
+44,condo,formal,gas,0,eat in,NA,3,2,0,6,0,0,590000,NA,2961,11364,287
+42,condo,combo,oil,1,eat in,NA,2,2,0,5,0,0,620000,NA,4775,11360,811
+15,condo,combo,gas,0,Eat In,NA,1,2,0,5,0,0,415000,862,79,11355,269
+74,co-op,NA,oil,0,efficiency,439,0,1,0,1,0,0,150000,400,NA,11372,0
+74,co-op,combo,oil,0,eat in,698,2,1,0,4,0,0,267000,NA,NA,11004,0
+59,co-op,NA,gas,1,combo,1253,1,1,0,4,115,0,397000,NA,NA,11375,0
+74,co-op,other,NA,0,efficiency,495,1,1,0,3,95,0,195000,NA,NA,11375,0
+73,co-op,combo,oil,0,efficiency,1015,3,1,0,5,0,0,225000,NA,NA,11363,0
+72,co-op,other,gas,0,efficiency,559,1,1,0,3,0,0,210000,NA,NA,11372,0
+79,co-op,NA,gas,0,combo,NA,1,1,0,3,0,0,153000,NA,NA,11367,0
+69,co-op,combo,gas,0,eat in,640,1,1,0,3,0,0,170000,NA,NA,11354,0
+82,co-op,combo,oil,1,eat in,829,2,1,0,4,100,0,243000,NA,NA,11367,0
+74,co-op,combo,gas,0,eat in,671,2,1,0,4,0,0,217761,NA,NA,11364,0
+34,condo,NA,gas,0,Combo,NA,1,1,0,5,0,0,439000,650,3630,11354,356
+59,co-op,NA,oil,1,eat in,2757,3,2,0,6,150,32,950000,NA,NA,11375,0
+74,co-op,formal,oil,0,eat in,698,2,1,0,3,0,0,275000,NA,NA,11004,0
+74,co-op,combo,oil,0,eat in,735,1,1,0,3,0,0,132000,700,NA,11360,0
+74,co-op,NA,gas,0,Eat In,539,1,1,0,4,0,0,109500,700,NA,11422,0
+74,co-op,other,gas,0,eat in,765,3,1,0,5,0,0,298000,812,NA,11004,0
+60,co-op,combo,gas,0,Combo,874,1,1,0,3,0,0,285000,NA,NA,11375,0
+59,co-op,formal,oil,0,efficiency,1148,3,1,1,6,50,0,231000,1059,NA,11414,0
+74,co-op,combo,gas,0,eat in,601,2,1,0,4,0,48,218340,NA,NA,11364,0
+18,condo,NA,other,0,efficiency,NA,2,1,1,4,0,0,665000,883,NA,11102,917
+85,co-op,NA,gas,0,efficiency,951,2,1,0,5,0,45,399000,950,NA,11372,0
+68,co-op,formal,gas,0,Combo,1023,2,2,0,5,0,50,350000,1300,NA,11364,0
+109,co-op,formal,oil,0,efficiency,NA,2,1,0,5,0,0,498000,NA,NA,11372,724
+74,co-op,combo,oil,0,eat in,728,1,1,0,3,0,0,89000,NA,NA,11367,0
+89,co-op,NA,gas,0,eat in,523,1,1,0,3,0,0,278000,700,NA,11377,0
+64,co-op,NA,gas,0,eat in,1338,3,2,0,6,120,0,560000,1300,NA,11375,0
+69,co-op,combo,oil,0,eat in,1077,2,2,0,5,90,0,262000,NA,NA,11435,0
+74,co-op,other,gas,0,efficiency,1371,2,1,0,5,75,0,215000,1000,NA,11367,0
+84,co-op,combo,gas,0,eat in,564,1,1,0,3,0,50,170000,600,NA,11374,0
+63,co-op,NA,oil,0,efficiency,543,0,1,0,2,0,0,78000,NA,NA,11432,0
+39,condo,combo,gas,0,Combo,NA,2,2,0,5,0,0,630000,1300,4000,11360,564
+9,condo,combo,gas,0,combo,NA,2,2,0,6,0,0,489000,6215,14,11355,312
+14,condo,other,gas,1,Combo,NA,2,2,0,4,0,0,630000,1172,22,11415,462
+72,co-op,combo,oil,1,combo,857,2,1,0,4,0,50,359888,1000,NA,11375,0
+35,condo,formal,gas,1,Eat In,NA,3,3,0,7,0,0,670000,2050,4800,11356,417
+66,co-op,other,gas,0,efficiency,869,3,1,1,5,500,0,505000,1035,NA,11106,0
+98,co-op,NA,oil,0,efficiency,757,1,1,0,3,0,40,310000,NA,NA,11106,0
+49,co-op,combo,oil,1,efficiency,964,1,1,0,3,88,50,375000,800,NA,11005,0
+72,co-op,NA,gas,0,efficiency,687,1,1,0,4,0,0,176000,NA,NA,11362,0
+96,co-op,combo,oil,0,eat in,775,1,1,0,3,0,0,220000,1000,NA,11415,0
+35,condo,NA,gas,0,eat in,NA,2,1,0,4,0,0,459000,807,8178,11373,480
+15,condo,combo,gas,0,Eat In,NA,2,2,0,6,0,0,565000,1044,91,11355,311
+84,co-op,formal,oil,0,Combo,1498,3,2,2,5,0,50,850000,2000,NA,11375,0
+77,co-op,other,oil,0,efficiency,1098,2,1,0,4,0,40,335000,1000,NA,11372,0
+68,co-op,other,gas,0,eat in,1081,1,1,0,3,100,40,352500,1300,NA,11357,0
+17,condo,combo,gas,0,eat in,NA,2,1,1,5,0,0,405000,850,396,11365,300
+NA,co-op,NA,NA,0,NA,NA,2,1,0,4,0,0,235000,NA,NA,11354,0
+64,co-op,NA,gas,0,eat in,1296,2,2,0,6,20,0,370000,1250,NA,11360,0
+74,co-op,NA,gas,0,combo,634,1,1,0,4,0,0,120000,800,NA,11414,0
+69,co-op,other,oil,0,efficiency,750,1,1,0,3,0,0,128000,NA,750,11357,0
+52,condo,combo,gas,1,eat in,NA,1,1,0,4,99,0,475000,874,4000,11360,626
+70,co-op,combo,gas,0,eat in,779,2,1,0,6,0,25,130000,NA,NA,11423,0
+10,condo,combo,gas,0,eat in,NA,2,2,0,5,0,0,655000,980,70,11372,275
+59,co-op,combo,oil,1,efficiency,487,1,1,0,3,0,35,142000,NA,NA,11435,0
+74,co-op,combo,gas,1,efficiency,655,1,1,0,3,0,0,155000,NA,NA,11364,0
+65,co-op,NA,oil,0,eat in,1210,2,1,0,5,31,0,190000,1100,NA,11360,0
+53,condo,combo,gas,1,eat in,NA,3,1,1,6,0,0,660000,NA,4200,11362,319
+41,condo,formal,gas,0,eat in,NA,1,1,0,3,0,0,408000,NA,2138,11364,187
+37,condo,combo,gas,0,efficiency,NA,3,2,0,6,0,0,460000,1033,3500,11379,405
+66,co-op,combo,oil,0,efficiency,727,1,1,0,3,0,0,160000,800,NA,11435,0
+74,co-op,combo,electric,0,Eat in,735,1,1,0,3,0,0,169000,NA,NA,11367,0
+72,co-op,NA,oil,0,efficiency,676,1,1,0,3,0,0,170000,NA,NA,11358,0
+87,co-op,combo,oil,0,efficiency,397,0,1,0,2,0,0,182000,NA,NA,11372,0
+72,co-op,combo,gas,1,efficiency,671,1,1,0,3,0,0,162000,NA,NA,11365,0
+16,condo,combo,NA,0,eat in,NA,2,2,0,5,0,0,599000,NA,184,11355,0
+38,condo,formal,gas,0,Eat In,NA,1,1,0,4,0,0,475000,750,3370,11360,381
+59,condo,NA,gas,0,efficiency,NA,2,2,0,5,30,0,285000,NA,3550,11414,515
+61,co-op,NA,oil,1,efficiency,612,0,1,0,2,215,0,120000,NA,NA,11415,0
+84,co-op,formal,oil,0,efficiency,1306,3,2,0,5,0,36,490000,NA,NA,11375,0
+66,co-op,other,oil,0,efficiency,606,2,1,1,4,0,0,285000,1000,NA,11372,0
+69,co-op,combo,gas,0,efficiency,670,1,1,0,3,0,50,186500,NA,NA,11364,0
+74,co-op,formal,gas,0,eat in,463,2,1,0,4,9,60,212000,NA,NA,11364,0
+17,condo,formal,gas,0,eat in,NA,2,2,0,6,0,0,495000,1000,200,11365,411
+69,co-op,formal,NA,0,efficiency,1117,2,1,1,5,0,0,505000,NA,NA,11375,0
+74,co-op,NA,oil,0,efficiency,614,1,1,0,3,0,0,125000,NA,NA,11361,0
+59,co-op,formal,gas,0,efficiency,1880,3,3,0,6,0,0,755000,NA,NA,11375,0
+72,co-op,NA,gas,0,efficiency,NA,1,1,0,4,0,0,127000,675,NA,11372,0
+22,condo,NA,gas,0,efficiency,NA,2,2,0,5,0,0,560000,NA,NA,11355,0
+74,co-op,combo,gas,0,eat in,789,3,1,0,5,0,39,301000,856,NA,11004,0
+74,co-op,combo,gas,0,eat in,632,2,1,0,5,0,0,220000,NA,NA,11364,0
+60,condo,formal,oil,0,efficiency,NA,3,2,0,6,30,0,355000,NA,4958,11414,864
+77,co-op,combo,gas,0,eat in,667,1,1,0,4,0,0,220000,800,NA,11374,0
+104,co-op,combo,oil,0,efficiency,592,1,1,0,1,0,50,125000,NA,NA,11375,0
+70,condo,NA,oil,0,eat in,NA,2,2,0,5,0,0,540000,NA,3048,11365,468
+69,co-op,other,gas,0,eat in,558,1,1,0,3,0,0,108000,800,NA,11423,0
+17,condo,combo,gas,0,efficiency,NA,2,2,0,6,0,0,475000,900,240,11365,421
+61,co-op,formal,none,1,eat in,435,1,1,0,2,130,0,160000,NA,NA,11374,0
+34,condo,formal,gas,0,eat in,NA,3,1,0,6,0,0,160000,1000,1024,11433,198
+69,co-op,other,oil,1,Combo,806,2,1,0,5,130,50,276000,NA,NA,11435,0
+61,co-op,combo,gas,0,eat in,661,1,1,0,4,0,0,120000,850,NA,11432,0
+88,co-op,formal,gas,0,efficiency,941,2,1,0,4,0,49,315000,1050,NA,11415,0
+74,co-op,combo,oil,1,eat in,928,2,1,0,5,20,40,238888,800,NA,11357,0
+64,co-op,formal,gas,0,efficiency,673,1,1,0,4,70,40,123000,NA,NA,11414,0
+69,co-op,combo,oil,0,combo,509,0,1,0,2,0,0,119000,NA,NA,11375,0
+64,co-op,combo,oil,0,efficiency,593,1,1,0,4,30,0,124000,NA,NA,11414,0
+68,co-op,NA,gas,0,efficiency,622,1,1,0,3,0,0,275000,800,NA,11375,0
+69,co-op,combo,oil,0,efficiency,913,2,1,0,4,0,0,380000,NA,NA,11375,0
+70,co-op,combo,gas,1,eat in,706,1,1,0,4,85,50,125000,NA,NA,11432,0
+89,co-op,formal,gas,0,Combo,523,1,1,0,4,0,0,281000,NA,NA,11377,0
+74,co-op,formal,oil,0,efficiency,913,2,1,0,4,0,40,219000,NA,NA,11357,0
+74,co-op,formal,gas,0,efficiency,1299,3,1,0,6,0,50,286000,NA,NA,11367,0
+64,co-op,combo,gas,0,eat in,783,3,1,0,6,0,0,272000,NA,NA,11421,0
+64,co-op,combo,gas,0,efficiency,722,2,1,0,4,0,0,247000,NA,NA,11378,0
+33,condo,combo,gas,0,Combo,NA,1,1,0,3,0,0,247000,NA,1830,11368,294
+64,co-op,formal,gas,0,eat in,1444,2,2,0,5,26,0,319000,1200,NA,11360,0
+87,co-op,formal,gas,0,combo,773,1,1,0,4,0,0,157000,NA,NA,11367,0
+69,co-op,combo,gas,0,combo,644,2,1,0,4,0,50,155000,NA,NA,11427,0
+80,co-op,NA,gas,0,efficiency,519,0,1,0,1,0,50,150000,500,NA,11375,0
+86,co-op,formal,oil,0,efficiency,789,2,1,0,4,0,0,257000,NA,NA,11415,0
+32,condo,combo,gas,1,efficiency,NA,2,1,0,4,150,0,332000,NA,1660,11368,261
+9,condo,combo,gas,0,eat in,NA,2,2,0,6,0,0,648000,977,36,11374,240
+64,co-op,formal,oil,0,efficiency,731,2,1,0,4,20,0,130000,NA,NA,11414,0
+42,condo,NA,oil,0,efficiency,NA,2,1,0,5,0,0,550000,NA,4317,11360,645
+98,co-op,NA,oil,0,eat in,768,1,1,0,3,0,40,325000,NA,NA,11106,0
+39,condo,combo,gas,0,eat in,155,3,2,0,7,0,0,680000,NA,5415,11360,564
+74,co-op,combo,gas,0,eat in,NA,1,1,0,4,0,0,103500,NA,NA,11422,0
+51,condo,NA,electric,0,combo,498,2,1,0,4,0,0,452000,778,2287,11367,105
+94,co-op,other,oil,0,eat in,559,1,1,0,3,0,0,255000,NA,NA,11374,0
+74,co-op,formal,NA,0,efficiency,560,1,1,0,3,0,0,205000,NA,NA,11367,0
+64,co-op,NA,gas,0,Combo,NA,1,1,0,3,0,0,185000,NA,NA,11415,645
+72,co-op,other,oil,0,efficiency,906,2,1,0,4,130,0,415000,NA,NA,11375,0
+54,co-op,NA,gas,0,efficiency,1250,1,1,0,3,135,0,344000,NA,NA,11360,0
+74,co-op,combo,gas,0,efficiency,815,2,1,0,5,0,0,239000,NA,NA,11364,0
+51,condo,combo,electric,1,efficiency,NA,2,1,0,4,0,0,480000,870,3490,11367,670
+73,co-op,NA,other,1,Combo,647,1,1,0,3,133,50,280000,NA,NA,11372,0
+86,co-op,other,gas,1,Combo,435,0,1,0,2,0,0,135500,NA,NA,11375,0
+64,co-op,combo,gas,0,efficiency,550,1,1,0,3,0,0,66000,NA,NA,11414,0
+54,co-op,NA,gas,0,NA,773,1,1,0,3,120,0,185000,NA,NA,11432,0
+74,co-op,other,gas,0,Combo,644,2,1,0,4,0,0,155000,571,NA,11427,0
+73,co-op,formal,gas,0,combo,NA,2,1,0,5,0,0,207000,NA,NA,11427,700
+72,co-op,formal,gas,0,efficiency,536,1,1,0,3,0,0,179000,600,NA,11354,0
+63,co-op,other,none,0,eat in,NA,1,1,0,3,0,0,225000,NA,NA,11104,648
+42,condo,combo,oil,1,eat in,NA,2,2,0,5,95,0,635000,1050,3800,11360,756
+50,co-op,combo,gas,1,efficiency,656,1,1,0,3,87,50,289000,630,NA,11005,0
+73,co-op,combo,gas,0,efficiency,NA,2,1,0,4,0,0,155000,NA,NA,11427,644
+74,co-op,combo,oil,0,efficiency,805,1,1,0,3,0,0,167000,NA,NA,11357,0
+103,co-op,combo,gas,0,Combo,789,2,1,0,5,0,0,290000,NA,NA,11105,0
+59,co-op,NA,oil,0,efficiency,397,0,1,0,2,0,0,55000,NA,NA,11414,0
+64,co-op,NA,gas,0,efficiency,687,1,1,0,3,0,0,140000,NA,NA,11414,0
+69,co-op,combo,gas,0,efficiency,739,1,1,0,3,0,0,168000,NA,NA,11362,0
+69,co-op,formal,gas,0,efficiency,824,2,1,0,5,0,0,238000,950,NA,11354,0
+74,co-op,other,gas,0,eat in,765,2,1,0,5,0,39,330000,NA,NA,11004,0
+71,co-op,combo,oil,0,efficiency,722,1,1,0,3,0,35,181500,NA,NA,11362,0
+41,condo,combo,gas,0,eat in,NA,1,1,0,7,0,0,640000,NA,3144,11360,667
+74,co-op,formal,oil,0,efficiency,670,1,1,0,4,100,0,198800,NA,NA,11367,0
+86,condo,NA,oil,0,efficiency,NA,1,1,0,2,0,0,420000,778,3316,11375,508
+60,co-op,formal,gas,0,combo,1729,3,2,0,5,0,0,686000,NA,NA,11375,0
+60,co-op,formal,gas,0,combo,1729,3,2,0,5,0,0,686000,NA,NA,11375,0
+49,co-op,NA,oil,1,eat in,2292,3,2,1,7,168,50,820000,1950,NA,11005,0
+96,co-op,combo,oil,0,eat in,790,1,1,0,3,0,48,175000,NA,NA,11357,0
+74,co-op,formal,oil,0,efficiency,994,2,1,0,5,0,0,265000,NA,NA,11362,0
+72,co-op,NA,gas,1,Eat In,1464,3,2,0,6,73,0,585000,1379,NA,11375,0
+61,co-op,formal,oil,0,efficiency,763,2,1,0,5,0,0,132000,NA,NA,11414,0
+58,condo,combo,NA,0,efficiency,512,1,1,0,3,0,0,259000,NA,2220,11414,0
+74,co-op,combo,gas,0,efficiency,595,1,1,0,3,125,46,235000,743,NA,11375,0
+17,condo,formal,electric,0,Combo,NA,2,2,0,7,0,0,565000,1075,200,11354,259
+46,condo,combo,NA,0,efficiency,NA,1,1,0,3,0,0,298000,657,2037,11379,210
+60,co-op,other,gas,1,efficiency,864,1,1,0,3,0,0,330000,NA,NA,11375,0
+74,co-op,NA,oil,0,efficiency,497,1,1,0,3,0,0,177677,NA,NA,11004,0
+74,co-op,combo,gas,1,Eat In,870,2,1,0,4,120,0,230000,NA,NA,11367,0
+69,co-op,combo,oil,0,efficiency,658,1,1,0,3,0,0,175000,NA,NA,11367,0
+74,co-op,formal,oil,1,eat in,1493,3,2,0,8,71,0,690000,NA,NA,11375,0
+74,co-op,formal,gas,1,eat in,801,2,1,0,4,85,0,355000,1100,NA,11355,0
+72,co-op,NA,gas,0,NA,540,1,1,0,4,45,40,130000,670,NA,11369,0
+72,co-op,NA,gas,0,eat in,825,2,1,0,4,150,0,315000,NA,NA,11374,0
+73,co-op,formal,oil,0,efficiency,714,1,1,0,3,0,0,170000,760,NA,11369,0
+66,co-op,combo,oil,0,eat in,837,1,1,0,3,60,39,246000,NA,NA,11357,0
+74,co-op,NA,oil,0,efficiency,664,1,1,0,3,0,0,189000,NA,NA,11362,0
+69,co-op,NA,gas,0,Combo,546,1,1,0,3,0,50,155500,NA,NA,11364,0
+54,co-op,combo,oil,1,efficiency,811,0,1,0,2,135,48,240000,NA,NA,11360,0
+72,co-op,combo,oil,0,efficiency,723,1,1,0,4,100,0,145000,NA,NA,11435,0
+37,condo,combo,gas,0,Eat In,NA,2,2,0,4,225,0,470000,1096,2600,11415,243
+66,co-op,combo,oil,0,efficiency,814,1,1,0,3,0,0,129000,NA,NA,11432,0
+74,co-op,combo,oil,0,efficiency,679,1,1,0,3,0,0,172000,NA,NA,11426,0
+69,co-op,combo,gas,1,eat in,601,2,1,0,4,0,0,222000,NA,NA,11364,0
+75,co-op,combo,oil,0,eat in,956,2,1,0,5,0,0,273000,950,NA,11357,0
+85,co-op,NA,oil,0,eat in,723,1,1,0,3,0,0,255960,800,NA,11375,0
+69,co-op,combo,gas,0,eat in,666,1,1,0,3,125,0,117000,770,NA,11423,0
+69,co-op,combo,oil,1,efficiency,592,1,1,0,3,150,50,232500,750,NA,11374,0
+66,co-op,formal,gas,0,eat in,830,3,1,0,6,20,0,347000,NA,NA,11360,0
+74,co-op,NA,gas,0,efficiency,376,1,1,0,3,100,0,120000,NA,NA,11364,0
+67,co-op,combo,oil,0,Combo,661,1,1,0,3,0,50,235000,NA,NA,11374,0
+70,co-op,combo,oil,0,eat in,706,2,1,0,4,0,0,136000,NA,NA,11427,0
+39,condo,other,gas,0,Eat In,NA,1,1,0,4,0,0,469000,750,2800,11360,500
+71,co-op,NA,gas,1,efficiency,NA,2,1,0,4,100,0,115000,700,NA,11368,854
+54,co-op,formal,oil,0,eat in,711,2,1,0,5,0,0,180000,NA,NA,11421,0
+68,co-op,combo,gas,0,eat in,NA,2,1,0,6,0,0,430000,1500,NA,11355,0
+60,co-op,NA,oil,1,efficiency,1117,2,2,0,5,0,0,525000,1300,NA,11375,0
+77,co-op,combo,gas,0,efficiency,497,1,1,0,3,0,0,189000,NA,NA,11004,0
+66,co-op,combo,gas,0,efficiency,650,2,1,1,4,0,0,280000,NA,NA,11372,0
+38,condo,formal,gas,1,eat in,NA,3,2,0,6,0,0,540000,NA,3230,11365,397
+56,co-op,NA,gas,0,efficiency,649,1,1,0,3,0,0,116000,800,NA,11368,0
+71,co-op,formal,oil,0,combo,765,2,1,0,4,0,0,360000,NA,NA,11355,0
+96,co-op,combo,oil,0,eat in,880,2,1,0,5,0,0,395000,NA,NA,11363,0
+64,co-op,combo,NA,0,eat in,711,1,1,0,3,0,0,245000,850,NA,11355,0
+95,co-op,combo,oil,0,eat in,902,1,1,0,4,0,50,174000,NA,NA,11415,0
+37,condo,combo,gas,0,NA,NA,1,1,0,3,0,0,328000,NA,4613,11355,373
+71,co-op,NA,oil,0,efficiency,651,1,1,0,3,0,0,158000,NA,NA,11362,0
+15,condo,combo,gas,0,Combo,NA,2,2,0,4,0,0,520000,NA,744,11373,390
+72,co-op,formal,oil,1,eat in,1414,3,2,1,7,0,0,500000,NA,NA,11374,0
+74,co-op,combo,gas,0,efficiency,985,2,1,0,5,0,0,262000,NA,NA,11361,0
+76,co-op,combo,oil,0,efficiency,567,1,1,0,3,0,40,158000,550,NA,11367,0
+74,co-op,formal,oil,1,combo,591,1,1,0,3,120,40,147000,850,NA,11415,0
+70,co-op,NA,oil,0,efficiency,412,0,1,0,2,0,50,147000,NA,NA,11374,0
+59,co-op,combo,gas,0,efficiency,708,1,1,0,3,0,0,222000,NA,NA,11375,0
+76,condo,combo,oil,0,eat in,NA,1,1,0,3,0,0,415500,743,234,11104,308
+76,co-op,combo,gas,0,Combo,1312,2,1,0,5,75,0,240000,NA,NA,11432,0
+72,co-op,combo,gas,0,Eat In,770,3,1,0,5,0,0,265000,NA,NA,11354,0
+73,co-op,combo,oil,0,eat in,465,0,1,0,2,0,0,175000,NA,NA,11377,0
+72,condo,combo,oil,0,eat in,NA,2,1,0,4,0,0,499888,801,3524,11365,391
+NA,co-op,NA,gas,0,eat in,494,0,1,0,3,0,0,210000,NA,NA,11372,0
+54,co-op,NA,oil,1,efficiency,1147,1,1,0,4,135,0,400000,NA,NA,11360,0
+34,condo,NA,gas,0,Combo,NA,1,1,0,3,0,0,365000,610,1748,11373,192
+19,condo,combo,gas,0,eat in,NA,2,2,0,3,0,0,440000,900,625,11385,457
+23,condo,combo,gas,0,efficiency,NA,2,2,0,5,0,0,450000,NA,1421,11379,503
+83,co-op,formal,oil,0,eat in,594,1,1,0,3,0,0,305000,NA,NA,11372,0
+63,co-op,formal,gas,0,Combo,1361,2,2,0,5,0,41,500000,1150,NA,11361,0
+74,co-op,formal,oil,0,efficiency,788,1,1,0,3,0,0,167500,NA,NA,11367,0
+69,co-op,other,oil,1,eat in,673,1,1,0,3,120,50,260000,NA,NA,11375,0
+49,co-op,NA,electric,1,efficiency,1381,1,1,1,4,87,50,490000,1010,NA,11005,0
+83,co-op,combo,oil,1,eat in,1149,2,1,0,5,0,42,269000,NA,NA,11363,0
+66,co-op,combo,oil,1,efficiency,740,1,1,0,3,70,50,158000,750,NA,11435,0
+74,co-op,combo,gas,0,efficiency,676,1,1,0,3,0,52,155000,NA,NA,11361,0
+74,co-op,combo,oil,1,efficiency,706,2,1,0,5,45,0,263000,998,NA,11370,0
+74,co-op,dining area,oil,0,efficiency,780,1,1,0,3,0,0,190000,NA,NA,11357,0
+NA,co-op,other,NA,0,1955,763,2,1,0,6,0,0,325000,NA,NA,11373,0
+62,co-op,formal,gas,0,Combo,2047,2,2,0,5,133,0,575000,1650,NA,11357,0
+63,co-op,combo,gas,0,efficiency,695,1,1,0,3,0,0,155000,NA,NA,11362,0
+64,co-op,NA,oil,0,efficiency,544,1,1,0,3,14,0,130000,NA,NA,11414,0
+59,co-op,combo,oil,0,eat in,708,2,1,0,4,21,0,150000,NA,NA,11414,0
+73,co-op,combo,oil,0,efficiency,949,2,1,0,5,0,0,210000,NA,NA,11357,0
+16,condo,NA,gas,0,NA,NA,2,2,0,4,0,0,545000,898,2148,11377,271
+16,condo,combo,gas,0,Combo,NA,2,2,0,6,0,0,568000,700,663,11377,359
+20,condo,formal,gas,0,eat in,NA,1,2,0,4,0,0,470000,800,1300,11355,289
+75,co-op,combo,oil,0,eat in,637,2,1,0,4,0,0,225000,NA,NA,11364,0
+17,condo,other,gas,0,efficiency,NA,1,1,0,4,0,0,380000,NA,1500,11379,230
+72,condo,NA,NA,0,eat in,NA,2,1,0,5,0,0,428500,NA,3084,11365,390
+64,condo,NA,gas,0,efficiency,NA,1,1,1,5,0,0,438000,NA,2800,11362,426
+71,co-op,NA,gas,0,efficiency,661,1,1,0,3,85,50,134000,575,NA,11432,0
+51,co-op,combo,electric,1,efficiency,570,0,1,0,2,185,50,159000,550,NA,11375,0
+76,co-op,combo,gas,0,Combo,630,2,1,0,5,0,0,240000,800,NA,11004,0
+14,condo,combo,gas,0,efficiency,NA,2,2,0,4,0,0,585000,763,163,11374,309
+50,co-op,combo,gas,0,efficiency,601,0,1,0,2,0,0,125000,NA,NA,11415,0
+70,co-op,NA,gas,0,eat in,996,2,1,0,4,172,0,449000,NA,NA,11375,0
+59,condo,NA,gas,0,efficiency,NA,1,1,0,4,30,0,174000,NA,2982,11414,358
+74,co-op,dining area,oil,0,efficiency,756,1,1,0,3,0,0,165500,NA,NA,11357,0
+84,co-op,combo,gas,0,combo,905,2,1,0,4,0,0,225000,NA,NA,11367,0
+49,co-op,formal,oil,0,eat in,2250,2,2,1,5,88,50,730000,1500,NA,11005,0
+69,co-op,formal,gas,0,combo,644,2,1,0,4,0,50,155000,NA,NA,11427,0
+42,condo,combo,gas,0,eat in,NA,2,3,0,7,0,0,790000,1419,5807,11360,0
+NA,co-op,combo,gas,0,efficiency,626,1,1,0,3,0,0,228000,750,NA,11375,0
+64,co-op,combo,gas,0,eat in,480,0,1,0,2,0,0,151500,NA,NA,11354,0
+36,condo,combo,gas,0,combo,NA,2,1,1,5,0,0,555000,NA,6224,11354,626
+59,co-op,formal,gas,1,efficiency,1154,2,1,0,5,0,50,518000,1100,NA,11375,0
+42,condo,combo,gas,1,efficiency,NA,1,2,0,4,0,0,200000,NA,1948,11417,275
+74,co-op,combo,oil,0,eat in,810,2,1,0,4,0,0,248500,NA,NA,11362,0
+60,co-op,combo,gas,0,combo,667,1,1,0,3,0,0,265000,NA,NA,11375,0
+74,co-op,other,gas,0,combo,NA,2,1,0,4,0,0,295000,1000,NA,11372,715
+29,condo,combo,gas,0,efficiency,344,2,2,0,5,0,0,588000,1137,2780,11362,0
+10,condo,combo,gas,0,eat in,340,2,2,0,5,0,0,600000,870,9300,11355,340
+16,condo,combo,electric,0,efficiency,NA,1,1,0,4,0,0,455000,NA,111,11354,212
+82,co-op,formal,oil,0,eat in,1059,2,1,0,5,0,0,479000,NA,NA,11375,0
+71,co-op,combo,oil,1,eat in,877,2,1,0,4,0,0,106000,NA,NA,11368,0
+69,co-op,formal,oil,1,eat in,701,1,1,0,3,35,0,185000,NA,NA,11354,0
+16,condo,NA,gas,0,Combo,NA,2,1,0,4,0,0,555000,900,1152,11357,480
+17,condo,combo,NA,0,eat in,NA,2,2,0,6,0,0,612500,NA,13,11354,289
+67,co-op,combo,oil,0,eat in,869,1,1,0,3,0,0,248000,850,NA,11355,0
+74,co-op,combo,gas,0,efficiency,849,2,1,0,5,0,0,270000,NA,NA,11362,0
+18,condo,NA,gas,0,efficiency,NA,1,1,0,3,0,0,295500,450,11,11355,148
+56,condo,formal,gas,0,eat in,NA,2,2,0,5,80,0,639000,1100,3409,11354,533
+17,condo,combo,NA,0,Combo,NA,1,1,0,3,0,0,875000,752,89,11101,978
+74,co-op,combo,oil,0,efficiency,382,0,1,0,2,0,0,185000,550,NA,11373,0
+56,co-op,formal,gas,1,Eat in,2004,3,2,0,6,0,35,767000,1500,NA,11375,0
+59,co-op,formal,gas,0,efficiency,981,1,1,0,4,0,50,310000,NA,NA,11375,0
+59,co-op,formal,gas,0,eat in,2100,3,2,1,8,0,40,435000,NA,NA,11360,0
+66,co-op,combo,gas,0,eat in,1000,1,1,0,3,0,0,252500,NA,NA,11357,0
+74,co-op,combo,gas,1,Combo,503,1,1,0,3,125,0,142000,750,NA,11435,0
+60,co-op,combo,gas,0,eat in,848,2,1,0,4,120,0,338888,NA,NA,11375,0
+72,co-op,formal,oil,1,eat in,817,1,1,0,3,125,45,220000,750,NA,11375,0
+66,co-op,other,gas,0,efficiency,709,2,1,0,4,500,0,410000,875,NA,11106,0
+39,condo,combo,gas,1,eat in,NA,3,2,1,7,0,0,580000,1633,3329,11356,590
+15,condo,combo,gas,0,eat in,NA,2,2,0,4,0,0,480000,741,686,11373,315
+71,co-op,combo,gas,1,efficiency,1037,2,2,0,6,0,0,321500,1100,NA,11364,0
+53,condo,combo,gas,1,NA,NA,3,2,1,6,0,0,687000,NA,4200,11362,324
+75,condo,NA,oil,0,efficiency,NA,2,1,0,4,0,0,445000,821,2475,11370,496
+97,condo,combo,oil,0,eat in,NA,1,1,0,3,0,0,445000,712,231,11377,353
+98,condo,NA,oil,0,eat in,NA,3,2,0,6,0,0,830000,2000,5359,11355,821
+103,co-op,formal,oil,0,efficiency,689,2,1,0,5,0,0,575000,NA,NA,11372,0
+63,co-op,combo,gas,0,efficiency,642,1,1,0,4,95,0,168000,NA,NA,11362,0
+74,co-op,NA,oil,0,efficiency,786,1,1,0,3,0,0,155000,NA,NA,11357,0
+74,co-op,NA,gas,0,eat in,585,1,1,0,3,0,0,199900,NA,NA,11004,0
+59,co-op,combo,gas,1,efficiency,1108,2,1,0,4,115,0,435000,1000,NA,11375,0
+96,co-op,NA,NA,0,eat in,872,2,1,0,4,0,0,432000,900,NA,11372,0
+84,co-op,combo,oil,0,efficiency,854,3,1,0,5,0,50,268000,975,NA,11367,0
+8,condo,combo,gas,0,Combo,NA,2,1,1,4,0,0,471800,787,13,11415,293
+65,co-op,formal,gas,0,efficiency,713,2,1,0,5,0,0,155000,NA,NA,11414,0
+74,co-op,NA,oil,0,efficiency,852,1,1,0,3,0,0,113000,NA,NA,11435,0
+63,co-op,formal,oil,0,efficiency,707,1,1,0,3,0,0,200000,750,NA,11363,0
+14,condo,combo,gas,0,combo,NA,2,2,0,4,200,0,580000,889,227,11355,312
+59,co-op,combo,gas,0,efficiency,520,1,1,0,2,0,0,89000,NA,NA,11414,0
+73,co-op,combo,oil,0,efficiency,714,1,1,0,3,0,0,178000,NA,NA,11354,0
+74,co-op,NA,gas,0,efficiency,721,1,1,0,4,0,0,151000,NA,NA,11358,0
+9,condo,combo,gas,0,eat in,NA,3,2,0,7,0,0,905000,1400,360,11105,220
+37,condo,other,gas,0,efficiency,NA,2,2,0,5,0,0,625000,1000,3936,11355,635
+27,condo,combo,gas,0,eat in,NA,1,1,0,3,0,0,403800,NA,254,11354,195
+95,condo,combo,oil,0,efficiency,NA,1,1,0,3,0,0,410000,858,2726,11372,395
+61,co-op,NA,gas,0,efficiency,740,1,1,0,3,0,0,152500,NA,NA,11414,0
+63,co-op,NA,gas,0,efficiency,571,0,1,0,3,95,0,134000,NA,NA,11362,0
+74,co-op,combo,gas,0,combo,830,2,1,0,4,0,0,226000,NA,NA,11364,0
+69,co-op,other,oil,0,eat in,477,2,1,1,6,90,0,290000,950,NA,11372,0
+88,co-op,formal,gas,0,Eat In,1154,2,2,0,6,0,0,415000,1300,NA,11415,0
+73,co-op,formal,oil,1,efficiency,658,1,1,0,4,100,0,200000,NA,NA,11367,0
+82,condo,formal,gas,0,Combo,NA,1,1,0,4,0,0,520000,970,2700,11372,368
+64,co-op,combo,oil,0,efficiency,663,1,1,0,3,0,0,95000,NA,NA,11414,0
+64,co-op,formal,oil,0,eat in,520,1,1,0,4,0,0,150000,NA,NA,11421,0
+69,co-op,combo,oil,0,Combo,796,1,1,0,4,0,0,175000,780,NA,11415,0
+59,co-op,formal,oil,1,efficiency,1131,1,1,0,4,115,50,430000,NA,NA,11375,0
+63,co-op,combo,gas,0,efficiency,676,1,1,0,3,95,0,163000,NA,NA,11362,0
+84,co-op,other,Other,0,Combo,821,1,1,0,3,0,50,430000,918,NA,11372,0
+74,co-op,combo,gas,0,efficiency,616,1,1,0,3,0,0,210000,NA,NA,11004,0
+61,co-op,other,oil,0,eat in,820,2,1,0,4,0,50,250000,850,NA,11361,0
+61,co-op,combo,oil,0,efficiency,401,0,1,0,3,0,0,162500,NA,NA,11374,0
+69,co-op,other,oil,1,efficiency,995,2,1,0,4,0,50,410000,1000,NA,11375,0
+71,co-op,formal,oil,0,eat in,996,2,1,0,5,0,35,280000,NA,NA,11362,0
+89,co-op,formal,oil,0,eat in,795,1,1,0,4,0,0,180000,800,NA,11432,0
+8,condo,combo,gas,0,eat in,NA,1,1,0,3,0,0,293000,477,106,11355,153
+8,condo,combo,gas,0,eat in,NA,1,1,0,3,0,0,250000,541,120,11355,173
+18,condo,combo,gas,0,eat in,NA,2,2,0,4,0,0,438000,NA,248,11373,250
+84,co-op,other,other,0,combo,1088,2,1,0,4,0,50,572500,980,NA,11372,0
+61,condo,combo,gas,0,Combo,NA,0,1,0,2,0,0,288888,NA,2617,11367,285
+37,condo,combo,other,1,efficiency,NA,2,1,1,5,0,0,380000,906,4920,11374,687
+35,condo,formal,gas,0,Eat In,NA,3,2,0,6,0,0,600000,NA,4549,11356,0
+74,co-op,combo,gas,0,eat in,676,1,1,0,3,0,0,159000,NA,NA,11426,0
+64,co-op,formal,gas,0,efficiency,713,2,1,0,5,0,0,132000,NA,NA,11414,0
+64,co-op,combo,oil,0,eat in,901,1,1,0,3,0,57,203000,800,NA,11363,0
+74,co-op,formal,gas,1,Eat In,678,1,1,0,3,150,50,290000,NA,NA,11375,0
+19,condo,combo,gas,0,efficiency,NA,2,2,0,4,0,0,512000,943,NA,11385,531
+71,co-op,combo,oil,0,efficiency,748,1,1,0,4,0,0,79000,650,NA,11368,0
+77,co-op,formal,gas,0,efficiency,1366,2,1,0,5,75,0,223000,NA,NA,11415,0
+68,co-op,combo,gas,1,eat in,595,1,1,0,3,145,20,205000,NA,NA,11375,0
+64,co-op,combo,oil,0,eat in,679,0,1,0,3,0,0,175000,500,NA,11375,0
+62,co-op,NA,gas,0,eat in,949,1,1,0,4,62,40,300000,750,NA,11361,0
+40,condo,combo,none,1,efficiency,NA,1,1,0,4,0,0,510000,NA,3305,11360,462
+74,co-op,NA,oil,0,eat in,713,1,1,0,3,0,0,219000,NA,NA,11375,0
+82,condo,combo,gas,0,efficiency,NA,2,1,0,4,0,0,530000,922,3866,11372,345
+66,co-op,formal,gas,0,efficiency,733,2,1,0,5,20,0,308000,NA,NA,11360,0
+74,co-op,combo,oil,0,eat in,646,2,1,0,4,0,0,230000,NA,NA,11364,0
+63,co-op,combo,gas,0,efficiency,666,1,1,0,4,0,0,148000,NA,NA,11362,0
+59,co-op,NA,gas,1,combo,1448,2,2,0,4,140,0,625000,NA,NA,11375,0
+59,co-op,NA,gas,1,Combo,1448,2,2,0,4,140,0,625000,NA,NA,11375,0
+69,co-op,other,oil,1,eat in,777,2,1,0,4,0,50,369000,NA,NA,11375,0
+60,co-op,combo,gas,0,Combo,885,1,1,0,3,0,0,275000,NA,NA,11375,0
+74,co-op,formal,gas,0,eat in,783,2,1,0,4,0,0,324000,NA,NA,11372,0
+63,co-op,combo,gas,1,efficiency,880,1,1,0,4,0,0,103000,NA,NA,11432,0
+50,co-op,formal,oil,0,efficiency,1141,2,1,0,5,115,50,388000,950,NA,11415,0
+86,co-op,other,NA,1,efficiency,710,1,1,0,3,0,0,245000,NA,NA,11375,0
+76,co-op,other,NA,0,combo,520,1,1,0,2,0,0,175000,NA,NA,11375,0
+76,co-op,NA,NA,0,Combo,520,0,1,0,2,0,0,175000,NA,NA,11375,0
+13,condo,combo,gas,0,efficiency,NA,1,1,0,3,0,0,720000,NA,150,11354,560
+64,co-op,combo,gas,0,eat in,NA,2,1,0,5,55,0,265000,NA,NA,11364,829
+69,co-op,NA,gas,0,eat in,801,3,1,0,5,0,65,215000,NA,NA,11427,0
+63,condo,combo,gas,0,Combo,1251,1,1,0,5,0,0,420000,NA,1521,11355,312
+61,co-op,NA,gas,1,Combo,1093,1,1,0,4,0,0,179000,NA,NA,11415,0
+16,condo,combo,gas,1,Combo,NA,2,2,0,4,0,0,740000,831,241,11102,240
+86,co-op,NA,gas,0,efficiency,679,1,1,0,3,139,20,190000,NA,NA,11377,0
+62,co-op,combo,gas,0,eat in,NA,0,1,0,3,0,0,180000,630,NA,11361,0
+69,co-op,formal,gas,0,efficiency,957,3,1,0,6,0,0,310000,NA,NA,11362,0
+60,co-op,other,oil,0,efficiency,865,2,1,0,5,0,50,390000,NA,5700,11363,0
+70,co-op,formal,gas,1,combo,678,1,1,0,6,85,45,135000,NA,NA,11432,0
+NA,co-op,combo,gas,0,eat in,540,1,1,0,3,0,0,240000,NA,NA,11358,0
+74,co-op,formal,gas,1,eat in,NA,2,1,0,5,86,0,300000,NA,307,11364,429
+42,condo,formal,gas,0,Combo,650,1,1,1,4,99,0,617000,950,4000,11360,0
+66,co-op,formal,NA,1,efficiency,685,2,1,0,4,0,38,255000,950,NA,11369,0
+NA,co-op,NA,gas,0,eat in,746,2,1,0,4,0,0,258000,NA,NA,11364,0
+74,co-op,NA,oil,0,eat in,879,2,1,0,4,0,0,254000,NA,NA,11357,0
+60,co-op,combo,oil,0,efficiency,986,2,1,0,4,0,57,250000,NA,NA,11362,0
+64,co-op,formal,NA,0,eat in,1008,2,1,0,5,20,0,315000,1200,NA,11360,0
+49,co-op,formal,gas,1,eat in,4659,3,3,1,6,145,50,999999,2489,NA,11005,0
+38,condo,combo,gas,1,eat in,NA,3,2,1,7,0,0,576000,1633,3000,11356,590
+42,condo,formal,gas,0,eat in,NA,2,2,0,5,0,0,725000,NA,4012,11360,727
+64,co-op,NA,gas,0,eat in,1325,2,2,0,5,26,0,305000,1200,NA,11360,0
+35,condo,NA,electric,1,efficiency,NA,2,2,0,6,0,0,650000,886,2580,11102,534
+74,co-op,NA,gas,0,eat in,673,1,1,0,3,0,0,157000,NA,NA,11362,0
+8,condo,combo,gas,0,efficiency,NA,1,1,0,2,0,0,701888,765,4474,11354,0
+82,condo,NA,gas,0,eat in,NA,1,1,0,3,0,0,425000,679,1783,11370,470
+47,condo,NA,gas,0,efficiency,NA,0,1,0,2,80,0,129700,NA,1216,11414,191
+12,condo,NA,gas,0,combo,NA,2,2,0,5,0,0,650000,990,100,11361,300
+74,co-op,combo,gas,0,efficiency,713,1,1,0,4,0,0,195500,NA,NA,11364,0
+8,condo,NA,gas,0,Combo,NA,1,1,0,4,0,0,775000,NA,28,11102,438
+66,co-op,formal,gas,0,eat in,1700,3,2,0,6,100,0,700000,2200,NA,11357,0
+74,co-op,combo,gas,0,efficiency,448,1,1,0,3,0,0,130000,NA,NA,11421,0
+72,co-op,formal,gas,0,eat in,989,2,1,0,5,0,0,293800,NA,NA,11362,0
+36,condo,combo,gas,1,combo,NA,1,1,0,3,50,0,485000,NA,2224,11374,490
+35,condo,NA,electric,0,efficiency,NA,0,1,0,2,0,0,385000,NA,1042,11102,327
+55,co-op,combo,gas,1,efficiency,736,1,1,0,3,135,0,245000,700,NA,11360,0
+17,condo,NA,other,0,Combo,NA,1,1,0,3,0,25,480000,2338,25,11101,218
+102,co-op,formal,gas,0,efficiency,885,3,2,0,6,0,25,692000,1300,NA,11372,0
+102,co-op,formal,gas,0,efficiency,885,3,2,0,6,0,25,692000,1300,NA,11372,0
+21,condo,formal,gas,0,efficiency,NA,2,2,0,5,30,0,465000,NA,945,11417,426
+69,co-op,NA,gas,0,efficiency,418,1,1,0,2,0,0,159500,NA,NA,11375,0
+64,co-op,combo,oil,0,efficiency,639,1,1,0,4,0,0,164900,730,NA,11367,0
+32,condo,formal,gas,1,eat in,NA,1,1,0,4,100,0,375000,735,2800,11368,345
+66,co-op,combo,NA,0,efficiency,NA,1,1,0,3,0,0,180000,NA,NA,11372,0
+74,co-op,NA,gas,0,efficiency,687,1,1,0,3,0,0,186000,NA,NA,11362,0
+69,co-op,combo,gas,0,eat in,775,1,1,0,3,0,0,169000,NA,NA,11354,0
+61,condo,formal,oil,0,efficiency,NA,1,1,0,3,0,0,280000,544,2178,11367,248
+73,co-op,formal,oil,0,eat in,796,2,1,0,5,0,0,350000,850,NA,11372,0
+64,co-op,NA,gas,0,eat in,1607,3,2,0,6,26,0,360000,1500,NA,11360,0
+68,co-op,combo,oil,0,eat in,627,1,1,0,3,0,0,230000,NA,NA,11367,0
+69,co-op,combo,gas,1,efficiency,850,2,1,0,4,72,50,350000,900,NA,11375,0
+73,co-op,combo,gas,0,efficiency,815,2,1,0,3,0,0,235000,NA,NA,11354,0
+104,co-op,NA,gas,0,combo,800,2,1,0,4,0,0,275000,1000,NA,11415,0
+71,co-op,combo,oil,0,efficiency,776,1,1,0,3,0,35,193000,NA,NA,11362,0
+71,co-op,combo,oil,1,eat in,599,1,1,0,3,40,0,92000,750,NA,11423,0
+66,co-op,other,NA,1,efficiency,755,1,1,0,4,106,0,131000,700,NA,11432,0
+69,co-op,formal,oil,1,efficiency,1137,2,2,0,6,120,0,408000,1200,NA,11374,0
+54,co-op,NA,oil,1,efficiency,1027,1,1,0,4,135,0,425000,NA,NA,11360,70
+60,co-op,combo,gas,1,efficiency,1370,2,1,0,4,0,0,360000,NA,NA,11375,0
+63,co-op,combo,gas,0,efficiency,560,1,1,0,2,95,0,132500,NA,NA,11362,0
+74,co-op,NA,gas,0,eat in,725,2,1,0,4,125,0,216000,NA,NA,11435,0
+77,co-op,formal,gas,0,Combo,680,1,1,0,5,0,0,232500,1000,NA,11374,0
+14,condo,combo,gas,0,Eat In,NA,2,2,0,5,0,0,428000,820,285,11368,158
+18,condo,combo,electric,0,Combo,NA,2,2,0,4,0,0,635000,NA,70,11355,0
+66,co-op,other,other,0,eat in,659,2,1,1,4,0,0,310000,NA,NA,11372,0
+41,condo,combo,gas,1,eatin,NA,2,2,0,6,77,0,NA,1250,3972,11360,906
+94,co-op,NA,oil,0,combo,862,1,1,0,2,0,0,NA,450,NA,11375,0
+112,co-op,NA,electric,0,efficiency kitchene,738,NA,1,0,2,0,43,NA,NA,NA,11375,0
+71,co-op,combo,gas,0,combo,1435,3,1,0,5,60,39,NA,NA,NA,11357,0
+83,condo,formal,gas,0,efficiency kitchen,NA,4,1,0,7,0,0,NA,1524,5776,11375,0
+67,condo,NA,oil,0,combo,NA,1,1,0,3,0,0,NA,NA,2256,11375,268
+71,co-op,combo,gas,0,combo,1415,3,1,0,5,60,0,NA,NA,NA,11357,0
+20,condo,other,gas,0,eatin,NA,1,1,0,3,0,0,NA,550,357,11368,185
+69,co-op,combo,gas,0,eatin,804,1,1,0,3,0,0,NA,NA,NA,11375,0
+64,co-op,NA,gas,0,combo,1750,3,3,0,6,145,50,NA,1650,NA,11375,0
+59,co-op,NA,gas,1,combo,1141,2,1,0,4,0,0,NA,NA,NA,11375,0
+64,co-op,formal,gas,0,eatin,1000,2,1,0,6,0,0,NA,1300,NA,11375,0
+71,co-op,combo,gas,0,combo,976,1,1,0,3,60,0,NA,850,NA,11357,0
+71,co-op,formal,oil,1,eatin,1311,3,2,0,6,140,0,NA,1350,NA,11375,0
+69,co-op,formal,gas,0,eatin,1477,3,2,0,6,0,0,NA,1350,NA,11375,0
+71,co-op,combo,oil,0,eatin,1072,2,1,0,5,0,0,NA,NA,NA,11375,0
+69,co-op,formal,oil,0,eatin,1477,3,2,0,6,0,0,NA,NA,NA,11375,0
+74,co-op,combo,oil,0,efficiency kitchen,683,1,1,0,0,0,50,NA,850,NA,11375,0
+NA,co-op,other,gas,0,eatin,909,1,1,0,3,0,0,NA,NA,NA,11357,0
+18,condo,other,gas,0,eatin,214,2,1,0,5,0,0,NA,NA,480,11368,0
+15,condo,combo,gas,1,efficiency kitchen,NA,3,2,0,6,0,0,NA,847,500,11368,199
+15,condo,combo,gas,0,combo,NA,1,1,1,4,0,0,NA,592,631,11368,170
+14,condo,formal,gas,0,efficiency,NA,2,2,0,6,0,0,NA,860,300,11368,170
+24,condo,NA,gas,0,eatin,NA,1,1,0,3,0,0,NA,620,1200,11368,239
+72,co-op,combo,oil,0,eatin,494,1,1,0,1,0,50,NA,500,NA,11375,0
+74,co-op,combo,NA,0,efficiency kitchen,1524,4,2,0,8,0,0,NA,NA,NA,11375,0
+85,co-op,NA,oil,1,eatin,909,1,1,0,3,165,50,NA,100,NA,11375,0
+28,co-op,other,oil,0,eatin,606,1,1,0,3,0,0,NA,NA,NA,11369,0
+74,co-op,other,oil,0,efficiency kitchen,700,1,1,0,3,0,0,NA,NA,NA,11369,0
+13,condo,formal,gas,0,eatin,NA,3,2,0,7,0,0,NA,NA,250,11368,100
+85,co-op,none,oil,0,eatin,854,1,1,0,3,0,0,NA,850,NA,11375,0
+97,condo,combo,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,1471,11420,274
+66,co-op,combo,oil,0,efficiency,962,1,1,0,3,60,0,NA,NA,NA,11357,0
+59,co-op,formal,oil,1,eatin,1833,2,2,0,5,185,0,NA,1300,NA,11375,0
+59,co-op,NA,oil,1,eatin,1493,2,2,0,5,185,32,NA,NA,NA,11375,0
+60,co-op,formal,oil,1,eatin,1001,1,1,0,4,185,0,NA,NA,NA,11375,0
+59,co-op,formal,oil,1,efficiency kitchen,1240,2,1,0,4,185,0,NA,NA,NA,11375,0
+59,co-op,formal,gas,0,eatin,1547,2,2,0,5,185,0,NA,NA,NA,11375,0
+59,co-op,NA,oil,1,eatin,1949,2,2,0,5,185,32,NA,NA,NA,11375,0
+59,co-op,formal,gas,0,combo,1832,2,2,0,5,0,0,NA,1300,NA,11375,0
+59,co-op,formal,oil,1,eatin,1240,2,1,0,4,185,0,NA,NA,NA,11375,0
+68,co-op,formal,oil,0,eatin,625,1,1,0,3,150,45,NA,750,NA,11375,0
+65,co-op,combo,oil,0,combo,620,1,1,0,3,0,0,NA,NA,NA,11375,0
+69,co-op,formal,oil,0,combo,629,1,1,0,3,150,0,NA,NA,NA,11375,0
+92,co-op,combo,gas,0,eatin,737,1,1,0,4,0,40,NA,NA,NA,11375,0
+82,co-op,other,oil,0,combo,700,1,1,0,3,0,50,NA,NA,NA,11375,0
+73,condo,combo,gas,0,combo,NA,5,2,0,5,0,0,NA,980,4057,11375,280
+72,co-op,combo,oil,1,efficiency kitchen,651,1,1,0,3,0,0,NA,750,NA,11375,0
+73,co-op,combo,oil,1,eatin,2128,3,2,0,6,0,0,NA,NA,NA,11375,0
+84,co-op,combo,gas,0,eatin,570,NA,1,0,2,0,0,NA,NA,NA,11375,0
+73,condo,formal,gas,0,eatin,NA,3,2,1,9,0,0,NA,NA,4500,11375,320
+87,co-op,combo,gas,0,efficiency kitchen,781,1,1,0,4,0,0,NA,850,NA,11375,0
+59,co-op,combo,gas,0,combo,656,1,1,0,3,0,0,NA,NA,NA,11375,0
+17,co-op,formal,gas,0,eatin,NA,2,1,0,5,0,0,NA,1100,NA,11375,0
+75,co-op,combo,gas,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,NA,554,11375,0
+74,co-op,NA,gas,0,efficiency,NA,1,1,0,3,0,0,NA,NA,NA,11375,0
+88,co-op,formal,gas,0,combo,795,2,1,0,4,255,0,NA,NA,NA,11375,0
+32,condo,combo,gas,0,eatin,NA,1,1,1,5,0,0,NA,904,289,11375,945
+32,condo,formal,gas,1,efficiency kitchen,NA,1,1,1,4,0,0,NA,914,4802,11375,926
+NA,co-op,NA,NA,0,NA,NA,NA,1,0,4,0,0,NA,NA,NA,11375,0
+16,condo,combo,gas,0,combo,NA,2,1,1,5,0,0,NA,1742,269,11368,360
+16,condo,combo,gas,0,eatin,NA,2,1,1,5,0,0,NA,751,288,11368,244
+68,co-op,combo,NA,0,eatin,1329,3,2,0,5,142,0,NA,NA,NA,11375,0
+68,co-op,other,oil,0,eatin,1110,2,1,0,5,144,50,NA,NA,NA,11375,0
+71,co-op,combo,oil,0,eatin,800,1,1,0,3,0,0,NA,NA,NA,11375,0
+71,co-op,combo,oil,0,eatin,1050,3,1,0,5,0,0,NA,NA,NA,11368,0
+18,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,260,11368,139
+74,co-op,NA,oil,0,eatin,748,1,1,0,3,0,42,NA,NA,NA,11375,0
+83,co-op,formal,oil,0,eatin,1636,3,2,0,6,0,0,NA,NA,NA,11375,0
+84,co-op,other,gas,1,combo,933,2,1,0,4,0,0,NA,NA,NA,11375,0
+83,co-op,formal,oil,1,eatin,1285,2,1,0,4,0,0,NA,NA,NA,11375,0
+83,co-op,combo,oil,0,efficiency kitchen,1042,2,1,0,4,0,75,NA,928,NA,11375,0
+96,co-op,other,oil,0,eatin,797,2,1,0,4,0,50,NA,1000,NA,11415,0
+88,co-op,formal,gas,0,eatin,1177,2,2,0,5,0,0,NA,1300,NA,11415,0
+101,co-op,formal,gas,0,combo,1000,2,1,0,5,0,0,NA,NA,NA,11415,0
+84,co-op,other,gas,0,efficiency kitchen,829,2,1,0,4,140,0,NA,950,NA,11415,0
+84,co-op,other,gas,0,eatin,820,1,1,0,4,0,50,NA,NA,NA,11415,0
+51,co-op,combo,oil,1,efficiency kitchen,NA,NA,1,0,2,150,0,NA,550,NA,11375,0
+59,co-op,NA,gas,1,NA,1820,3,3,0,6,200,50,NA,1700,NA,11375,0
+59,co-op,combo,gas,1,combo,973,1,1,0,3,150,50,NA,750,NA,11415,0
+50,co-op,combo,NA,0,efficiemcy,1042,1,1,0,3,127,48,NA,800,NA,11415,0
+50,co-op,formal,NA,1,eatin,1483,2,2,0,5,115,50,NA,1050,NA,11415,0
+74,co-op,formal,gas,0,eatin,750,1,1,0,4,0,0,NA,800,NA,11415,0
+22,condo,combo,gas,1,efficiency kitchen,NA,2,2,0,4,0,0,NA,763,3476,11415,373
+22,condo,combo,gas,0,efficiency kitchen,383,2,2,0,7,0,0,NA,763,3477,11415,0
+35,condo,combo,gas,0,combo,NA,2,2,0,4,0,0,NA,1005,3987,11415,300
+35,condo,formal,gas,0,combo,NA,3,3,0,7,0,0,NA,NA,4700,11356,541
+41,condo,NA,gas,0,none,180,1,1,0,3,0,0,NA,NA,4500,11356,0
+39,condo,combo,gas,0,eatin,755,2,2,1,5,0,0,NA,1800,5500,11360,120
+74,co-op,combo,gas,0,eatin,880,1,1,0,3,0,0,NA,NA,NA,11415,0
+87,co-op,formal,electric,0,eatin,1249,3,2,0,6,0,0,NA,NA,NA,11415,0
+86,co-op,combo,gas,0,eatin,565,NA,1,0,1,0,0,NA,600,NA,11415,0
+64,co-op,combo,oil,1,efficiency kitchen,891,1,1,0,3,220,0,NA,NA,NA,11415,0
+64,co-op,combo,gas,0,efficiency,427,NA,1,0,2,0,0,NA,NA,NA,11415,0
+7,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,2,0,0,NA,712,5217,11354,0
+64,co-op,other,NA,0,efficiency kitchen,894,2,1,1,6,90,0,NA,NA,NA,11415,0
+39,condo,NA,gas,1,eatin,NA,3,2,1,6,0,0,NA,2200,6533,11360,755
+21,condo,combo,gas,0,eatin,NA,NA,2,0,4,0,0,NA,980,3579,11355,0
+37,condo,combo,gas,0,combo,NA,1,1,0,3,0,0,NA,621,5241,11355,617
+37,condo,NA,gas,0,eatin,NA,2,2,0,6,0,0,NA,NA,5797,11355,450
+23,condo,combo,gas,0,combo,NA,2,2,0,5,0,0,NA,1027,4800,11355,447
+74,co-op,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,800,NA,11355,655
+9,condo,combo,gas,0,combo,NA,1,1,0,4,0,0,NA,NA,17,11355,133
+37,condo,combo,gas,0,combo,NA,1,1,0,3,0,0,NA,650,3108,11355,300
+62,co-op,formal,oil,0,eatin,480,1,1,0,4,0,0,NA,735,NA,11354,0
+62,co-op,formal,oil,0,eatin,577,1,1,0,4,0,0,NA,750,NA,11354,0
+62,co-op,formal,gas,0,combo,415,1,1,0,4,0,0,NA,NA,NA,11354,0
+9,condo,formal,gas,0,eatin,NA,NA,1,0,2,0,0,NA,495,153,11354,224
+9,condo,formal,gas,0,eatin,NA,1,1,0,2,0,0,NA,680,196,11354,321
+9,condo,formal,gas,0,eatin,NA,NA,1,0,2,0,0,NA,680,196,11354,321
+9,condo,formal,gas,0,eatin,NA,1,1,0,2,0,0,NA,680,196,11354,321
+9,condo,formal,gas,0,eatin,NA,NA,1,0,2,0,0,NA,680,196,11354,321
+74,co-op,other,gas,0,combo,552,1,1,0,3,0,0,NA,NA,NA,11355,0
+38,condo,NA,gas,1,eatin,NA,2,2,0,6,0,0,NA,NA,3305,11355,445
+38,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,3200,11355,450
+96,co-op,combo,gas,0,combo,615,1,1,0,3,0,0,NA,600,NA,11355,0
+74,co-op,formal,NA,0,efficiency kitchen,988,2,1,0,4,0,0,NA,NA,NA,11367,0
+84,co-op,NA,oil,0,eatin,980,2,1,0,7,0,0,NA,NA,NA,11367,0
+23,condo,NA,gas,0,combo,NA,2,2,0,5,0,0,NA,728,3737,11354,630
+NA,co-op,combo,gas,0,eatin,632,1,1,0,3,0,0,NA,NA,NA,11355,0
+NA,co-op,combo,gas,0,eatin,632,1,1,0,3,0,0,NA,NA,NA,11355,0
+61,co-op,combo,gas,0,eatin,463,1,1,0,3,0,0,NA,NA,NA,11355,0
+64,co-op,formal,gas,0,eatin,901,2,1,1,5,0,0,NA,NA,NA,11354,0
+38,condo,combo,gas,0,efficiency,NA,2,2,0,4,0,0,NA,871,2556,"138-35 Elder Ave,  Flushing NY, 1135",536
+74,co-op,combo,NA,0,eatin,1013,2,1,0,5,0,0,NA,1100,NA,11367,0
+58,co-op,formal,gas,0,combo,1131,3,2,0,6,175,0,NA,1400,NA,11355,0
+58,co-op,formal,gas,0,combo,1131,3,2,0,6,175,0,NA,1400,NA,11355,0
+60,co-op,NA,oil,0,eatin,792,2,1,0,4,0,50,NA,NA,NA,11355,0
+72,co-op,combo,gas,1,eatin,588,1,1,0,3,100,0,NA,NA,NA,11435,0
+66,co-op,combo,oil,1,efficiency kitchen,718,1,1,0,3,0,50,NA,800,NA,11435,0
+66,co-op,combo,oil,0,efficiency kitchen,786,2,1,0,4,0,50,NA,975,NA,11435,0
+66,co-op,combo,oil,0,efficiency kitchen,837,2,1,0,4,0,50,NA,975,NA,11435,0
+66,co-op,combo,oil,1,efficiency,667,1,1,0,3,0,50,NA,800,NA,11435,0
+74,co-op,combo,oil,0,efficiency kitchen,739,1,1,0,4,154,53,NA,800,NA,11435,0
+25,condo,combo,gas,0,combo,NA,2,2,0,5,0,0,NA,896,4800,11354,297
+69,co-op,combo,gas,0,efficiency kitchen,645,2,1,0,4,0,0,NA,950,NA,11354,0
+NA,condo,combo,gas,0,combo,396,2,2,0,5,0,0,NA,NA,39,11354,0
+72,co-op,formal,oil,0,efficiency kitchen,647,1,1,0,3,0,0,NA,NA,NA,11435,0
+18,condo,formal,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,220,11355,0
+NA,co-op,combo,gas,0,eatin,928,2,1,0,4,0,0,NA,NA,NA,11354,0
+84,co-op,combo,NA,0,efficiency kitchen,NA,2,1,0,4,837,0,NA,900,NA,11367,0
+69,co-op,combo,gas,0,efficiency,770,3,1,0,5,0,0,NA,1000,NA,11354,0
+73,co-op,formal,oil,0,efficiency kitchen,698,2,1,0,5,0,0,NA,NA,NA,11354,0
+13,co-op,combo,gas,0,eatin,438,2,3,0,4,0,0,NA,2143,NA,11355,0
+87,co-op,combo,gas,0,eatin,950,2,2,0,6,0,0,NA,1400,NA,11354,0
+87,co-op,combo,NA,0,eatin,571,1,1,0,4,0,0,NA,800,NA,11354,0
+84,co-op,combo,gas,0,eatin,604,1,1,0,3,0,55,NA,750,NA,11367,0
+69,co-op,other,gas,0,combo,NA,2,2,0,5,0,0,NA,NA,NA,11415,0
+69,co-op,combo,gas,0,efficiency kitchen,560,1,1,0,3,0,0,NA,NA,NA,11435,0
+59,co-op,formal,NA,0,efficiency kitchen,1149,3,2,0,8,150,0,NA,NA,1149,11354,0
+59,co-op,formal,gas,0,eatin,NA,3,2,0,7,0,0,NA,NA,NA,11354,0
+59,co-op,formal,gas,0,eatin,NA,3,2,0,7,0,0,NA,NA,NA,11354,0
+69,co-op,combo,gas,0,eatin,840,2,1,0,4,6,0,NA,NA,NA,11354,0
+65,co-op,combo,oil,0,efficiency kitchen,546,NA,1,0,2,0,0,NA,NA,NA,11435,0
+74,co-op,combo,NA,0,efficiency kitchen,380,NA,1,0,2,0,0,NA,400,NA,11435,0
+19,condo,formal,gas,0,combo,NA,2,2,0,4,0,0,NA,NA,99,11354,282
+17,condo,combo,gas,0,combo,NA,2,2,0,6,0,0,NA,855,492,11354,0
+17,condo,combo,gas,0,combo,NA,2,2,0,6,0,0,NA,NA,492,11354,513
+15,condo,combo,gas,0,efficiency kitchen,245,1,1,0,3,28,0,NA,NA,30,11435,0
+22,condo,combo,gas,0,combo,NA,2,1,0,4,0,0,NA,1260,NA,11356,214
+62,co-op,NA,oil,0,efficiency kitchen,NA,1,1,0,2,0,0,NA,450,NA,11355,386
+39,co-op,combo,electric,0,eatin,493,NA,1,0,2,250,0,NA,NA,NA,11355,0
+76,co-op,formal,oil,0,efficiency kitchen,975,2,1,0,5,0,0,NA,900,NA,11435,0
+36,condo,combo,gas,0,combo,NA,2,1,0,5,15,0,NA,915,3858,11355,433
+64,co-op,formal,gas,0,efficiency kitchen,759,1,1,0,3,0,0,NA,840,NA,11355,0
+64,co-op,combo,gas,0,eatin,857,2,1,0,5,0,0,NA,NA,NA,11355,0
+59,co-op,combo,oil,0,efficiency kitchen,NA,1,1,0,3,150,0,NA,650,NA,11367,0
+69,co-op,combo,gas,0,efficiency kitchen,545,1,1,1,3,0,50,NA,NA,NA,11367,0
+69,co-op,formal,oil,0,combo,598,1,1,0,3,0,0,NA,710,NA,11367,0
+76,co-op,formal,oil,0,combo,570,1,1,0,3,0,0,NA,NA,NA,11367,0
+74,co-op,formal,gas,0,efficiency kitchen,NA,2,1,0,5,75,0,NA,1000,1311,11367,0
+65,co-op,combo,oil,0,combo,850,2,1,0,4,0,0,NA,NA,NA,11355,0
+59,co-op,combo,gas,1,eatin,680,2,1,0,4,130,0,NA,900,NA,11354,0
+74,co-op,combo,gas,0,eatin,800,2,1,0,4,0,0,NA,900,NA,11367,0
+74,co-op,other,oil,0,efficiency kitchen,552,1,1,0,4,0,0,NA,NA,NA,11355,0
+61,co-op,combo,NA,0,eatin,914,2,1,0,4,26,0,NA,800,NA,11366,0
+70,co-op,combo,gas,0,eatin,737,1,1,0,3,39,0,NA,NA,NA,11367,0
+70,co-op,NA,gas,0,eatin,865,1,1,0,4,0,0,NA,NA,NA,11367,0
+35,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,500,2894,11354,457
+35,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,500,2850,11354,420
+62,co-op,combo,gas,0,combo,713,1,1,0,3,0,50,NA,NA,NA,11355,0
+72,co-op,NA,oil,0,eatin,695,2,1,0,5,20,0,NA,NA,NA,11360,0
+74,co-op,formal,gas,0,eatin,995,1,1,0,4,75,35,NA,NA,NA,11367,0
+74,co-op,formal,gas,0,efficiency kitchen,969,1,1,0,4,0,0,NA,NA,NA,11367,0
+69,co-op,other,gas,0,efficiency kitchen,738,1,1,0,3,0,0,NA,NA,NA,11435,0
+74,co-op,formal,oil,0,efficiency,1282,2,1,0,4,75,50,NA,NA,NA,11415,0
+34,condo,NA,gas,0,efficiency kitchen,358,1,1,0,3,0,0,NA,650,2950,11354,0
+76,co-op,combo,gas,0,eatin,1283,2,1,0,5,75,50,NA,NA,NA,11415,0
+37,condo,formal,gas,0,eatin,NA,3,2,0,4,0,0,NA,1250,6700,11354,627
+37,condo,NA,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,580,4506,11354,204
+74,co-op,combo,gas,0,efficiency kitchen,1311,2,1,0,5,0,40,NA,1000,NA,11367,0
+36,condo,combo,gas,1,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,2600,11354,463
+36,condo,combo,gas,1,efficiency kitchen,NA,2,2,0,5,0,0,NA,1050,3400,11354,547
+77,co-op,formal,gas,0,eatin,1372,2,1,0,4,0,0,NA,1000,NA,11415,0
+66,co-op,formal,gas,0,eatin,664,2,1,0,5,20,0,NA,NA,NA,11360,0
+55,condo,formal,gas,0,combo,710,2,2,0,5,30,0,NA,1080,3800,11414,0
+59,condo,NA,gas,0,efficiency,NA,2,2,0,5,0,0,NA,NA,3721,11414,614
+57,condo,formal,other,1,eatin,NA,3,1,1,6,0,0,NA,NA,2884,11422,230
+35,condo,combo,gas,0,eatin,311,3,2,0,6,0,0,NA,NA,2780,11417,0
+74,co-op,other,oil,1,eatin,827,2,1,0,5,0,50,NA,1100,NA,11367,0
+59,co-op,other,oil,1,eatin,683,1,1,0,3,150,50,NA,750,NA,11367,0
+76,co-op,formal,gas,0,eatin,1312,2,1,0,5,75,0,NA,NA,NA,11432,0
+17,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,739,632,11357,389
+NA,condo,combo,gas,1,combo,NA,NA,1,0,3,0,0,NA,500,2092,11367,369
+51,condo,combo,gas,1,efficiency kitchen,NA,2,2,0,6,0,0,NA,1000,3220,11367,641
+39,condo,formal,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,2775,11417,348
+76,co-op,formal,gas,1,efficiency kitchen,1283,2,1,0,5,75,50,NA,NA,NA,11432,0
+76,co-op,NA,gas,0,efficiency kitchen,1312,2,1,0,4,0,0,NA,NA,NA,11432,0
+74,co-op,combo,oil,0,efficiency kitchen,1312,2,1,0,4,75,0,NA,NA,NA,11367,0
+72,co-op,formal,oil,0,combo,627,1,1,0,3,0,0,NA,650,NA,11367,0
+74,co-op,formal,NA,0,efficiency kitchen,1310,2,1,0,5,75,40,NA,1000,NA,11435,0
+64,co-op,combo,gas,0,efficiency kitchen,1000,2,2,0,5,0,0,NA,1100,NA,11414,0
+64,co-op,NA,oil,0,efficiency kitchen,675,1,1,0,3,0,0,NA,NA,NA,11414,0
+64,co-op,NA,oil,0,efficiency,675,1,1,0,3,0,0,NA,NA,NA,11414,0
+63,co-op,NA,NA,1,combo,707,2,1,0,4,44,0,NA,NA,NA,11414,0
+64,co-op,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,NA,NA,11414,0
+42,condo,combo,gas,0,eatin,NA,3,2,0,6,0,0,NA,NA,4000,11414,295
+58,condo,NA,gas,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,750,3388,11414,530
+NA,condo,formal,gas,1,eatin,NA,3,2,0,6,0,0,NA,NA,2100,11414,295
+59,co-op,NA,gas,0,efficiency kitchen,670,1,1,0,4,0,0,NA,NA,NA,11414,0
+51,condo,combo,gas,0,efficiency,NA,2,1,0,5,0,0,NA,NA,2567,11367,623
+51,condo,combo,electric,1,efficiency kitchen,NA,2,1,0,5,0,0,NA,NA,2663,11367,553
+51,condo,NA,electric,1,combo,641,2,2,0,5,0,0,NA,1002,4638,11367,0
+78,co-op,NA,gas,0,combo,NA,1,1,0,3,0,0,NA,NA,NA,11367,620
+69,co-op,formal,oil,0,efficiency kitchen,640,1,1,0,3,0,0,NA,700,NA,11367,0
+61,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,767,3470,11367,412
+61,co-op,combo,oil,0,efficiency kitchen,718,1,1,0,4,30,0,NA,NA,NA,11414,0
+59,co-op,formal,gas,0,efficiency kitchen,1007,2,2,0,5,15,0,NA,NA,NA,11414,0
+59,co-op,NA,oil,0,efficiency kitchen,782,1,1,0,3,0,0,NA,NA,NA,11414,0
+74,co-op,combo,gas,0,efficiency kitchen,788,1,1,0,3,20,0,NA,NA,NA,11357,0
+74,co-op,formal,gas,0,efficiency kitchen,672,2,1,0,5,0,0,NA,NA,NA,11414,0
+64,condo,NA,oil,0,none,NA,2,1,0,5,0,0,NA,NA,2500,11414,275
+45,condo,formal,gas,0,eatin,NA,6,3,0,14,0,0,NA,2871,4838,11414,0
+45,condo,NA,gas,1,eatin,NA,5,3,0,13,0,0,NA,NA,5323,11414,250
+41,condo,formal,gas,0,eatin,NA,1,1,0,5,0,0,NA,850,2833,11355,174
+62,co-op,combo,oil,0,combo,527,NA,1,0,2,0,0,NA,NA,NA,11432,0
+63,co-op,formal,gas,0,eatin,1270,2,2,0,6,0,0,NA,NA,NA,11432,0
+63,co-op,other,oil,0,efficiency kitchen,504,NA,1,0,3,50,0,NA,NA,NA,11432,0
+96,co-op,NA,gas,0,none,719,1,1,0,2,0,0,NA,NA,NA,11357,0
+96,co-op,NA,gas,0,eatin,666,1,1,0,3,0,0,NA,675,NA,11357,0
+104,co-op,combo,gas,0,efficiency,NA,1,1,0,4,0,0,NA,820,NA,11357,719
+96,co-op,NA,gas,0,efficiency,467,NA,1,0,0,0,48,NA,NA,NA,11357,0
+74,co-op,formal,oil,0,efficiency kitchen,975,2,1,0,5,0,0,NA,NA,NA,11357,0
+74,co-op,combo,gas,1,combo,981,3,1,0,4,20,0,NA,900,NA,11357,0
+71,co-op,combo,oil,0,efficiency kitchen,1398,3,1,0,5,60,0,NA,NA,NA,11357,0
+71,co-op,combo,oil,0,efficiency,895,1,1,0,3,60,0,NA,NA,NA,11357,0
+71,co-op,combo,oil,0,efficiency kitchen,1087,2,1,0,5,60,0,NA,NA,NA,11357,0
+71,co-op,combo,oil,0,combo,866,1,1,0,3,60,39,NA,882,NA,11357,0
+71,co-op,combo,gas,0,combo,870,1,1,0,3,60,39,NA,NA,NA,11357,0
+66,co-op,combo,gas,1,eatin,900,1,1,0,3,0,0,NA,NA,NA,11357,0
+68,co-op,combo,oil,0,eatin,1147,2,1,0,5,0,0,NA,NA,NA,11357,0
+74,co-op,combo,gas,0,eatin,1002,2,1,0,5,0,0,NA,NA,NA,11357,0
+66,co-op,other,other,0,combo,530,NA,1,0,1,0,0,NA,550,NA,11432,0
+66,co-op,other,oil,0,efficiency kitchen,780,1,1,0,4,0,0,NA,800,NA,11432,0
+74,co-op,formal,gas,1,efficiency,923,2,1,0,4,20,40,NA,715,NA,11360,0
+65,co-op,combo,oil,0,efficiency kitchen,1430,3,1,0,5,60,39,NA,1300,NA,11357,0
+55,co-op,formal,gas,0,eatin,2321,3,2,0,7,130,0,NA,1500,NA,11357,0
+56,co-op,combo,oil,1,eatin,1868,2,2,0,4,133,0,NA,1078,NA,11357,0
+61,co-op,formal,oil,1,eatin,1288,1,1,0,4,123,42,NA,1150,NA,11357,0
+62,co-op,NA,gas,0,eatin,1351,1,1,0,1,133,0,NA,1160,NA,11357,0
+62,co-op,NA,gas,0,combo,1725,2,2,0,4,133,0,NA,1350,NA,11357,0
+56,co-op,formal,oil,0,eatin,2712,3,3,0,7,123,40,NA,2400,NA,11357,0
+NA,co-op,formal,oil,0,eatin,1425,1,1,0,4,0,0,NA,NA,NA,11357,0
+55,co-op,formal,gas,1,eatin,2279,3,2,0,7,130,0,NA,1500,NA,11357,0
+71,co-op,combo,oil,0,combo,1425,3,1,0,5,60,39,NA,1144,NA,11357,0
+71,co-op,combo,oil,0,eatin,1461,3,1,0,6,70,36,NA,NA,NA,11357,0
+36,condo,NA,gas,0,eatin,NA,3,1,0,7,0,0,NA,NA,2460,11434,0
+66,co-op,combo,oil,0,efficiency kitchen,893,1,1,0,3,60,39,NA,800,NA,11357,0
+66,co-op,combo,oil,0,efficiency kitchen,1138,2,1,0,4,60,39,NA,1000,NA,11357,0
+24,condo,formal,gas,0,efficiency kitchen,NA,3,2,1,6,0,0,NA,2274,NA,11357,923
+43,condo,formal,gas,0,eatin,350,1,1,0,3,0,0,NA,755,2400,11358,0
+74,co-op,NA,gas,0,efficiency kitchen,598,NA,1,0,2,0,0,NA,NA,NA,11432,0
+75,co-op,formal,gas,1,efficiency kitchen,867,2,1,0,6,100,0,NA,NA,NA,11358,0
+64,co-op,NA,oil,1,efficiency kitchen,445,NA,1,0,1,105,0,NA,NA,NA,11432,0
+64,co-op,combo,gas,0,efficiency kitchen,764,1,1,0,3,0,0,NA,NA,NA,11432,0
+74,co-op,combo,oil,0,combo,1069,2,1,0,5,0,0,NA,NA,NA,17-30,0
+56,co-op,formal,oil,0,eatin,2002,3,2,1,6,89,0,NA,NA,NA,11360,0
+17,condo,combo,gas,0,efficiency kitchen,NA,1,1,1,5,0,0,NA,985,232,11432,574
+17,condo,combo,gas,0,efficiency,NA,1,1,1,5,0,0,NA,985,232,11432,574
+61,co-op,formal,gas,0,eatin,525,1,1,0,3,0,0,NA,NA,NA,11432,0
+54,co-op,combo,gas,0,efficiency kitchen,1506,2,2,0,5,0,40,NA,NA,NA,11360,0
+54,co-op,combo,gas,0,efficiency kitchen,1066,1,1,0,3,0,40,NA,NA,NA,11360,0
+64,co-op,formal,gas,0,combo,1385,1,1,0,4,0,50,NA,NA,NA,11360,0
+54,co-op,combo,oil,1,eatin,767,1,1,0,4,135,40,NA,800,NA,11360,0
+54,co-op,formal,oil,0,eatin,NA,1,1,0,4,135,0,NA,NA,NA,11360,0
+54,co-op,formal,gas,1,efficiency kitchen,1417,3,2,0,6,135,0,NA,NA,NA,11360,97
+54,co-op,formal,gas,0,eatin,1278,2,2,0,5,0,0,NA,NA,NA,11360,0
+56,co-op,NA,gas,1,efficiency kitchen,1128,1,1,0,3,149,40,NA,900,NA,11360,0
+55,co-op,combo,oil,1,eatin,1100,1,1,0,4,0,40,NA,900,NA,11360,0
+54,co-op,formal,gas,1,efficiency kitchen,1627,3,2,0,6,135,42,NA,NA,NA,11360,111
+55,co-op,combo,gas,0,combo,914,1,1,0,3,0,0,NA,780,NA,11360,0
+66,co-op,combo,gas,0,efficiency kitchen,560,1,1,0,3,18,0,NA,NA,NA,11360,0
+55,co-op,combo,oil,1,eatin,1060,1,1,0,3,135,40,NA,700,NA,11360,0
+46,co-op,NA,gas,1,combo,1134,1,1,0,4,135,40,NA,880,NA,11360,0
+54,co-op,combo,oil,1,eatin,1450,2,2,0,5,150,40,NA,1200,NA,11360,0
+54,co-op,combo,oil,1,efficiency kitchen,998,1,1,0,4,149,40,NA,NA,NA,11360,75
+54,co-op,formal,oil,1,eatin,1850,2,2,0,5,135,40,NA,1300,NA,11360,0
+54,co-op,NA,gas,0,efficiency kitchen,969,1,1,0,4,0,40,NA,NA,NA,11360,0
+54,co-op,combo,gas,1,eatin,939,1,1,0,4,0,0,NA,NA,NA,11360,0
+14,condo,formal,gas,0,combo,NA,2,2,0,5,0,0,NA,1600,250,11385,250
+64,co-op,NA,gas,0,eatin,1761,3,2,0,6,26,0,NA,1500,NA,11360,0
+64,co-op,NA,gas,0,eatin,1824,3,2,0,6,26,0,NA,1550,NA,11360,0
+64,co-op,NA,oil,0,efficiency kitchen,1100,1,1,0,4,26,0,NA,750,NA,11360,0
+66,co-op,combo,gas,0,eatin,991,1,1,0,4,60,0,NA,850,NA,11360,0
+69,co-op,NA,gas,0,efficiency kitchen,1057,2,1,0,4,0,50,NA,NA,NA,11360,0
+69,co-op,combo,gas,0,eatin,1100,2,1,0,5,0,0,NA,NA,NA,11360,0
+54,co-op,formal,gas,0,eatin,NA,3,2,1,6,0,0,NA,NA,NA,11360,0
+66,co-op,NA,other,0,eatin,918,1,1,0,4,60,0,NA,NA,NA,11360,0
+64,co-op,NA,gas,0,eatin,1470,2,2,0,5,50,45,NA,1300,NA,11360,0
+65,co-op,NA,other,0,eatin,1245,2,1,0,5,60,0,NA,NA,NA,11360,0
+74,co-op,combo,gas,1,eatin,1016,2,1,0,5,20,0,NA,NA,NA,11360,0
+74,co-op,NA,gas,0,eatin,624,1,1,0,4,0,0,NA,NA,NA,11423,0
+69,co-op,NA,oil,0,efficiency kitchen,641,1,1,0,3,0,0,NA,NA,NA,11365,0
+74,co-op,NA,oil,0,efficiency kitchen,965,2,1,0,5,0,0,NA,NA,NA,11365,0
+16,condo,combo,gas,1,efficiency kitchen,NA,2,2,0,5,0,0,NA,941,500,11385,527
+64,co-op,combo,gas,0,efficiency kitchen,975,2,1,0,5,0,50,NA,NA,NA,11357,0
+42,condo,NA,oil,0,efficiency kitchen,NA,NA,1,0,2,0,0,NA,NA,2490,11360,361
+43,condo,formal,oil,0,eatin,NA,2,2,0,6,0,0,NA,NA,5300,11360,0
+42,condo,combo,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,3312,11360,543
+131,condo,formal,gas,0,eatin,NA,1,1,0,4,90,0,NA,NA,3000,11360,558
+74,co-op,combo,oil,1,combo,1010,2,1,1,5,0,0,NA,NA,NA,11361,0
+69,co-op,formal,gas,0,eatin,642,1,1,0,3,0,50,NA,NA,NA,11423,0
+39,condo,combo,gas,1,eatin,NA,3,2,0,6,0,0,NA,NA,6486,11360,630
+42,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,700,3268,11360,500
+39,condo,combo,gas,0,eatin,389,1,1,0,4,0,0,NA,NA,3600,11360,130
+41,condo,combo,gas,1,combo,596,2,2,0,4,0,0,NA,NA,NA,11360,0
+64,co-op,combo,gas,0,efficiency kitchen,1668,3,2,0,7,25,0,NA,NA,NA,11360,0
+64,co-op,formal,oil,0,eatin,1608,3,2,0,6,26,45,NA,1500,NA,11360,0
+41,condo,combo,gas,1,combo,NA,1,1,0,4,0,0,NA,NA,3241,11360,458
+64,co-op,formal,oil,0,combo,1120,1,1,0,4,30,0,NA,NA,3940,11360,0
+64,co-op,NA,gas,0,eatin,1562,3,1,0,6,0,40,NA,NA,NA,11360,0
+101,co-op,combo,gas,0,eatin,806,1,1,0,3,0,0,NA,600,NA,11105,0
+68,co-op,NA,NA,0,eatin,750,2,1,0,5,0,0,NA,750,NA,11105,0
+101,co-op,NA,gas,0,eatin,877,1,1,0,3,0,0,NA,NA,NA,11105,0
+64,co-op,formal,oil,1,eatin,1114,2,1,0,5,75,0,NA,NA,NA,11360,0
+29,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,1120,4300,11385,356
+85,condo,NA,gas,0,eatin,NA,1,1,0,2,0,0,NA,NA,159,11370,442
+69,co-op,formal,gas,0,efficiency kitchen,540,1,1,0,4,60,0,NA,NA,NA,11364,0
+69,co-op,formal,gas,0,efficiency,600,1,1,0,4,65,0,NA,NA,NA,11364,0
+74,co-op,combo,gas,0,efficiency kitchen,983,2,1,0,4,20,50,NA,700,NA,11357,0
+73,co-op,combo,oil,0,efficiency kitchen,970,2,1,0,5,0,0,NA,NA,NA,11357,0
+101,co-op,NA,oil,0,eatin,NA,3,1,0,5,0,0,NA,NA,NA,11105,852
+54,co-op,formal,oil,1,efficiency kitchen,1923,3,2,1,6,135,0,NA,NA,NA,11360,75
+73,co-op,combo,gas,0,efficiency kitchen,614,3,1,0,6,0,0,NA,NA,NA,11364,0
+72,co-op,combo,gas,0,eatin,815,2,1,0,4,0,0,NA,NA,NA,11364,0
+96,co-op,NA,gas,0,combo,904,2,1,0,4,0,0,NA,650,NA,11105,0
+74,co-op,formal,gas,0,combo,463,2,1,0,5,0,0,NA,NA,NA,11364,0
+101,co-op,NA,oil,0,combo,822,3,1,0,5,0,0,NA,NA,NA,11105,0
+NA,condo,combo,electric,0,combo,NA,1,1,0,3,0,0,NA,890,30,11101,599
+41,condo,NA,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,NA,2096,11364,183
+41,condo,combo,gas,0,eatin,NA,3,2,0,6,0,0,NA,1055,3200,11364,268
+63,co-op,combo,NA,0,efficiency kitchen,742,1,1,0,3,66,0,NA,800,NA,11361,0
+62,co-op,combo,gas,0,efficiency kitchen,1054,1,1,0,4,0,40,NA,852,NA,11361,0
+63,co-op,other,gas,0,combo,816,1,1,0,4,62,41,NA,NA,NA,11361,0
+62,co-op,combo,gas,0,efficiency kitchen,954,1,1,0,3,0,41,NA,NA,NA,11361,0
+69,co-op,other,gas,0,efficiency kitchen,661,2,1,0,4,0,50,NA,NA,NA,11427,0
+64,co-op,NA,oil,0,eatin,681,2,1,0,5,0,0,NA,NA,NA,11427,0
+76,condo,other,oil,0,efficiency kitchen,NA,2,1,0,4,0,0,NA,NA,2312,11370,426
+60,co-op,NA,oil,0,eatin,NA,1,1,0,4,0,0,NA,NA,NA,11426,550
+73,co-op,combo,oil,0,efficiency,NA,2,1,0,4,0,0,NA,NA,641,11427,0
+74,co-op,formal,NA,0,eatin,756,1,1,0,4,0,0,NA,900,NA,11364,0
+69,co-op,formal,gas,0,efficiency kitchen,719,2,1,0,5,0,50,NA,NA,NA,11427,0
+69,co-op,formal,gas,0,eatin,803,3,1,0,6,0,50,NA,NA,NA,11427,0
+74,co-op,formal,oil,0,combo,628,2,1,0,4,18,0,NA,NA,NA,11427,0
+69,co-op,other,oil,0,combo,NA,2,1,0,4,0,0,NA,806,NA,11427,670
+69,co-op,formal,gas,0,efficiency kitchen,700,2,1,0,4,0,0,NA,NA,NA,11427,0
+69,co-op,formal,gas,0,combo,663,2,1,0,4,0,50,NA,NA,NA,11427,0
+69,co-op,NA,gas,0,efficiency kitchen,640,1,1,0,3,0,50,NA,NA,NA,11364,0
+NA,co-op,NA,NA,0,NA,NA,2,1,0,NA,0,0,NA,NA,NA,11364,0
+74,co-op,formal,gas,0,combo,660,2,1,0,4,18,0,NA,NA,NA,11427,0
+61,co-op,formal,gas,0,eatin,1200,1,1,0,4,47,40,NA,950,NA,11360,0
+61,co-op,NA,oil,0,eatin,1394,2,2,0,5,47,40,NA,1200,NA,11360,0
+61,co-op,NA,gas,0,eatin,1245,1,1,0,4,47,0,NA,NA,NA,11360,0
+18,condo,NA,gas,0,combo,218,1,1,0,3,0,0,NA,NA,231,11102,0
+7,condo,NA,gas,0,combo,NA,1,1,0,3,0,0,NA,NA,104,11106,314
+74,co-op,NA,gas,1,combo,776,2,1,0,5,0,0,NA,NA,NA,11422,0
+36,condo,combo,gas,0,combo,NA,3,2,0,6,0,0,NA,NA,3158,11362,0
+36,condo,combo,gas,0,combo,NA,3,2,0,6,0,0,NA,1250,3200,11362,470
+37,condo,combo,gas,0,combo,NA,3,2,0,5,0,0,NA,1150,2765,11362,424
+60,co-op,combo,gas,0,efficiency kitchen,1186,2,2,0,5,0,0,NA,NA,NA,11362,0
+71,co-op,formal,gas,0,eatin,723,1,1,0,3,0,0,NA,NA,NA,11362,0
+71,co-op,formal,gas,0,eatin,723,1,1,0,3,0,0,NA,NA,NA,11362,0
+84,co-op,combo,oil,0,eatin,891,2,1,0,5,0,0,NA,900,NA,11103,0
+71,co-op,formal,oil,0,eatin,1034,2,1,0,5,0,0,NA,NA,NA,11362,0
+74,co-op,combo,gas,0,efficiency kitchen,578,1,1,0,4,0,39,NA,NA,NA,11426,0
+74,co-op,combo,gas,0,eatin,701,2,1,0,5,0,39,NA,NA,NA,11426,0
+75,co-op,combo,gas,0,efficiency kitchen,767,3,1,0,5,0,39,NA,797,NA,11426,0
+75,co-op,other,gas,0,eatin,613,1,1,0,4,0,39,NA,641,NA,11426,0
+74,co-op,combo,oil,0,efficiency kitchen,871,2,1,0,5,0,0,NA,960,NA,11362,0
+74,co-op,combo,NA,0,eatin,719,1,1,0,4,0,0,NA,NA,NA,11426,0
+8,condo,other,gas,0,none,NA,NA,1,0,2,0,0,NA,466,31,11102,132
+8,condo,other,gas,0,none,NA,1,1,0,3,0,0,NA,755,54,11102,226
+74,co-op,combo,gas,0,eatin,850,2,1,0,4,0,0,NA,NA,NA,11362,0
+74,co-op,formal,gas,0,eatin,811,2,1,0,5,0,0,NA,960,NA,11362,0
+59,co-op,formal,gas,1,efficiency,670,1,1,0,4,0,0,NA,NA,NA,11103,0
+NA,condo,combo,NA,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,623,829,11102,0
+33,condo,NA,electric,0,none,NA,NA,1,0,2,0,0,NA,NA,2800,11102,443
+35,condo,combo,electric,0,efficiency kitchen,779,2,2,0,4,0,0,NA,886,3682,11102,0
+76,co-op,NA,gas,0,combo,800,2,1,0,6,0,0,NA,NA,NA,11004,0
+74,co-op,other,gas,1,eatin,653,2,1,0,5,0,0,NA,NA,NA,11004,0
+74,co-op,combo,gas,0,efficiency kitchen,631,2,1,0,4,25,39,NA,NA,NA,11004,0
+74,co-op,combo,gas,0,eatin,702,2,1,0,5,0,39,NA,NA,NA,11004,0
+74,co-op,other,gas,0,efficiency kitchen,514,1,1,0,3,25,39,NA,NA,NA,11004,0
+64,co-op,formal,gas,0,eatin,764,2,1,0,4,25,0,NA,1000,NA,11354,0
+69,co-op,combo,gas,0,efficiency,769,2,1,0,4,0,0,NA,900,NA,11354,0
+74,co-op,combo,gas,0,efficiency kitchen,654,1,1,0,3,0,0,NA,NA,NA,11354,0
+18,condo,NA,gas,0,eatin,NA,1,1,0,4,0,0,NA,729,216,11102,373
+70,co-op,combo,oil,0,eatin,NA,1,1,0,4,0,0,NA,NA,NA,11354,650
+74,co-op,combo,gas,0,eatin,723,2,1,0,4,0,39,NA,764,NA,11004,0
+49,co-op,combo,oil,1,efficiency kitchen,885,1,1,0,3,88,50,NA,750,NA,11005,0
+49,co-op,combo,gas,1,efficiency kitchen,1048,1,1,1,3,80,50,NA,835,NA,11005,0
+49,co-op,NA,electric,1,efficiency,1583,1,1,1,4,87,50,NA,1190,NA,11005,0
+49,co-op,formal,NA,1,eatin,1689,1,1,1,4,80,50,NA,1200,NA,11005,0
+49,co-op,formal,oil,1,eatin,1928,1,1,1,4,80,50,NA,1200,NA,11005,0
+49,co-op,formal,oil,1,eatin,1928,1,1,1,4,80,50,NA,1200,NA,11005,0
+49,co-op,NA,oil,1,efficiency kitchen,1751,1,1,1,4,145,50,NA,1200,NA,11005,0
+49,co-op,formal,electric,0,eatin,2258,2,2,1,5,168,50,NA,1549,NA,11005,0
+49,co-op,formal,gas,1,efficiency,2186,2,2,1,5,87,0,NA,1549,NA,11005,0
+49,co-op,combo,gas,1,efficiency kitchen,1118,1,1,0,3,0,0,NA,NA,NA,11005,0
+49,co-op,combo,oil,1,efficiency kitchen,1002,1,1,0,3,145,50,NA,800,NA,11005,0
+49,co-op,formal,electric,1,efficiency,1346,1,1,1,4,87,50,NA,1010,NA,11005,0
+49,co-op,formal,electric,1,efficiency kitchen,1346,1,1,1,4,87,50,NA,1010,NA,11005,0
+49,co-op,NA,gas,0,efficiency kitchen,1378,1,1,1,4,87,50,NA,1131,NA,11005,0
+49,co-op,NA,electric,1,efficiency kitchen,1726,1,1,1,4,0,50,NA,1200,NA,11005,0
+49,co-op,NA,electric,1,eatin,1573,1,1,1,4,87,50,NA,1230,NA,11005,0
+49,co-op,NA,oil,1,eatin,2146,2,2,1,5,176,50,NA,1500,NA,11005,0
+49,co-op,formal,electric,1,efficiency,2048,2,2,1,5,87,50,NA,1549,NA,11005,0
+49,co-op,combo,oil,0,efficiency,956,1,1,0,3,0,50,NA,750,NA,11005,0
+49,co-op,combo,gas,1,efficiency,986,1,1,0,4,0,50,NA,834,NA,11005,0
+49,co-op,combo,electric,1,eatin,1193,1,1,0,4,88,0,NA,881,NA,11005,0
+49,co-op,formal,electric,1,eatin,1763,1,1,1,4,80,50,NA,1341,NA,11005,0
+49,co-op,formal,electric,1,eatin,2597,2,2,1,5,87,50,NA,1622,NA,11005,0
+49,co-op,formal,gas,1,eatin,2435,2,2,1,5,80,0,NA,1622,NA,11005,0
+49,co-op,NA,oil,0,eatin,1643,1,1,1,4,88,50,NA,1150,NA,11005,0
+72,co-op,formal,gas,0,eatin,661,2,1,0,4,0,0,NA,571,NA,11427,0
+69,co-op,combo,gas,0,eatin,908,2,1,0,4,0,0,NA,NA,NA,11354,0
+69,co-op,formal,oil,0,efficiency,814,1,1,0,3,0,0,NA,NA,NA,11354,0
+64,co-op,combo,gas,0,efficiency kitchen,638,1,1,0,3,0,0,NA,NA,NA,11354,0
+64,co-op,formal,oil,0,eatin,1022,3,2,0,6,0,0,NA,NA,NA,11354,0
+64,co-op,formal,gas,0,eatin,779,3,2,0,6,0,0,NA,NA,NA,11354,0
+72,co-op,formal,oil,0,eatin,605,1,1,0,4,100,0,NA,890,NA,11354,0
+64,co-op,other,gas,0,efficiency kitchen,347,NA,1,0,2,0,0,NA,NA,NA,11354,0
+14,condo,NA,gas,0,combo,NA,2,1,0,5,0,0,NA,NA,395,11106,350
+14,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,120,11102,282
+17,condo,combo,NA,0,eatin,NA,2,2,0,6,0,0,NA,757,13,11354,0
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1122,13,11354,295
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1122,13,11354,275
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1233,13,11354,295
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1233,13,11354,302
+17,condo,other,gas,0,none,NA,NA,2,0,0,0,0,NA,2454,219,11354,437
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1233,13,11354,289
+17,condo,combo,gas,1,combo,NA,2,2,0,4,0,0,NA,NA,20,11354,220
+69,co-op,combo,gas,0,eatin,718,1,1,0,3,0,0,NA,750,NA,11354,0
+72,co-op,other,oil,0,eatin,590,1,1,0,1,0,40,NA,700,NA,11369,0
+72,co-op,other,oil,0,eatin,722,2,1,0,4,48,40,NA,NA,NA,11369,0
+NA,co-op,NA,NA,0,NA,NA,NA,1,0,4,0,0,NA,NA,NA,"32-42 89th St,  E. Elmhurst NY, 1136",0
+38,condo,combo,gas,1,combo,NA,3,2,1,6,0,0,NA,1633,3802,11356,590
+67,co-op,combo,oil,0,efficiency kitchen,494,1,1,0,3,0,0,NA,700,NA,11372,0
+NA,co-op,formal,oil,0,efficiency kitchen,695,2,1,0,4,0,0,NA,NA,NA,11372,0
+72,co-op,NA,oil,0,efficiency kitchen,642,2,1,0,4,0,0,NA,NA,NA,11372,0
+66,co-op,other,gas,0,efficiency kitchen,507,1,1,0,3,0,0,NA,675,NA,11372,0
+67,co-op,combo,NA,0,efficiency kitchen,482,1,1,0,4,75,0,NA,NA,NA,11372,0
+66,co-op,combo,gas,0,efficiency kitchen,570,1,1,0,3,0,0,NA,730,NA,11372,0
+74,co-op,combo,oil,0,efficiency kitchen,490,1,1,0,3,0,0,NA,NA,NA,11372,0
+66,co-op,combo,gas,0,efficiency kitchen,659,2,1,0,4,500,0,NA,875,NA,11106,0
+66,co-op,NA,gas,0,combo,860,3,1,1,5,0,0,NA,NA,NA,11106,0
+66,co-op,NA,gas,0,combo,661,2,1,0,4,0,0,NA,NA,NA,11106,0
+72,co-op,NA,other,1,efficiency,565,1,1,1,3,100,0,NA,NA,NA,11372,0
+85,co-op,formal,gas,0,eatin,1269,2,2,0,5,0,0,NA,1050,NA,11372,0
+85,co-op,formal,gas,0,efficiency kitchen,893,1,1,0,4,0,0,NA,NA,NA,11372,0
+85,co-op,combo,gas,0,efficiency kitchen,905,2,1,0,4,0,0,NA,NA,NA,11372,0
+62,co-op,formal,oil,0,eatin,685,2,2,0,7,0,0,NA,NA,NA,11354,0
+62,co-op,formal,oil,0,eatin,685,2,2,0,7,0,0,NA,NA,NA,11354,0
+69,co-op,combo,gas,0,eatin,593,1,1,0,4,0,0,NA,NA,NA,"34-30 78th St,  Jackson Heights NY, 1137",0
+73,co-op,formal,gas,1,eatin,578,1,1,0,4,133,35,NA,NA,NA,11372,0
+85,co-op,NA,gas,0,combo,892,1,1,0,4,0,0,NA,NA,NA,11372,0
+64,co-op,NA,gas,0,combo,800,1,1,0,4,0,0,NA,NA,NA,11377,0
+94,condo,combo,oil,0,eatin,549,1,1,0,3,0,0,NA,1000,3673,11372,0
+16,condo,formal,gas,0,combo,NA,2,2,0,5,0,0,NA,998,45,11354,277
+20,condo,combo,gas,0,eatin,NA,2,2,0,4,0,0,NA,NA,45,11354,245
+20,condo,combo,gas,0,eatin,NA,2,2,0,4,0,0,NA,643,449,11354,258
+44,co-op,NA,gas,0,combo,504,1,1,0,4,0,0,NA,650,NA,11358,0
+74,co-op,formal,gas,0,combo,546,1,2,0,4,0,0,NA,650,NA,11358,0
+103,co-op,formal,gas,0,efficiency kitchen,691,2,1,1,5,0,30,NA,1050,NA,11372,0
+108,co-op,formal,gas,0,eatin,467,1,1,0,3,0,0,NA,800,NA,11372,0
+9,condo,formal,gas,0,eatin,NA,1,1,0,2,0,0,NA,495,153,11354,224
+36,condo,combo,gas,0,combo,NA,2,1,1,5,0,0,NA,NA,5363,11354,620
+66,co-op,NA,NA,0,efficiency,NA,1,1,0,3,0,0,NA,547,2424,11372,353
+76,co-op,NA,gas,0,none,686,1,1,0,4,0,0,NA,733,NA,11372,0
+82,co-op,formal,gas,0,eatin,748,1,1,0,4,0,0,NA,950,NA,11372,0
+94,co-op,combo,gas,0,eatin,641,1,1,0,3,0,0,NA,NA,NA,"35-25 77 St,  Jackson Heights NY, 1137",0
+103,co-op,formal,gas,0,efficiency kitchen,812,3,2,0,6,0,30,NA,1250,NA,11372,0
+84,co-op,formal,oil,0,efficiency,783,1,1,0,3,0,50,NA,NA,NA,11372,0
+69,co-op,combo,NA,1,efficiency kitchen,596,1,1,0,4,65,0,NA,650,NA,11372,0
+69,co-op,NA,oil,0,efficiency kitchen,541,1,1,0,3,0,0,NA,720,NA,11372,0
+71,co-op,NA,gas,0,efficiency kitchen,486,NA,1,0,2,0,0,NA,450,NA,11372,0
+86,co-op,formal,NA,0,eatin,732,1,1,0,4,0,0,NA,NA,NA,11372,0
+74,co-op,other,gas,0,efficiency kitchen,569,1,1,0,3,0,0,NA,725,NA,11372,0
+79,co-op,NA,oil,0,efficiency kitchen,299,NA,1,0,2,0,0,NA,NA,NA,11372,0
+102,co-op,NA,gas,0,efficiency kitchen,850,2,2,0,5,0,25,NA,1100,NA,11372,0
+97,condo,combo,oil,0,efficiency,NA,2,1,0,4,0,0,NA,738,3284,11372,416
+NA,condo,NA,oil,0,efficiency,NA,1,1,0,5,0,0,NA,555,2595,11372,387
+87,condo,formal,oil,0,eatin,NA,3,1,1,6,0,0,NA,1200,4800,11358,536
+14,condo,NA,gas,0,efficiency kitchen,NA,2,1,0,5,0,0,NA,604,258,11358,224
+12,condo,combo,gas,0,combo,NA,3,2,0,7,0,0,NA,NA,372,11354,460
+74,co-op,combo,oil,0,efficiency kitchen,715,1,1,0,3,0,0,NA,NA,NA,11358,0
+13,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1040,189,11368,329
+16,condo,combo,gas,0,combo,NA,2,1,0,5,0,0,NA,NA,550,11354,0
+96,co-op,NA,oil,0,efficiency kitchen,565,1,1,0,2,0,50,NA,NA,NA,11372,0
+85,co-op,combo,oil,0,eatin,820,1,1,0,3,0,50,NA,750,NA,11372,0
+96,co-op,NA,oil,0,efficiency kitchen,912,1,1,0,4,0,50,NA,NA,NA,11372,0
+62,co-op,combo,gas,1,efficiency kitchen,720,1,1,0,3,0,0,NA,NA,NA,11372,0
+69,co-op,other,gas,0,eatin,914,2,2,0,5,0,0,NA,1150,NA,11372,0
+105,co-op,formal,gas,0,efficiency kitchen,504,1,1,0,4,0,30,NA,800,NA,11372,0
+108,co-op,NA,oil,0,eatin,528,2,1,0,5,0,0,NA,850,NA,11377,0
+21,condo,formal,gas,0,combo,507,1,1,0,4,200,0,NA,NA,450,11368,0
+87,condo,formal,oil,0,efficiency kitchen,400,1,1,0,5,0,0,NA,NA,2584,11373,0
+13,condo,NA,gas,1,combo,NA,2,1,1,5,395,0,NA,822,291,11368,0
+88,condo,formal,oil,0,eatin,NA,1,1,0,4,0,0,NA,870,210,11104,546
+37,condo,formal,gas,1,eatin,NA,5,3,0,11,0,0,NA,2200,7774,11356,486
+88,co-op,other,gas,0,efficiency kitchen,549,1,1,0,3,0,50,NA,725,NA,11104,0
+88,co-op,other,gas,0,efficiency kitchen,488,1,1,0,3,0,50,NA,725,NA,11104,0
+88,co-op,combo,gas,0,eatin,491,1,1,0,3,0,0,NA,NA,NA,11104,0
+21,condo,formal,gas,0,combo,NA,2,1,1,5,0,0,NA,850,1350,11355,320
+21,condo,other,gas,0,combo,NA,2,1,1,5,0,0,NA,NA,1800,11355,320
+21,condo,other,gas,0,combo,NA,2,1,1,5,0,0,NA,NA,1800,11355,320
+62,co-op,formal,oil,0,efficiency kitchen,515,2,1,0,4,0,0,NA,NA,NA,11377,0
+15,condo,combo,gas,0,combo,171,2,1,0,4,0,0,NA,650,200,11377,0
+45,condo,combo,gas,0,eatin,NA,2,1,1,5,0,0,NA,910,4225,11355,602
+73,co-op,other,oil,0,efficiency kitchen,843,2,2,0,6,90,0,NA,NA,NA,11373,0
+29,condo,NA,gas,0,eatin,NA,NA,1,0,3,0,0,NA,569,2425,11377,305
+44,condo,NA,gas,1,eatin,NA,3,2,1,7,0,0,NA,2050,4738,11356,428
+98,co-op,combo,oil,0,efficiency kitchen,660,1,1,0,3,0,0,NA,634,NA,11373,0
+60,co-op,combo,gas,0,efficiency kitchen,540,1,1,0,3,0,0,NA,665,NA,11363,0
+11,condo,combo,gas,0,eatin,590,2,2,0,4,0,0,NA,NA,29,11355,0
+18,condo,formal,gas,0,combo,NA,2,2,0,4,0,0,NA,800,250,11373,219
+63,co-op,NA,oil,0,combo,412,1,1,0,2,0,0,NA,NA,NA,11355,0
+62,co-op,NA,oil,0,eatin,NA,NA,1,0,2,0,0,NA,NA,NA,11355,410
+62,co-op,combo,gas,0,efficiency kitchen,410,NA,1,0,2,0,0,NA,NA,NA,11355,0
+39,condo,combo,gas,0,combo,NA,1,1,0,3,0,0,NA,720,2922,11355,215
+68,co-op,NA,gas,0,efficiency kitchen,613,1,1,0,4,0,0,NA,NA,NA,11355,0
+64,co-op,formal,gas,0,combo,NA,1,1,0,4,0,0,NA,800,NA,11355,0
+65,co-op,combo,gas,0,combo,636,2,1,0,4,0,0,NA,900,NA,11355,0
+11,condo,formal,gas,0,combo,NA,1,1,0,3,0,0,NA,804,66,11104,185
+60,co-op,NA,gas,0,eatin,973,3,2,0,6,0,50,NA,1300,NA,11355,0
+63,co-op,NA,gas,0,combo,690,1,1,0,3,0,35,NA,800,NA,11355,0
+63,co-op,NA,gas,0,combo,940,2,2,0,5,0,35,NA,1200,NA,11355,0
+60,co-op,formal,gas,0,eatin,963,3,2,0,6,0,0,NA,1300,NA,11355,0
+63,co-op,NA,oil,0,efficiency,1086,3,2,0,6,120,0,NA,NA,NA,11355,0
+63,co-op,NA,gas,0,combo,787,2,1,0,4,0,0,NA,NA,NA,11355,0
+12,condo,combo,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,892,11361,335
+23,condo,combo,NA,0,eatin,NA,1,1,0,3,0,0,NA,NA,2333,11355,213
+17,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,17,11355,210
+17,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,17,11355,0
+63,co-op,combo,oil,0,efficiency kitchen,930,2,2,0,5,0,0,NA,NA,NA,11363,0
+93,condo,NA,electric,0,eatin,NA,1,1,0,5,0,0,NA,743,2808,11104,319
+74,co-op,formal,gas,0,eatin,901,3,1,0,7,0,0,NA,1300,NA,11355,0
+70,co-op,combo,gas,0,eatin,706,2,1,0,5,0,0,NA,850,NA,11355,0
+70,co-op,formal,gas,0,eatin,700,2,1,0,6,0,0,NA,850,NA,11355,0
+66,condo,combo,oil,0,efficiency,NA,1,1,0,4,0,0,NA,NA,2382,11355,453
+66,condo,combo,oil,0,efficiency,NA,1,1,0,4,0,0,NA,NA,2382,11355,453
+94,co-op,other,oil,0,efficiency kitchen,575,1,1,1,4,0,0,NA,NA,NA,11103,0
+70,co-op,formal,electric,0,eatin,NA,2,1,0,5,0,0,NA,NA,NA,11355,0
+84,co-op,combo,NA,0,eatin,798,1,1,0,3,0,0,NA,950,NA,11415,0
+36,condo,combo,gas,0,eatin,210,2,1,1,4,0,0,NA,850,3400,11373,0
+37,condo,combo,gas,0,combo,NA,2,1,1,5,0,0,NA,800,2800,11358,226
+37,condo,combo,gas,0,combo,NA,2,1,1,5,0,0,NA,800,2800,11358,226
+64,co-op,NA,NA,0,eatin,550,NA,1,0,3,0,0,NA,NA,NA,11362,0
+87,co-op,NA,gas,0,eatin,783,1,1,0,3,0,40,NA,600,NA,11377,0
+74,co-op,formal,gas,0,combo,460,1,1,0,4,0,0,NA,NA,NA,11377,0
+37,condo,formal,gas,0,combo,NA,2,2,1,7,0,0,NA,NA,3280,11356,376
+36,condo,formal,gas,1,eatin,NA,2,1,1,5,0,0,NA,NA,3740,11373,265
+62,condo,other,gas,0,eatin,NA,1,1,0,3,0,0,NA,663,3200,11373,490
+69,co-op,combo,gas,0,efficiency,670,2,1,0,4,0,0,NA,NA,NA,11378,0
+69,co-op,combo,gas,0,efficiency kitchen,670,2,1,0,4,0,0,NA,NA,NA,11378,0
+60,condo,combo,gas,0,efficiency kitchen,NA,2,1,0,4,0,0,NA,872,3359,11373,448
+37,condo,formal,gas,1,efficiency,NA,2,2,0,6,0,0,NA,NA,2700,11356,380
+63,co-op,combo,gas,0,efficiency,687,1,1,0,3,95,0,NA,NA,NA,11362,0
+63,co-op,formal,gas,0,efficiency kitchen,877,2,1,0,4,0,0,NA,NA,NA,11362,0
+63,co-op,combo,gas,0,efficiency,644,1,1,0,3,0,0,NA,NA,NA,11362,0
+63,co-op,combo,gas,0,efficiency kitchen,634,1,1,0,3,0,0,NA,NA,NA,11362,0
+33,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,1020,1860,11368,280
+69,condo,NA,oil,0,eatin,NA,2,1,0,4,0,0,NA,800,3478,11365,390
+71,co-op,combo,oil,0,eatin,1022,2,1,0,5,0,0,NA,NA,NA,11362,0
+74,co-op,NA,gas,0,efficiency kitchen,673,1,1,0,3,0,30,NA,650,NA,11362,0
+56,co-op,formal,gas,1,eatin,511,NA,1,0,2,180,0,NA,NA,NA,11368,0
+8,condo,formal,gas,0,combo,NA,1,1,0,3,0,0,NA,622,150,11355,0
+8,condo,other,gas,0,combo,NA,2,1,0,4,0,0,NA,900,120,11355,315
+56,co-op,formal,gas,0,efficiency kitchen,863,2,2,0,4,0,0,NA,NA,NA,11374,0
+62,co-op,other,oil,0,eatin,977,3,2,0,7,0,0,NA,1428,NA,11377,0
+74,co-op,formal,gas,0,efficiency kitchen,695,1,1,0,3,0,30,NA,650,NA,11362,0
+97,condo,NA,other,0,eatin,NA,1,1,0,3,0,0,NA,741,245,11377,377
+97,condo,NA,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,258,11377,398
+62,co-op,combo,gas,0,efficiency kitchen,1003,2,2,0,5,150,0,NA,1150,NA,11374,0
+62,co-op,combo,gas,1,eatin,648,1,1,0,3,150,50,NA,750,NA,11374,0
+57,co-op,combo,gas,0,efficiency ktchen,995,1,1,0,3,150,0,NA,900,NA,"61-20 Grand Central Pky,  Forest Hills NY, 1137",0
+60,co-op,formal,gas,0,efficiency kitchen,1265,2,1,0,4,0,0,NA,1000,NA,11375,0
+64,co-op,formal,gas,0,eatin,1248,2,1,0,5,150,40,NA,1050,NA,11375,0
+59,co-op,formal,gas,0,efficiency kitchen,1601,2,2,0,4,0,40,NA,1200,NA,11375,0
+59,co-op,formal,gas,0,efficiency kitchen,1757,2,2,0,5,0,35,NA,1300,NA,11375,0
+57,co-op,combo,gas,1,efficiency kitchen,1700,3,2,0,6,0,0,NA,1450,NA,11375,0
+60,co-op,combo,gas,0,efficiency kitchen,1034,2,1,0,4,0,0,NA,NA,NA,11375,0
+59,co-op,formal,gas,0,eatin,1708,2,2,0,4,0,0,NA,1300,NA,11375,0
+62,co-op,combo,gas,1,eatin,850,2,1,0,4,150,50,NA,975,NA,11374,0
+64,co-op,formal,oil,1,eatin,1241,3,2,0,6,150,50,NA,1400,NA,11374,0
+64,co-op,combo,NA,0,efficiency kitchen,642,1,1,0,3,0,0,NA,NA,NA,11374,0
+69,co-op,other,oil,0,combo,842,2,1,0,4,0,0,NA,NA,NA,11374,0
+74,co-op,formal,gas,0,efficiency kitchen,709,1,1,0,4,160,50,NA,800,NA,11374,0
+64,co-op,combo,oil,1,combo,462,NA,1,0,0,160,50,NA,310,NA,11374,0
+69,co-op,combo,oil,0,eatin,731,2,1,0,4,80,0,NA,850,NA,11364,0
+64,co-op,combo,oil,1,efficiency kitchen,675,1,1,0,3,160,0,NA,700,NA,11374,0
+64,co-op,combo,oil,1,efficiency,938,2,1,0,5,160,0,NA,NA,NA,11374,0
+53,condo,combo,gas,1,eatin,NA,3,2,1,6,0,0,NA,1520,4415,11362,354
+36,condo,combo,gas,1,combo,NA,2,1,1,8,56,0,NA,1000,3500,11374,779
+74,co-op,formal,gas,0,eatin,718,2,1,0,4,0,0,NA,1200,NA,11375,0
+69,co-op,combo,gas,0,efficiency kitchen,398,NA,1,0,2,0,0,NA,NA,NA,11375,0
+64,co-op,NA,gas,1,combo,811,2,1,0,6,95,0,NA,1550,NA,11375,0
+64,co-op,other,gas,1,combo,811,2,1,0,6,95,0,NA,1250,2499,11375,0
+79,co-op,formal,oil,0,eatin,643,1,1,0,3,0,0,NA,NA,NA,11374,0
+75,condo,combo,gas,0,efficiency kitchen,NA,2,1,0,5,125,0,NA,NA,3606,11374,518
+75,condo,other,NA,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,350,11374,440
+72,condo,NA,gas,0,combo,NA,NA,1,0,2,0,0,NA,NA,2013,11374,0
+72,condo,formal,oil,0,eatin,NA,1,1,0,4,0,0,NA,900,2450,11374,418
+16,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,719,31,11375,560
+16,condo,combo,gas,1,eatin,NA,2,2,0,5,0,0,NA,1250,65,11375,830
+74,co-op,combo,gas,0,combo,690,2,1,0,4,0,50,NA,900,NA,11374,0
+72,co-op,formal,oil,1,eatin,1225,3,2,0,6,150,47,NA,1350,NA,11374,0
+69,co-op,combo,oil,0,combo,445,1,1,0,3,0,0,NA,NA,NA,11374,0
+39,condo,formal,gas,0,efficiency,NA,3,2,0,6,0,0,NA,1160,2423,11374,520
+85,co-op,NA,oil,0,combo,482,NA,1,0,2,0,0,NA,NA,NA,11374,0
+64,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,3047,11362,402
+41,condo,NA,NA,0,eatin,NA,1,1,0,3,0,0,NA,NA,1829,11362,170
+61,co-op,combo,oil,0,efficiency,640,2,1,0,5,0,0,NA,NA,NA,11377,0
+72,co-op,NA,oil,0,efficiency,400,NA,1,0,3,0,50,NA,NA,NA,11377,0
+72,co-op,combo,oil,0,eatin,720,2,2,0,7,0,50,NA,NA,NA,11377,0
+75,co-op,combo,gas,0,efficiency,859,2,1,0,4,0,0,NA,NA,NA,11364,0
+10,condo,formal,gas,0,eatin,NA,1,2,1,6,0,0,NA,NA,6988,11377,0
+85,co-op,other,oil,0,eatin,799,1,1,0,3,0,45,NA,800,NA,11374,0
+61,condo,formal,oil,1,combo,NA,1,1,0,3,225,0,NA,NA,2413,11374,0
+61,condo,formal,oil,1,eatin,NA,NA,1,0,4,250,0,NA,860,3500,11374,362
+61,condo,formal,oil,0,combo,NA,2,1,0,5,225,0,NA,870,3945,11374,360
+61,condo,formal,oil,1,eatin,NA,2,1,0,5,0,0,NA,NA,4227,11374,437
+61,condo,formal,oil,1,eatin,NA,1,1,0,4,225,0,NA,620,3127,11374,254
+85,co-op,combo,gas,0,eatin,916,2,1,0,5,0,50,NA,NA,NA,11374,0
+61,co-op,combo,oil,1,none,418,NA,1,0,3,0,0,NA,550,NA,11375,0
+64,co-op,combo,oil,0,combo,410,NA,1,0,3,125,0,NA,NA,NA,11375,0
+74,co-op,formal,gas,0,combo,550,1,1,0,3,0,50,NA,NA,NA,11375,0
+74,co-op,combo,oil,0,efficiency kitchen,671,1,1,0,3,0,50,NA,700,NA,11374,0
+59,co-op,combo,gas,1,efficiency kitchen,943,2,1,0,4,150,50,NA,1000,NA,11375,0
+59,co-op,combo,gas,0,efficiency kitchen,824,1,1,0,3,150,0,NA,NA,NA,11375,0
+59,co-op,NA,oil,1,combo,1165,2,1,0,4,0,0,NA,NA,NA,11375,0
+39,condo,other,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,1300,3491,11379,422
+39,condo,other,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,1300,3491,11379,422
+17,condo,combo,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,911,11379,373
+68,co-op,combo,electric,0,efficiency kitchen,597,1,1,0,3,0,50,NA,600,NA,11375,0
+69,co-op,NA,gas,0,efficiency kitchen,584,1,1,0,3,125,0,NA,NA,NA,11365,0
+74,co-op,combo,gas,0,efficiency kitchen,908,2,1,0,4,0,0,NA,NA,NA,11364,0
+69,co-op,formal,gas,1,efficiency kitchen,913,2,1,0,5,130,0,NA,1000,NA,11375,0
+69,co-op,combo,gas,1,combo,632,1,1,0,3,185,50,NA,750,NA,11375,0
+74,co-op,formal,oil,0,efficiency kitchen,534,1,1,0,3,0,0,NA,NA,NA,11375,0
+74,co-op,combo,oil,1,efficiency kitchen,929,2,1,0,5,120,0,NA,NA,NA,11375,0
+74,co-op,formal,gas,0,eatin,500,2,1,0,5,11,65,NA,NA,NA,11364,0
+69,co-op,combo,gas,0,eatin,1103,2,1,1,5,0,0,NA,NA,NA,11375,0
+79,co-op,combo,gas,0,eatin,805,1,1,0,3,189,0,NA,NA,NA,11375,0
+75,co-op,NA,oil,0,combo,679,1,1,0,2,189,32,NA,NA,NA,11375,0
+77,co-op,formal,gas,0,efficiency kitchen,1410,3,2,0,5,189,0,NA,NA,NA,11375,0
+73,co-op,other,NA,1,eatin,493,1,1,0,3,0,38,NA,NA,NA,11375,0
+69,co-op,formal,oil,0,efficiency,658,1,1,0,3,0,0,NA,700,NA,11367,0
+64,co-op,NA,gas,0,efficiency kitchen,429,NA,1,0,1,0,0,NA,500,NA,11375,0
+74,condo,combo,gas,0,eatin,2127,2,1,0,4,0,0,NA,NA,NA,11364,336
+74,co-op,NA,gas,0,eatin,1075,3,2,0,8,0,50,NA,NA,NA,11375,0
+75,co-op,other,oil,1,efficiency,612,1,1,0,3,133,48,NA,621,NA,11375,0
+75,co-op,combo,gas,1,eatin,899,2,1,0,5,50,0,NA,NA,NA,11364,0
+74,co-op,combo,NA,0,efficiency kitchen,658,1,1,0,3,0,0,NA,NA,NA,11367,0
+92,co-op,formal,gas,1,eatin,996,2,2,0,4,75,0,NA,NA,NA,11375,0
+74,co-op,formal,NA,0,efficiency,1013,2,1,0,5,0,0,NA,865,NA,11367,0
+84,co-op,NA,oil,0,combo,700,1,1,0,2,0,50,NA,NA,NA,11375,0
+74,co-op,formal,NA,0,efficiency kitchen,1013,2,1,0,5,0,0,NA,NA,NA,11367,0
+74,co-op,NA,gas,0,eatin,745,1,1,0,4,0,0,NA,NA,NA,11367,0
+75,co-op,combo,oil,0,eatin,740,1,1,0,4,145,0,NA,750,NA,11375,0
+70,co-op,NA,gas,1,efficiency,1620,3,2,0,8,140,36,NA,NA,NA,11375,0
+68,co-op,formal,gas,0,efficiency kitchen,1287,2,2,0,7,0,0,NA,NA,NA,11375,0
+85,co-op,combo,oil,0,combo,791,1,1,0,3,0,50,NA,NA,NA,11375,0
+84,co-op,formal,gas,0,eatin,817,1,1,0,4,150,0,NA,725,NA,11375,0
+82,co-op,other,NA,1,eatin,1050,2,1,0,5,150,0,NA,NA,NA,11375,0
+84,co-op,other,oil,1,eatin,805,1,1,0,3,0,0,NA,NA,NA,11375,0
+74,co-op,formal,gas,0,efficiency,542,2,1,0,5,0,0,NA,NA,NA,11364,0
+69,co-op,combo,gas,0,combo,578,1,1,0,3,0,50,NA,NA,NA,11364,0
+84,co-op,other,other,0,eatin,1335,2,2,0,4,0,50,NA,1155,NA,11375,0
+84,co-op,other,other,0,eatin,1339,2,2,0,5,0,50,NA,1231,NA,11375,0
+84,co-op,other,other,0,eatin,1790,4,2,0,7,0,50,NA,1557,NA,11375,0
+74,condo,formal,oil,0,eatin,NA,2,2,0,5,0,0,NA,1215,4104,11375,740
+74,co-op,combo,gas,0,efficiency kitchen,461,2,1,0,5,0,0,NA,NA,NA,11364,0
+74,co-op,formal,oil,0,efficiency kitchen,652,1,1,0,3,0,0,NA,NA,NA,11367,0
+75,co-op,combo,gas,0,efficiency kitchen,753,2,1,0,5,40,0,NA,NA,NA,11367,0
+57,co-op,formal,gas,0,eatin,1478,2,2,0,6,180,0,NA,1415,NA,11375,0
+57,co-op,formal,gas,1,eatin,1317,2,2,0,5,0,0,NA,NA,NA,11375,0
+62,co-op,NA,gas,1,eatin,750,1,1,0,4,165,0,NA,752,NA,11375,0
+60,co-op,combo,gas,0,efficiency kitchen,687,1,1,0,1,0,0,NA,625,NA,11375,0
+60,co-op,NA,gas,0,combo,540,NA,1,0,2,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,897,1,1,0,3,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,715,1,1,0,3,0,0,NA,NA,NA,11375,0
+60,co-op,NA,gas,0,combo,876,1,1,0,3,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,1092,2,1,0,4,0,0,NA,NA,NA,11375,0
+60,co-op,formal,gas,0,combo,1191,2,1,0,4,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,683,NA,1,0,3,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,851,1,1,0,3,0,0,NA,NA,NA,11375,0
+69,co-op,formal,oil,0,eatin,NA,1,1,0,3,0,0,NA,800,NA,11375,840
+74,co-op,combo,oil,0,combo,677,NA,1,0,3,0,0,NA,NA,NA,11375,0
+74,co-op,combo,oil,0,eatin,715,1,1,0,4,0,0,NA,NA,NA,11426,0
+74,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,NA,1800,11367,460
+17,condo,formal,gas,0,eatin,NA,3,2,0,8,0,0,NA,1400,394,11365,652
+69,co-op,NA,oil,0,none,1280,1,1,0,4,0,0,NA,700,NA,11375,0
+68,co-op,combo,gas,1,eatin,1042,2,1,0,5,0,0,NA,NA,NA,11375,0
+69,co-op,combo,gas,0,efficiency kitchen,858,1,1,0,3,60,0,NA,850,NA,11357,0
+20,condo,formal,gas,0,efficiency kitchen,NA,3,2,0,7,0,0,NA,1100,54,11365,170
+20,condo,formal,gas,0,efficiency kitchen,NA,3,2,0,6,0,0,NA,1100,54,11365,170
+74,co-op,combo,oil,1,eatin,702,1,1,0,4,0,0,NA,NA,NA,11426,0
+84,condo,other,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,2411,11375,542
+55,co-op,combo,gas,0,efficiency kitchen,1017,1,1,0,3,0,0,NA,NA,NA,11375,0
+69,co-op,combo,oil,1,efficiency kitchen,1469,3,1,0,5,0,39,NA,NA,NA,11357,0
+74,co-op,combo,gas,1,efficiency kitchen,448,1,1,0,2,0,0,NA,333,NA,11375,0
+74,co-op,combo,oil,0,eatin,514,1,1,0,3,0,39,NA,585,NA,11004,0
+74,co-op,combo,oil,0,eatin,730,2,1,0,4,0,0,NA,NA,NA,11364,0
+74,co-op,combo,gas,0,eatin,NA,2,1,0,4,0,0,NA,721,NA,11004,0
+84,co-op,other,other,0,combo,1078,2,1,0,4,0,50,NA,980,NA,11372,0
+84,co-op,other,other,0,combo,1099,2,1,0,4,0,50,NA,1020,NA,11372,0
+84,co-op,other,other,0,combo,1104,2,1,0,4,0,50,NA,1171,NA,11372,0
+84,co-op,other,other,0,eatin,801,2,2,0,4,0,50,NA,1217,NA,11372,0
+84,co-op,formal,other,0,eatin,1788,3,2,0,5,0,0,NA,1518,NA,11372,0
+84,co-op,other,other,0,combo,697,1,1,0,3,0,50,NA,NA,NA,11372,0
+74,co-op,combo,gas,0,efficiency kitchen,673,2,1,0,4,0,39,NA,651,NA,11004,0
+86,co-op,NA,oil,0,eatin,750,1,1,0,3,0,0,NA,NA,NA,11375,0
+74,co-op,combo,gas,0,eatin,702,2,1,0,4,0,39,NA,721,NA,11004,0
+74,co-op,combo,gas,0,eatin,734,2,1,0,4,0,0,NA,NA,NA,11364,0
+62,co-op,NA,gas,0,efficiency kitchen,470,1,1,0,3,120,0,NA,600,NA,11377,0
+59,co-op,other,gas,0,efficiency kitchen,408,NA,1,0,2,0,0,NA,430,NA,11373,0
+77,co-op,combo,oil,0,efficiency kitchen,630,2,1,0,4,0,0,NA,NA,NA,11004,0
+69,co-op,formal,gas,0,eatin,NA,1,1,0,3,0,0,NA,450,NA,11374,433
+NA,co-op,NA,NA,0,NA,NA,2,1,0,5,0,0,NA,NA,NA,11364,0
+72,co-op,combo,oil,1,combo,505,1,1,0,3,190,50,NA,NA,NA,11375,0
+69,co-op,combo,gas,0,eatin,509,1,1,0,4,0,50,NA,NA,NA,11364,0
+74,co-op,NA,gas,0,eatin,475,NA,1,0,1,0,0,NA,380,NA,11375,0
+74,co-op,combo,gas,0,eatin,722,2,1,0,4,0,39,NA,766,NA,11004,0
+84,co-op,other,oil,0,eatin,615,1,1,0,3,0,50,NA,NA,NA,11375,0
+84,co-op,formal,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,NA,11372,0
+44,condo,formal,gas,0,eatin,350,2,1,0,4,0,0,NA,900,2936,11373,0
+75,co-op,combo,gas,0,eatin,529,1,1,0,3,0,39,NA,585,NA,11426,0
+84,condo,combo,oil,0,efficiency kitchen,499,1,1,0,4,0,0,NA,NA,142,11103,0
+87,co-op,other,gas,0,eatin,928,2,1,0,4,0,40,NA,1000,NA,11372,0
+87,co-op,NA,NA,0,eatin,NA,3,2,0,5,0,0,NA,1350,NA,11372,0
+85,co-op,combo,oil,0,efficiency kitchen,701,1,1,0,3,0,0,NA,800,NA,11375,0
+86,co-op,formal,oil,0,efficiency,864,1,1,0,3,0,0,NA,NA,NA,11375,0
+92,co-op,combo,gas,0,eatin,879,2,1,0,5,0,50,NA,NA,NA,11375,0
+74,co-op,NA,NA,0,efficiency kitchen,778,2,1,0,5,0,0,NA,750,NA,11367,0
+47,condo,combo,gas,0,eatin,310,1,1,0,4,0,0,NA,NA,1582,11414,0
+74,co-op,NA,gas,0,efficiency,841,2,1,0,5,75,0,NA,NA,NA,"78-07 Springfield Blvd,  Bayside NY, 1136",0
+85,co-op,combo,gas,0,eatin,1178,2,2,0,5,0,0,NA,NA,NA,11372,0
+85,co-op,combo,oil,0,eatin,674,1,1,0,3,0,0,NA,NA,NA,11372,0
+95,co-op,combo,oil,0,eatin,683,1,1,0,3,0,50,NA,NA,NA,11375,0
+74,co-op,NA,gas,0,efficiency kitchen,844,2,1,0,5,0,0,NA,NA,NA,11364,0
+69,co-op,combo,oil,0,efficiency,854,3,1,0,4,0,50,NA,NA,NA,11367,0
+74,co-op,combo,oil,0,efficiency kitchen,663,1,1,0,3,0,0,NA,590,NA,11414,0
+68,co-op,combo,gas,0,efficiency,756,1,1,1,4,0,0,NA,235,NA,"80-35 Springfield Blvd,  Queens Village NY, 1142",0
+68,co-op,combo,gas,0,efficiency,741,1,1,0,4,0,0,NA,850,NA,11364,0
+74,co-op,formal,oil,0,eatin,1116,2,2,0,6,0,0,NA,1200,NA,11373,0
+69,co-op,NA,oil,0,eatin,616,NA,1,0,3,0,0,NA,NA,NA,11004,0
+85,condo,formal,gas,0,efficiency kitchen,NA,3,1,0,6,0,0,NA,950,2255,11373,597
+74,co-op,combo,oil,0,efficiency kitchen,540,1,1,0,3,0,0,NA,700,NA,11415,0
+57,co-op,other,oil,0,eatin,493,2,1,0,4,0,0,NA,NA,NA,11421,0
+57,co-op,other,oil,0,eatin,493,2,1,0,4,0,0,NA,NA,NA,11421,0
+70,co-op,NA,oil,1,eatin,546,2,1,0,5,35,0,NA,NA,2766,11421,0
+74,co-op,combo,electric,0,combo,480,NA,1,0,3,0,0,NA,500,NA,11373,0
+74,co-op,other,gas,0,eatin,932,2,1,0,4,0,0,NA,NA,NA,11372,0
+69,co-op,combo,gas,0,eatin,563,2,1,0,4,0,0,NA,NA,NA,11421,0
+85,co-op,NA,gas,0,efficiency kitchen,834,1,1,0,3,145,0,NA,950,NA,11415,0
+74,co-op,formal,oil,0,eatin,959,2,1,0,4,140,0,NA,1000,NA,11415,0
+74,co-op,combo,oil,0,eatin,745,1,1,0,3,110,0,NA,700,NA,11415,0
+68,co-op,NA,gas,0,eatin,784,1,1,0,3,0,0,NA,NA,NA,11415,0
+92,co-op,combo,oil,0,eatin,NA,2,1,2,4,0,0,NA,NA,NA,11415,0
+79,co-op,NA,oil,0,efficiency kitchen,652,NA,1,0,3,0,50,NA,NA,NA,11415,0
+95,co-op,other,oil,0,eatin,864,1,1,0,3,0,50,NA,NA,NA,11415,0
+102,co-op,other,other,0,combo,674,1,1,0,2,0,0,NA,NA,NA,11415,0
+68,co-op,combo,electric,0,combo,375,1,1,0,3,0,0,NA,508,NA,11373,0
+20,condo,combo,gas,0,combo,NA,1,1,0,3,0,0,NA,NA,150,11415,307
+20,condo,NA,gas,1,eatin,NA,2,1,1,4,0,0,NA,1000,225,11415,439
+70,co-op,combo,gas,1,eatin,685,2,1,0,5,0,0,NA,NA,NA,11421,0
+74,co-op,formal,oil,0,efficiency kitchen,527,1,1,0,2,0,40,NA,600,NA,11415,0
+93,co-op,formal,oil,0,eatin,978,1,1,0,4,0,0,NA,NA,NA,11415,0
+64,co-op,formal,oil,0,efficiency kitchen,817,1,1,0,3,0,0,NA,800,NA,11435,0
+68,co-op,combo,NA,0,eatin,933,2,1,0,5,75,0,NA,NA,NA,11435,0
+64,co-op,formal,oil,0,efficiency kitchen,817,1,1,0,3,0,0,NA,800,NA,11435,0
+68,co-op,formal,gas,0,eatin,983,2,1,0,5,90,50,NA,1200,NA,11435,0
+NA,condo,combo,electric,1,combo,NA,2,1,1,4,0,0,NA,NA,3325,11418,362
+94,co-op,combo,gas,0,eatin,789,2,1,0,4,0,0,NA,1000,NA,11372,0
+59,co-op,formal,gas,0,efficiency kitchen,1054,2,2,0,5,70,0,NA,NA,NA,11414,0
+62,co-op,formal,oil,1,efficiency kitchen,442,NA,1,1,3,0,0,NA,525,NA,11373,0
+62,co-op,combo,oil,0,eatin,790,1,1,0,3,0,0,NA,750,NA,11373,0
+70,condo,combo,gas,0,efficiency kitchen,NA,2,1,0,4,0,0,NA,952,3500,11373,552
+65,co-op,formal,gas,1,eatin,805,2,1,0,5,0,50,NA,NA,NA,11435,0
+64,co-op,formal,gas,0,efficiency,1071,2,2,0,5,0,0,NA,NA,NA,11414,0
+85,co-op,formal,gas,1,combo,914,1,1,0,6,0,50,NA,900,NA,11432,0
+74,co-op,other,gas,0,eatin,929,1,1,0,3,0,0,NA,NA,NA,11432,0
+104,co-op,formal,gas,1,efficiency kitchen,NA,1,1,0,4,50,0,NA,900,NA,11432,0
+85,co-op,formal,NA,0,efficiency kitchen,910,1,1,0,4,0,0,NA,NA,NA,11432,0
+74,co-op,combo,oil,0,combo,765,2,1,0,4,90,0,NA,NA,NA,11432,0
+71,co-op,combo,gas,1,efficiency kitchen,609,1,1,0,3,0,42,NA,NA,NA,11432,0
+70,co-op,combo,gas,1,combo,461,NA,1,0,3,85,45,NA,NA,NA,11432,0
+83,co-op,formal,NA,0,eatin,917,1,1,0,3,0,0,NA,950,NA,11415,0
+83,co-op,combo,oil,0,eatin,829,1,1,0,4,0,0,NA,NA,NA,11415,0
+72,co-op,NA,oil,0,eatin,393,1,1,0,2,0,56,NA,NA,NA,11435,0
+74,co-op,combo,oil,0,eatin,720,2,1,0,4,0,46,NA,1100,NA,11415,0
+55,co-op,combo,gas,0,efficiency kitchen,602,1,1,0,3,0,0,NA,650,NA,11415,0
+55,co-op,combo,gas,0,combo,960,2,2,0,6,0,0,NA,NA,NA,11415,0
+64,co-op,NA,oil,0,eatin,516,NA,1,0,2,50,0,NA,NA,NA,11414,0
+12,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,1096,678,11373,330
+12,condo,formal,gas,0,eatin,NA,3,2,0,7,0,0,NA,1386,850,11373,330
+73,condo,formal,oil,0,eatin,NA,1,1,0,5,0,0,NA,706,2634,11372,379
+99,co-op,combo,oil,0,eatin,647,1,1,0,3,0,50,NA,NA,NA,11418,0
+60,co-op,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,NA,631,11373,0
+64,co-op,combo,oil,0,combo,842,2,1,0,4,0,50,NA,825,NA,11373,0
+60,co-op,combo,oil,1,efficiency kitchen,685,1,1,0,3,0,0,NA,800,NA,11373,0
+58,co-op,formal,oil,0,eatin,1127,3,2,0,6,30,0,NA,NA,NA,11414,0
+87,co-op,combo,oil,0,efficiency kitchen,575,1,1,0,4,0,40,NA,875,NA,11372,0
+73,co-op,NA,gas,0,eatin,804,2,1,0,4,0,0,NA,850,NA,11372,0
+69,co-op,formal,gas,0,combo,644,2,1,0,4,0,50,NA,NA,NA,11427,0
+NA,co-op,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,NA,11373,0
+64,co-op,formal,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,NA,11373,0
+61,co-op,NA,gas,0,efficiency kitchen,998,2,2,0,5,130,0,NA,NA,NA,11373,0
+61,co-op,combo,gas,0,efficiency kitchen,546,1,1,0,3,130,0,NA,NA,NA,11373,0
+64,co-op,formal,gas,1,eatin,500,NA,1,0,3,0,0,NA,575,NA,11373,500
+97,co-op,NA,oil,0,eatin,631,1,1,0,3,0,0,NA,NA,NA,11432,0
+38,condo,NA,gas,0,none,NA,NA,1,0,0,0,0,NA,NA,2800,11373,500
+55,condo,formal,gas,0,eatin,NA,2,2,0,5,25,0,NA,1200,3242,11414,621
+74,co-op,combo,gas,0,eatin,890,2,1,0,5,0,0,NA,NA,NA,11372,0
+66,co-op,NA,gas,0,eatin,575,NA,1,0,2,0,0,NA,NA,NA,11432,0
+74,co-op,combo,gas,0,efficiency kitchen,877,1,1,0,4,0,0,NA,NA,NA,11432,0
+74,co-op,formal,oil,0,efficiency kitchen,733,2,1,0,4,0,40,NA,NA,NA,11427,0
+61,co-op,other,gas,0,eatin,677,2,1,0,4,0,0,NA,NA,NA,11432,0
+74,co-op,formal,gas,0,eatin,NA,1,1,0,5,0,0,NA,NA,NA,11432,565
+62,co-op,combo,oil,0,efficiency kitchen,NA,3,2,0,5,25,0,NA,NA,NA,11414,774
+17,condo,formal,gas,1,combo,NA,2,2,0,7,0,0,NA,1550,28,11432,600
+69,co-op,other,gas,0,eatin,767,1,1,0,4,0,0,NA,650,NA,11423,0
+74,co-op,NA,oil,0,efficiency kitchen,439,NA,1,0,3,0,0,NA,NA,NA,11432,0
+65,co-op,combo,gas,0,eatin,NA,2,1,0,5,0,0,NA,800,500,11432,0
+60,co-op,NA,oil,0,efficiency,810,1,1,0,3,0,38,NA,NA,NA,11432,0
+74,co-op,NA,oil,0,efficiency kitchen,461,NA,1,0,2,0,38,NA,NA,NA,11432,0
+64,co-op,formal,gas,0,efficiency kitchen,848,2,1,0,5,0,0,NA,NA,NA,11414,0
+93,co-op,combo,oil,0,eatin,528,1,1,0,3,0,35,NA,1000,NA,11372,0
+89,co-op,NA,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,NA,11432,691
+74,co-op,formal,gas,0,efficiency,720,2,2,0,5,0,0,NA,NA,NA,11414,0
+74,co-op,NA,gas,0,efficiency kitchen,465,NA,1,0,2,0,0,NA,500,NA,11372,0
+72,co-op,formal,gas,0,efficiency kitchen,NA,1,1,0,4,45,0,NA,NA,NA,11372,0
+73,co-op,other,gas,1,eatin,680,2,1,0,4,45,0,NA,NA,NA,11372,0
+74,co-op,formal,gas,1,eatin,NA,3,3,0,7,0,0,NA,NA,4962,11414,0
+8,condo,formal,gas,1,eatin,NA,2,2,0,6,0,0,NA,892,291,11373,284
+34,condo,combo,gas,0,eatin,NA,2,1,0,5,0,0,NA,NA,2436,11373,190
+66,co-op,combo,oil,0,combo,872,1,1,0,3,60,39,NA,890,NA,11357,0
+37,condo,formal,NA,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,870,4524,11374,507
+37,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,881,4546,11374,825
+35,condo,formal,gas,0,combo,NA,2,2,0,4,0,0,NA,NA,4800,11374,585
+37,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,881,4546,11374,825
+37,condo,combo,electric,0,eatin,NA,2,2,0,4,0,0,NA,NA,4800,11374,0
+62,co-op,combo,NA,0,eatin,643,1,1,0,4,0,0,NA,800,NA,11373,0
+79,co-op,combo,oil,0,efficiency,636,1,1,0,4,0,0,NA,875,NA,11373,0
+65,co-op,combo,oil,1,efficiency kitchen,415,NA,1,0,2,0,0,NA,NA,NA,11373,0
+60,co-op,combo,gas,0,eatin,720,2,1,0,6,0,0,NA,1000,NA,11373,0
+60,co-op,other,gas,0,eatin,655,2,1,0,5,170,0,NA,900,NA,11373,0
+34,condo,other,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,3609,11373,347
+79,co-op,NA,oil,0,eatin,NA,2,1,0,4,0,0,NA,NA,NA,11373,0
+20,condo,formal,gas,0,efficiency kitchen,NA,2,2,2,5,30,0,NA,1625,1283,11417,620
+72,co-op,NA,oil,0,combo,1320,3,2,1,6,150,50,NA,1600,NA,11375,0
+69,co-op,combo,gas,1,eatin,1024,3,1,1,6,150,50,NA,1100,NA,11374,0
+69,co-op,combo,oil,0,eatin,785,2,1,0,5,0,50,NA,1000,NA,11374,0
+69,co-op,combo,gas,0,eatin,807,2,1,0,4,160,50,NA,900,NA,11374,0
+65,co-op,combo,oil,0,eatin,615,1,1,0,3,0,50,NA,775,NA,11374,0
+60,co-op,NA,oil,0,efficiency kitchen,426,NA,1,0,3,0,50,NA,NA,NA,11374,0
+75,co-op,combo,gas,1,efficiency kitchen,721,1,1,0,3,0,0,NA,800,NA,11374,0
+69,co-op,combo,gas,0,efficiency kitchen,829,2,1,0,4,0,0,NA,875,NA,11374,0
+63,co-op,NA,gas,0,eatin,1060,3,1,1,6,0,0,NA,NA,NA,11374,0
+74,co-op,formal,oil,1,efficiency kitchen,601,1,1,0,3,169,50,NA,800,NA,11374,0
+64,co-op,formal,gas,0,efficiency kitchen,641,1,1,0,3,200,0,NA,780,NA,11374,0
+64,co-op,formal,gas,0,efficiency,601,1,1,0,3,250,0,NA,NA,NA,11374,0
+84,co-op,formal,gas,0,eatin,613,1,1,0,3,0,0,NA,NA,NA,11374,0
+59,co-op,formal,gas,0,eatin,576,2,1,0,6,0,0,NA,NA,NA,11368,0
+72,co-op,other,gas,0,efficiency kitchen,944,2,1,0,6,0,0,NA,875,NA,11374,0
+63,co-op,formal,gas,0,eatin,1065,3,2,0,6,0,50,NA,1200,NA,11368,0
+72,co-op,NA,oil,0,combo,1081,3,2,0,5,0,40,NA,1300,NA,11368,0
+60,co-op,other,gas,0,eatin,849,2,1,1,6,0,0,NA,1200,NA,11368,0
+64,co-op,combo,gas,0,eatin,685,2,1,0,5,0,0,NA,960,NA,11368,0
+63,co-op,formal,oil,0,efficiency kitchen,415,1,1,0,3,0,0,NA,NA,NA,11368,0
+73,co-op,formal,gas,0,efficiency kitchen,NA,1,1,0,5,0,0,NA,NA,NA,11375,0
+74,co-op,formal,gas,0,eatin,724,1,1,0,3,0,0,NA,800,NA,11368,0
+74,co-op,NA,NA,0,efficiency kitchen,646,1,1,0,4,0,0,NA,NA,NA,11368,0
+72,co-op,other,NA,0,eatin,630,NA,1,0,3,0,0,NA,600,NA,11374,0
+72,co-op,combo,gas,0,combo,784,1,1,0,3,143,0,NA,800,NA,11374,0
+72,co-op,combo,electric,0,efficiency kitchen,731,1,1,0,3,0,0,NA,NA,NA,11374,0
+94,co-op,formal,oil,0,eatin,699,1,1,0,3,0,0,NA,NA,NA,11374,0
+65,co-op,formal,oil,0,efficiency kitchen,671,1,1,0,4,0,0,NA,NA,NA,11368,0
+62,co-op,NA,gas,0,eatin,804,2,1,0,5,0,0,NA,NA,NA,11368,0
+67,co-op,formal,gas,0,eatin,1079,2,1,0,4,150,50,NA,NA,NA,11374,0
+72,co-op,NA,oil,0,eatin,NA,1,1,0,3,0,0,NA,NA,NA,11374,757
+69,co-op,combo,oil,0,combo,NA,2,1,0,4,155,0,NA,NA,NA,11374,0
+72,co-op,other,electric,1,eatin,1252,3,1,1,6,200,0,NA,NA,NA,11374,0
+72,co-op,combo,oil,0,combo,702,1,1,0,3,0,0,NA,NA,NA,11374,0
+74,co-op,formal,gas,0,eatin,919,1,1,0,4,60,0,NA,960,NA,11360,0
+74,co-op,formal,gas,0,efficiency kitchen,544,2,1,1,5,175,0,NA,NA,NA,11364,0
+74,co-op,combo,gas,0,efficiency kitchen,376,1,1,0,3,100,0,NA,NA,NA,11364,0
+40,condo,formal,gas,1,eatin,NA,3,2,0,8,0,0,NA,NA,3400,11362,402
+64,co-op,combo,oil,0,efficiency kitchen,413,NA,1,0,2,0,50,NA,NA,NA,11369,0
+70,co-op,combo,gas,0,eatin,706,2,1,0,5,0,0,NA,800,NA,11355,0
+49,co-op,formal,gas,0,eatin,830,2,1,0,4,0,0,NA,NA,NA,11375,0
+59,co-op,combo,gas,1,efficiency kitchen,1000,2,1,0,4,35,0,NA,900,NA,11367,0
+72,condo,combo,oil,0,eatin,NA,1,1,0,4,100,0,NA,687,2408,11374,323
+14,condo,formal,gas,0,combo,NA,3,2,0,6,0,0,NA,NA,250,11385,250
+68,co-op,NA,gas,0,eatin,822,3,1,0,5,0,0,NA,NA,NA,11105,0
+65,co-op,NA,other,0,eatin,1088,1,1,0,4,60,0,NA,NA,NA,11360,0
+42,condo,formal,gas,0,eatin,NA,1,1,0,4,0,0,NA,950,4471,11360,667
+73,co-op,combo,gas,0,combo,995,3,1,0,5,60,0,NA,NA,NA,11364,0
+12,condo,combo,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,537,11356,267
+64,co-op,combo,oil,0,eatin,530,1,1,0,4,0,45,NA,700,NA,11354,0
+84,co-op,NA,gas,0,efficiency kitchen,NA,3,1,0,6,0,0,NA,NA,NA,11367,888
+74,co-op,combo,gas,1,eatin,620,1,1,0,3,38,0,NA,NA,NA,11423,0
+74,co-op,formal,gas,0,efficiency kitchen,1013,2,1,0,6,0,0,NA,NA,NA,11367,0
+50,condo,formal,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,2850,11415,567
+74,co-op,combo,oil,0,efficiency kitchen,880,2,1,0,5,0,0,NA,NA,NA,11362,0
+72,co-op,other,gas,0,efficiency kitchen,775,2,1,0,5,0,0,NA,950,NA,11374,0
+72,co-op,formal,gas,0,none,595,1,1,0,3,0,0,NA,800,NA,11374,0
+58,co-op,formal,gas,1,eatin,2182,2,2,0,5,162,0,NA,NA,NA,11360,0
+42,condo,NA,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,3386,11360,555
+74,co-op,formal,gas,0,efficiency kitchen,544,2,1,0,5,175,0,NA,NA,NA,11364,0
+13,condo,formal,gas,0,efficiency kitchen,NA,2,1,0,5,0,0,NA,957,580,11356,275
+25,condo,NA,gas,0,combo,NA,1,1,0,3,0,0,NA,650,1900,11355,246
+74,co-op,combo,gas,0,eatin,620,1,1,0,3,38,0,NA,NA,NA,11423,0
+54,co-op,combo,oil,0,efficiency kitchen,544,NA,1,0,3,0,0,NA,NA,NA,11432,0
+74,co-op,combo,oil,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,NA,1500,11432,0
+8,condo,formal,gas,1,eatin,NA,2,2,0,5,0,0,NA,988,16,11415,347
+16,condo,combo,gas,0,eatin,162,1,1,0,3,0,0,NA,NA,616,11379,0
+37,condo,combo,gas,0,combo,NA,2,1,0,4,0,0,NA,NA,3588,11355,480
+41,condo,formal,gas,1,eatin,NA,2,2,0,5,99,0,NA,NA,5100,11360,956
+14,condo,formal,gas,0,combo,NA,3,2,0,6,0,0,NA,1500,250,11385,250
+14,condo,formal,gas,0,combo,NA,3,2,0,6,0,0,NA,1600,250,11385,250
+42,condo,formal,gas,1,combo,NA,2,2,0,5,0,0,NA,1134,3785,11360,792
+69,co-op,combo,gas,0,efficiency kitchen,349,3,1,0,3,0,0,NA,NA,NA,11421,0
+112,co-op,NA,electric,0,efficiency kitchene,738,NA,1,0,2,0,43,NA,NA,NA,11375,0
+71,co-op,combo,gas,0,combo,1435,3,1,0,5,60,39,NA,NA,NA,11357,0
+83,condo,formal,gas,0,efficiency kitchen,NA,4,1,0,7,0,0,NA,1524,5776,11375,0
+67,condo,NA,oil,0,combo,NA,1,1,0,3,0,0,NA,NA,2256,11375,268
+71,co-op,combo,gas,0,combo,1415,3,1,0,5,60,0,NA,NA,NA,11357,0
+20,condo,other,gas,0,eatin,NA,1,1,0,3,0,0,NA,550,357,11368,185
+64,co-op,NA,gas,0,combo,1750,3,3,0,6,145,50,NA,1650,NA,11375,0
+59,co-op,NA,gas,1,combo,1141,2,1,0,4,0,0,NA,NA,NA,11375,0
+64,co-op,formal,gas,0,eatin,1000,2,1,0,6,0,0,NA,1300,NA,11375,0
+71,co-op,combo,gas,0,combo,976,1,1,0,3,60,0,NA,850,NA,11357,0
+69,co-op,formal,gas,0,eatin,1477,3,2,0,6,0,0,NA,1350,NA,11375,0
+71,co-op,combo,oil,0,eatin,1072,2,1,0,5,0,0,NA,NA,NA,11375,0
+69,co-op,formal,oil,0,eatin,1477,3,2,0,6,0,0,NA,NA,NA,11375,0
+74,co-op,combo,oil,0,efficiency kitchen,683,1,1,0,0,0,50,NA,850,NA,11375,0
+18,condo,other,gas,0,eatin,214,2,1,0,5,0,0,NA,NA,480,11368,0
+15,condo,combo,gas,1,efficiency kitchen,NA,3,2,0,6,0,0,NA,847,500,11368,199
+15,condo,combo,gas,0,combo,NA,1,1,1,4,0,0,NA,592,631,11368,170
+14,condo,formal,gas,0,efficiency,NA,2,2,0,6,0,0,NA,860,300,11368,170
+24,condo,NA,gas,0,eatin,NA,1,1,0,3,0,0,NA,620,1200,11368,239
+72,co-op,combo,oil,0,eatin,494,1,1,0,1,0,50,NA,500,NA,11375,0
+74,co-op,combo,NA,0,efficiency kitchen,1524,4,2,0,8,0,0,NA,NA,NA,11375,0
+85,co-op,NA,oil,1,eatin,909,1,1,0,3,165,50,NA,100,NA,11375,0
+28,co-op,other,oil,0,eatin,606,1,1,0,3,0,0,NA,NA,NA,11369,0
+74,co-op,other,oil,0,efficiency kitchen,700,1,1,0,3,0,0,NA,NA,NA,11369,0
+13,condo,formal,gas,0,eatin,NA,3,2,0,7,0,0,NA,NA,250,11368,100
+85,co-op,none,oil,0,eatin,854,1,1,0,3,0,0,NA,850,NA,11375,0
+66,co-op,combo,oil,0,efficiency,962,1,1,0,3,60,0,NA,NA,NA,11357,0
+59,co-op,formal,oil,1,eatin,1833,2,2,0,5,185,0,NA,1300,NA,11375,0
+59,co-op,NA,oil,1,eatin,1493,2,2,0,5,185,32,NA,NA,NA,11375,0
+60,co-op,formal,oil,1,eatin,1001,1,1,0,4,185,0,NA,NA,NA,11375,0
+59,co-op,formal,oil,1,efficiency kitchen,1240,2,1,0,4,185,0,NA,NA,NA,11375,0
+59,co-op,formal,gas,0,eatin,1547,2,2,0,5,185,0,NA,NA,NA,11375,0
+59,co-op,NA,oil,1,eatin,1949,2,2,0,5,185,32,NA,NA,NA,11375,0
+59,co-op,formal,gas,0,combo,1832,2,2,0,5,0,0,NA,1300,NA,11375,0
+68,co-op,formal,oil,0,eatin,625,1,1,0,3,150,45,NA,750,NA,11375,0
+65,co-op,combo,oil,0,combo,620,1,1,0,3,0,0,NA,NA,NA,11375,0
+92,co-op,combo,gas,0,eatin,737,1,1,0,4,0,40,NA,NA,NA,11375,0
+82,co-op,other,oil,0,combo,700,1,1,0,3,0,50,NA,NA,NA,11375,0
+73,condo,combo,gas,0,combo,NA,5,2,0,5,0,0,NA,980,4057,11375,280
+73,co-op,combo,oil,1,eatin,2128,3,2,0,6,0,0,NA,NA,NA,11375,0
+84,co-op,combo,gas,0,eatin,570,NA,1,0,2,0,0,NA,NA,NA,11375,0
+59,co-op,combo,gas,0,combo,656,1,1,0,3,0,0,NA,NA,NA,11375,0
+17,co-op,formal,gas,0,eatin,NA,2,1,0,5,0,0,NA,1100,NA,11375,0
+75,co-op,combo,gas,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,NA,554,11375,0
+88,co-op,formal,gas,0,combo,795,2,1,0,4,255,0,NA,NA,NA,11375,0
+32,condo,combo,gas,0,eatin,NA,1,1,1,5,0,0,NA,904,289,11375,945
+32,condo,formal,gas,1,efficiency kitchen,NA,1,1,1,4,0,0,NA,914,4802,11375,926
+NA,co-op,NA,NA,0,NA,NA,NA,1,0,4,0,0,NA,NA,NA,11375,0
+16,condo,combo,gas,0,combo,NA,2,1,1,5,0,0,NA,1742,269,11368,360
+16,condo,combo,gas,0,eatin,NA,2,1,1,5,0,0,NA,751,288,11368,244
+68,co-op,combo,NA,0,eatin,1329,3,2,0,5,142,0,NA,NA,NA,11375,0
+18,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,260,11368,139
+74,co-op,NA,oil,0,eatin,748,1,1,0,3,0,42,NA,NA,NA,11375,0
+84,co-op,other,gas,1,combo,933,2,1,0,4,0,0,NA,NA,NA,11375,0
+83,co-op,formal,oil,1,eatin,1285,2,1,0,4,0,0,NA,NA,NA,11375,0
+83,co-op,combo,oil,0,efficiency kitchen,1042,2,1,0,4,0,75,NA,928,NA,11375,0
+96,co-op,other,oil,0,eatin,797,2,1,0,4,0,50,NA,1000,NA,11415,0
+88,co-op,formal,gas,0,eatin,1177,2,2,0,5,0,0,NA,1300,NA,11415,0
+84,co-op,other,gas,0,eatin,820,1,1,0,4,0,50,NA,NA,NA,11415,0
+59,co-op,NA,gas,1,NA,1820,3,3,0,6,200,50,NA,1700,NA,11375,0
+59,co-op,combo,gas,1,combo,973,1,1,0,3,150,50,NA,750,NA,11415,0
+50,co-op,combo,NA,0,efficiemcy,1042,1,1,0,3,127,48,NA,800,NA,11415,0
+50,co-op,formal,NA,1,eatin,1483,2,2,0,5,115,50,NA,1050,NA,11415,0
+74,co-op,formal,gas,0,eatin,750,1,1,0,4,0,0,NA,800,NA,11415,0
+35,condo,combo,gas,0,combo,NA,2,2,0,4,0,0,NA,1005,3987,11415,300
+35,condo,formal,gas,0,combo,NA,3,3,0,7,0,0,NA,NA,4700,11356,541
+41,condo,NA,gas,0,none,180,1,1,0,3,0,0,NA,NA,4500,11356,0
+39,condo,combo,gas,0,eatin,755,2,2,1,5,0,0,NA,1800,5500,11360,120
+74,co-op,combo,gas,0,eatin,880,1,1,0,3,0,0,NA,NA,NA,11415,0
+87,co-op,formal,electric,0,eatin,1249,3,2,0,6,0,0,NA,NA,NA,11415,0
+64,co-op,combo,oil,1,efficiency kitchen,891,1,1,0,3,220,0,NA,NA,NA,11415,0
+64,co-op,combo,gas,0,efficiency,427,NA,1,0,2,0,0,NA,NA,NA,11415,0
+7,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,2,0,0,NA,712,5217,11354,0
+64,co-op,other,NA,0,efficiency kitchen,894,2,1,1,6,90,0,NA,NA,NA,11415,0
+39,condo,NA,gas,1,eatin,NA,3,2,1,6,0,0,NA,2200,6533,11360,755
+21,condo,combo,gas,0,eatin,NA,NA,2,0,4,0,0,NA,980,3579,11355,0
+37,condo,combo,gas,0,combo,NA,1,1,0,3,0,0,NA,621,5241,11355,617
+37,condo,NA,gas,0,eatin,NA,2,2,0,6,0,0,NA,NA,5797,11355,450
+23,condo,combo,gas,0,combo,NA,2,2,0,5,0,0,NA,1027,4800,11355,447
+74,co-op,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,800,NA,11355,655
+9,condo,combo,gas,0,combo,NA,1,1,0,4,0,0,NA,NA,17,11355,133
+37,condo,combo,gas,0,combo,NA,1,1,0,3,0,0,NA,650,3108,11355,300
+62,co-op,formal,oil,0,eatin,480,1,1,0,4,0,0,NA,735,NA,11354,0
+62,co-op,formal,oil,0,eatin,577,1,1,0,4,0,0,NA,750,NA,11354,0
+62,co-op,formal,gas,0,combo,415,1,1,0,4,0,0,NA,NA,NA,11354,0
+9,condo,formal,gas,0,eatin,NA,NA,1,0,2,0,0,NA,495,153,11354,224
+9,condo,formal,gas,0,eatin,NA,1,1,0,2,0,0,NA,680,196,11354,321
+9,condo,formal,gas,0,eatin,NA,NA,1,0,2,0,0,NA,680,196,11354,321
+9,condo,formal,gas,0,eatin,NA,1,1,0,2,0,0,NA,680,196,11354,321
+74,co-op,other,gas,0,combo,552,1,1,0,3,0,0,NA,NA,NA,11355,0
+38,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,3200,11355,450
+96,co-op,combo,gas,0,combo,615,1,1,0,3,0,0,NA,600,NA,11355,0
+74,co-op,formal,NA,0,efficiency kitchen,988,2,1,0,4,0,0,NA,NA,NA,11367,0
+84,co-op,NA,oil,0,eatin,980,2,1,0,7,0,0,NA,NA,NA,11367,0
+23,condo,NA,gas,0,combo,NA,2,2,0,5,0,0,NA,728,3737,11354,630
+NA,co-op,combo,gas,0,eatin,632,1,1,0,3,0,0,NA,NA,NA,11355,0
+61,co-op,combo,gas,0,eatin,463,1,1,0,3,0,0,NA,NA,NA,11355,0
+64,co-op,formal,gas,0,eatin,901,2,1,1,5,0,0,NA,NA,NA,11354,0
+38,condo,combo,gas,0,efficiency,NA,2,2,0,4,0,0,NA,871,2556,"138-35 Elder Ave,  Flushing NY, 1135",536
+74,co-op,combo,NA,0,eatin,1013,2,1,0,5,0,0,NA,1100,NA,11367,0
+60,co-op,NA,oil,0,eatin,792,2,1,0,4,0,50,NA,NA,NA,11355,0
+72,co-op,combo,gas,1,eatin,588,1,1,0,3,100,0,NA,NA,NA,11435,0
+66,co-op,combo,oil,1,efficiency kitchen,718,1,1,0,3,0,50,NA,800,NA,11435,0
+66,co-op,combo,oil,0,efficiency kitchen,786,2,1,0,4,0,50,NA,975,NA,11435,0
+66,co-op,combo,oil,0,efficiency kitchen,837,2,1,0,4,0,50,NA,975,NA,11435,0
+66,co-op,combo,oil,1,efficiency,667,1,1,0,3,0,50,NA,800,NA,11435,0
+74,co-op,combo,oil,0,efficiency kitchen,739,1,1,0,4,154,53,NA,800,NA,11435,0
+25,condo,combo,gas,0,combo,NA,2,2,0,5,0,0,NA,896,4800,11354,297
+NA,condo,combo,gas,0,combo,396,2,2,0,5,0,0,NA,NA,39,11354,0
+72,co-op,formal,oil,0,efficiency kitchen,647,1,1,0,3,0,0,NA,NA,NA,11435,0
+18,condo,formal,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,220,11355,0
+NA,co-op,combo,gas,0,eatin,928,2,1,0,4,0,0,NA,NA,NA,11354,0
+69,co-op,combo,gas,0,efficiency,770,3,1,0,5,0,0,NA,1000,NA,11354,0
+13,co-op,combo,gas,0,eatin,438,2,3,0,4,0,0,NA,2143,NA,11355,0
+87,co-op,combo,gas,0,eatin,950,2,2,0,6,0,0,NA,1400,NA,11354,0
+87,co-op,combo,NA,0,eatin,571,1,1,0,4,0,0,NA,800,NA,11354,0
+84,co-op,combo,gas,0,eatin,604,1,1,0,3,0,55,NA,750,NA,11367,0
+69,co-op,other,gas,0,combo,NA,2,2,0,5,0,0,NA,NA,NA,11415,0
+69,co-op,combo,gas,0,efficiency kitchen,560,1,1,0,3,0,0,NA,NA,NA,11435,0
+59,co-op,formal,NA,0,efficiency kitchen,1149,3,2,0,8,150,0,NA,NA,1149,11354,0
+59,co-op,formal,gas,0,eatin,NA,3,2,0,7,0,0,NA,NA,NA,11354,0
+65,co-op,combo,oil,0,efficiency kitchen,546,NA,1,0,2,0,0,NA,NA,NA,11435,0
+74,co-op,combo,NA,0,efficiency kitchen,380,NA,1,0,2,0,0,NA,400,NA,11435,0
+17,condo,combo,gas,0,combo,NA,2,2,0,6,0,0,NA,855,492,11354,0
+17,condo,combo,gas,0,combo,NA,2,2,0,6,0,0,NA,NA,492,11354,513
+15,condo,combo,gas,0,efficiency kitchen,245,1,1,0,3,28,0,NA,NA,30,11435,0
+22,condo,combo,gas,0,combo,NA,2,1,0,4,0,0,NA,1260,NA,11356,214
+39,co-op,combo,electric,0,eatin,493,NA,1,0,2,250,0,NA,NA,NA,11355,0
+76,co-op,formal,oil,0,efficiency kitchen,975,2,1,0,5,0,0,NA,900,NA,11435,0
+36,condo,combo,gas,0,combo,NA,2,1,0,5,15,0,NA,915,3858,11355,433
+64,co-op,combo,gas,0,eatin,857,2,1,0,5,0,0,NA,NA,NA,11355,0
+76,co-op,formal,oil,0,combo,570,1,1,0,3,0,0,NA,NA,NA,11367,0
+74,co-op,formal,gas,0,efficiency kitchen,NA,2,1,0,5,75,0,NA,1000,1311,11367,0
+65,co-op,combo,oil,0,combo,850,2,1,0,4,0,0,NA,NA,NA,11355,0
+59,co-op,combo,gas,1,eatin,680,2,1,0,4,130,0,NA,900,NA,11354,0
+74,co-op,combo,gas,0,eatin,800,2,1,0,4,0,0,NA,900,NA,11367,0
+74,co-op,other,oil,0,efficiency kitchen,552,1,1,0,4,0,0,NA,NA,NA,11355,0
+61,co-op,combo,NA,0,eatin,914,2,1,0,4,26,0,NA,800,NA,11366,0
+70,co-op,combo,gas,0,eatin,737,1,1,0,3,39,0,NA,NA,NA,11367,0
+70,co-op,NA,gas,0,eatin,865,1,1,0,4,0,0,NA,NA,NA,11367,0
+35,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,500,2894,11354,457
+35,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,500,2850,11354,420
+74,co-op,formal,gas,0,eatin,995,1,1,0,4,75,35,NA,NA,NA,11367,0
+74,co-op,formal,gas,0,efficiency kitchen,969,1,1,0,4,0,0,NA,NA,NA,11367,0
+37,condo,formal,gas,0,eatin,NA,3,2,0,4,0,0,NA,1250,6700,11354,627
+37,condo,NA,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,580,4506,11354,204
+74,co-op,combo,gas,0,efficiency kitchen,1311,2,1,0,5,0,40,NA,1000,NA,11367,0
+36,condo,combo,gas,1,efficiency kitchen,NA,2,2,0,5,0,0,NA,1050,3400,11354,547
+77,co-op,formal,gas,0,eatin,1372,2,1,0,4,0,0,NA,1000,NA,11415,0
+59,condo,NA,gas,0,efficiency,NA,2,2,0,5,0,0,NA,NA,3721,11414,614
+35,condo,combo,gas,0,eatin,311,3,2,0,6,0,0,NA,NA,2780,11417,0
+76,co-op,formal,gas,0,eatin,1312,2,1,0,5,75,0,NA,NA,NA,11432,0
+17,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,739,632,11357,389
+NA,condo,combo,gas,1,combo,NA,NA,1,0,3,0,0,NA,500,2092,11367,369
+51,condo,combo,gas,1,efficiency kitchen,NA,2,2,0,6,0,0,NA,1000,3220,11367,641
+39,condo,formal,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,2775,11417,348
+76,co-op,formal,gas,1,efficiency kitchen,1283,2,1,0,5,75,50,NA,NA,NA,11432,0
+76,co-op,NA,gas,0,efficiency kitchen,1312,2,1,0,4,0,0,NA,NA,NA,11432,0
+74,co-op,combo,oil,0,efficiency kitchen,1312,2,1,0,4,75,0,NA,NA,NA,11367,0
+72,co-op,formal,oil,0,combo,627,1,1,0,3,0,0,NA,650,NA,11367,0
+74,co-op,formal,NA,0,efficiency kitchen,1310,2,1,0,5,75,40,NA,1000,NA,11435,0
+64,co-op,combo,gas,0,efficiency kitchen,1000,2,2,0,5,0,0,NA,1100,NA,11414,0
+64,co-op,NA,oil,0,efficiency kitchen,675,1,1,0,3,0,0,NA,NA,NA,11414,0
+42,condo,combo,gas,0,eatin,NA,3,2,0,6,0,0,NA,NA,4000,11414,295
+58,condo,NA,gas,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,750,3388,11414,530
+NA,condo,formal,gas,1,eatin,NA,3,2,0,6,0,0,NA,NA,2100,11414,295
+59,co-op,NA,gas,0,efficiency kitchen,670,1,1,0,4,0,0,NA,NA,NA,11414,0
+51,condo,combo,gas,0,efficiency,NA,2,1,0,5,0,0,NA,NA,2567,11367,623
+51,condo,combo,electric,1,efficiency kitchen,NA,2,1,0,5,0,0,NA,NA,2663,11367,553
+51,condo,NA,electric,1,combo,641,2,2,0,5,0,0,NA,1002,4638,11367,0
+78,co-op,NA,gas,0,combo,NA,1,1,0,3,0,0,NA,NA,NA,11367,620
+61,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,767,3470,11367,412
+61,co-op,combo,oil,0,efficiency kitchen,718,1,1,0,4,30,0,NA,NA,NA,11414,0
+59,co-op,formal,gas,0,efficiency kitchen,1007,2,2,0,5,15,0,NA,NA,NA,11414,0
+59,co-op,NA,oil,0,efficiency kitchen,782,1,1,0,3,0,0,NA,NA,NA,11414,0
+74,co-op,formal,gas,0,efficiency kitchen,672,2,1,0,5,0,0,NA,NA,NA,11414,0
+64,condo,NA,oil,0,none,NA,2,1,0,5,0,0,NA,NA,2500,11414,275
+45,condo,formal,gas,0,eatin,NA,6,3,0,14,0,0,NA,2871,4838,11414,0
+45,condo,NA,gas,1,eatin,NA,5,3,0,13,0,0,NA,NA,5323,11414,250
+62,co-op,combo,oil,0,combo,527,NA,1,0,2,0,0,NA,NA,NA,11432,0
+63,co-op,other,oil,0,efficiency kitchen,504,NA,1,0,3,50,0,NA,NA,NA,11432,0
+96,co-op,NA,gas,0,efficiency,467,NA,1,0,0,0,48,NA,NA,NA,11357,0
+74,co-op,formal,oil,0,efficiency kitchen,975,2,1,0,5,0,0,NA,NA,NA,11357,0
+74,co-op,combo,gas,1,combo,981,3,1,0,4,20,0,NA,900,NA,11357,0
+71,co-op,combo,oil,0,efficiency kitchen,1398,3,1,0,5,60,0,NA,NA,NA,11357,0
+71,co-op,combo,oil,0,efficiency,895,1,1,0,3,60,0,NA,NA,NA,11357,0
+71,co-op,combo,oil,0,efficiency kitchen,1087,2,1,0,5,60,0,NA,NA,NA,11357,0
+66,co-op,combo,gas,1,eatin,900,1,1,0,3,0,0,NA,NA,NA,11357,0
+66,co-op,other,other,0,combo,530,NA,1,0,1,0,0,NA,550,NA,11432,0
+66,co-op,other,oil,0,efficiency kitchen,780,1,1,0,4,0,0,NA,800,NA,11432,0
+74,co-op,formal,gas,1,efficiency,923,2,1,0,4,20,40,NA,715,NA,11360,0
+55,co-op,formal,gas,0,eatin,2321,3,2,0,7,130,0,NA,1500,NA,11357,0
+61,co-op,formal,oil,1,eatin,1288,1,1,0,4,123,42,NA,1150,NA,11357,0
+62,co-op,NA,gas,0,eatin,1351,1,1,0,1,133,0,NA,1160,NA,11357,0
+62,co-op,NA,gas,0,combo,1725,2,2,0,4,133,0,NA,1350,NA,11357,0
+56,co-op,formal,oil,0,eatin,2712,3,3,0,7,123,40,NA,2400,NA,11357,0
+NA,co-op,formal,oil,0,eatin,1425,1,1,0,4,0,0,NA,NA,NA,11357,0
+55,co-op,formal,gas,1,eatin,2279,3,2,0,7,130,0,NA,1500,NA,11357,0
+71,co-op,combo,oil,0,eatin,1461,3,1,0,6,70,36,NA,NA,NA,11357,0
+36,condo,NA,gas,0,eatin,NA,3,1,0,7,0,0,NA,NA,2460,11434,0
+66,co-op,combo,oil,0,efficiency kitchen,893,1,1,0,3,60,39,NA,800,NA,11357,0
+66,co-op,combo,oil,0,efficiency kitchen,1138,2,1,0,4,60,39,NA,1000,NA,11357,0
+24,condo,formal,gas,0,efficiency kitchen,NA,3,2,1,6,0,0,NA,2274,NA,11357,923
+43,condo,formal,gas,0,eatin,350,1,1,0,3,0,0,NA,755,2400,11358,0
+75,co-op,formal,gas,1,efficiency kitchen,867,2,1,0,6,100,0,NA,NA,NA,11358,0
+64,co-op,combo,gas,0,efficiency kitchen,764,1,1,0,3,0,0,NA,NA,NA,11432,0
+74,co-op,combo,oil,0,combo,1069,2,1,0,5,0,0,NA,NA,NA,17-30,0
+56,co-op,formal,oil,0,eatin,2002,3,2,1,6,89,0,NA,NA,NA,11360,0
+17,condo,combo,gas,0,efficiency kitchen,NA,1,1,1,5,0,0,NA,985,232,11432,574
+17,condo,combo,gas,0,efficiency,NA,1,1,1,5,0,0,NA,985,232,11432,574
+54,co-op,combo,gas,0,efficiency kitchen,1506,2,2,0,5,0,40,NA,NA,NA,11360,0
+54,co-op,combo,gas,0,efficiency kitchen,1066,1,1,0,3,0,40,NA,NA,NA,11360,0
+54,co-op,combo,oil,1,eatin,767,1,1,0,4,135,40,NA,800,NA,11360,0
+54,co-op,formal,oil,0,eatin,NA,1,1,0,4,135,0,NA,NA,NA,11360,0
+54,co-op,formal,gas,1,efficiency kitchen,1417,3,2,0,6,135,0,NA,NA,NA,11360,97
+56,co-op,NA,gas,1,efficiency kitchen,1128,1,1,0,3,149,40,NA,900,NA,11360,0
+55,co-op,combo,oil,1,eatin,1100,1,1,0,4,0,40,NA,900,NA,11360,0
+54,co-op,formal,gas,1,efficiency kitchen,1627,3,2,0,6,135,42,NA,NA,NA,11360,111
+55,co-op,combo,gas,0,combo,914,1,1,0,3,0,0,NA,780,NA,11360,0
+66,co-op,combo,gas,0,efficiency kitchen,560,1,1,0,3,18,0,NA,NA,NA,11360,0
+55,co-op,combo,oil,1,eatin,1060,1,1,0,3,135,40,NA,700,NA,11360,0
+46,co-op,NA,gas,1,combo,1134,1,1,0,4,135,40,NA,880,NA,11360,0
+54,co-op,combo,oil,1,eatin,1450,2,2,0,5,150,40,NA,1200,NA,11360,0
+54,co-op,combo,oil,1,efficiency kitchen,998,1,1,0,4,149,40,NA,NA,NA,11360,75
+54,co-op,formal,oil,1,eatin,1850,2,2,0,5,135,40,NA,1300,NA,11360,0
+54,co-op,NA,gas,0,efficiency kitchen,969,1,1,0,4,0,40,NA,NA,NA,11360,0
+54,co-op,combo,gas,1,eatin,939,1,1,0,4,0,0,NA,NA,NA,11360,0
+14,condo,formal,gas,0,combo,NA,2,2,0,5,0,0,NA,1600,250,11385,250
+66,co-op,combo,gas,0,eatin,991,1,1,0,4,60,0,NA,850,NA,11360,0
+69,co-op,NA,gas,0,efficiency kitchen,1057,2,1,0,4,0,50,NA,NA,NA,11360,0
+69,co-op,combo,gas,0,eatin,1100,2,1,0,5,0,0,NA,NA,NA,11360,0
+54,co-op,formal,gas,0,eatin,NA,3,2,1,6,0,0,NA,NA,NA,11360,0
+66,co-op,NA,other,0,eatin,918,1,1,0,4,60,0,NA,NA,NA,11360,0
+64,co-op,NA,gas,0,eatin,1470,2,2,0,5,50,45,NA,1300,NA,11360,0
+65,co-op,NA,other,0,eatin,1245,2,1,0,5,60,0,NA,NA,NA,11360,0
+74,co-op,combo,gas,1,eatin,1016,2,1,0,5,20,0,NA,NA,NA,11360,0
+74,co-op,NA,gas,0,eatin,624,1,1,0,4,0,0,NA,NA,NA,11423,0
+69,co-op,NA,oil,0,efficiency kitchen,641,1,1,0,3,0,0,NA,NA,NA,11365,0
+74,co-op,NA,oil,0,efficiency kitchen,965,2,1,0,5,0,0,NA,NA,NA,11365,0
+16,condo,combo,gas,1,efficiency kitchen,NA,2,2,0,5,0,0,NA,941,500,11385,527
+64,co-op,combo,gas,0,efficiency kitchen,975,2,1,0,5,0,50,NA,NA,NA,11357,0
+42,condo,NA,oil,0,efficiency kitchen,NA,NA,1,0,2,0,0,NA,NA,2490,11360,361
+43,condo,formal,oil,0,eatin,NA,2,2,0,6,0,0,NA,NA,5300,11360,0
+42,condo,combo,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,3312,11360,543
+131,condo,formal,gas,0,eatin,NA,1,1,0,4,90,0,NA,NA,3000,11360,558
+69,co-op,formal,gas,0,eatin,642,1,1,0,3,0,50,NA,NA,NA,11423,0
+39,condo,combo,gas,1,eatin,NA,3,2,0,6,0,0,NA,NA,6486,11360,630
+42,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,700,3268,11360,500
+39,condo,combo,gas,0,eatin,389,1,1,0,4,0,0,NA,NA,3600,11360,130
+41,condo,combo,gas,1,combo,596,2,2,0,4,0,0,NA,NA,NA,11360,0
+64,co-op,combo,gas,0,efficiency kitchen,1668,3,2,0,7,25,0,NA,NA,NA,11360,0
+64,co-op,formal,oil,0,eatin,1608,3,2,0,6,26,45,NA,1500,NA,11360,0
+41,condo,combo,gas,1,combo,NA,1,1,0,4,0,0,NA,NA,3241,11360,458
+101,co-op,combo,gas,0,eatin,806,1,1,0,3,0,0,NA,600,NA,11105,0
+68,co-op,NA,NA,0,eatin,750,2,1,0,5,0,0,NA,750,NA,11105,0
+69,co-op,formal,gas,0,efficiency kitchen,540,1,1,0,4,60,0,NA,NA,NA,11364,0
+69,co-op,formal,gas,0,efficiency,600,1,1,0,4,65,0,NA,NA,NA,11364,0
+101,co-op,NA,oil,0,eatin,NA,3,1,0,5,0,0,NA,NA,NA,11105,852
+54,co-op,formal,oil,1,efficiency kitchen,1923,3,2,1,6,135,0,NA,NA,NA,11360,75
+73,co-op,combo,gas,0,efficiency kitchen,614,3,1,0,6,0,0,NA,NA,NA,11364,0
+72,co-op,combo,gas,0,eatin,815,2,1,0,4,0,0,NA,NA,NA,11364,0
+96,co-op,NA,gas,0,combo,904,2,1,0,4,0,0,NA,650,NA,11105,0
+74,co-op,formal,gas,0,combo,463,2,1,0,5,0,0,NA,NA,NA,11364,0
+101,co-op,NA,oil,0,combo,822,3,1,0,5,0,0,NA,NA,NA,11105,0
+NA,condo,combo,electric,0,combo,NA,1,1,0,3,0,0,NA,890,30,11101,599
+41,condo,NA,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,NA,2096,11364,183
+41,condo,combo,gas,0,eatin,NA,3,2,0,6,0,0,NA,1055,3200,11364,268
+63,co-op,combo,NA,0,efficiency kitchen,742,1,1,0,3,66,0,NA,800,NA,11361,0
+62,co-op,combo,gas,0,efficiency kitchen,1054,1,1,0,4,0,40,NA,852,NA,11361,0
+62,co-op,combo,gas,0,efficiency kitchen,954,1,1,0,3,0,41,NA,NA,NA,11361,0
+69,co-op,other,gas,0,efficiency kitchen,661,2,1,0,4,0,50,NA,NA,NA,11427,0
+64,co-op,NA,oil,0,eatin,681,2,1,0,5,0,0,NA,NA,NA,11427,0
+76,condo,other,oil,0,efficiency kitchen,NA,2,1,0,4,0,0,NA,NA,2312,11370,426
+60,co-op,NA,oil,0,eatin,NA,1,1,0,4,0,0,NA,NA,NA,11426,550
+69,co-op,formal,gas,0,efficiency kitchen,719,2,1,0,5,0,50,NA,NA,NA,11427,0
+74,co-op,formal,oil,0,combo,628,2,1,0,4,18,0,NA,NA,NA,11427,0
+69,co-op,other,oil,0,combo,NA,2,1,0,4,0,0,NA,806,NA,11427,670
+69,co-op,formal,gas,0,efficiency kitchen,700,2,1,0,4,0,0,NA,NA,NA,11427,0
+69,co-op,NA,gas,0,efficiency kitchen,640,1,1,0,3,0,50,NA,NA,NA,11364,0
+NA,co-op,NA,NA,0,NA,NA,2,1,0,NA,0,0,NA,NA,NA,11364,0
+74,co-op,formal,gas,0,combo,660,2,1,0,4,18,0,NA,NA,NA,11427,0
+61,co-op,formal,gas,0,eatin,1200,1,1,0,4,47,40,NA,950,NA,11360,0
+61,co-op,NA,oil,0,eatin,1394,2,2,0,5,47,40,NA,1200,NA,11360,0
+61,co-op,NA,gas,0,eatin,1245,1,1,0,4,47,0,NA,NA,NA,11360,0
+18,condo,NA,gas,0,combo,218,1,1,0,3,0,0,NA,NA,231,11102,0
+7,condo,NA,gas,0,combo,NA,1,1,0,3,0,0,NA,NA,104,11106,314
+74,co-op,NA,gas,1,combo,776,2,1,0,5,0,0,NA,NA,NA,11422,0
+36,condo,combo,gas,0,combo,NA,3,2,0,6,0,0,NA,NA,3158,11362,0
+36,condo,combo,gas,0,combo,NA,3,2,0,6,0,0,NA,1250,3200,11362,470
+37,condo,combo,gas,0,combo,NA,3,2,0,5,0,0,NA,1150,2765,11362,424
+71,co-op,formal,gas,0,eatin,723,1,1,0,3,0,0,NA,NA,NA,11362,0
+84,co-op,combo,oil,0,eatin,891,2,1,0,5,0,0,NA,900,NA,11103,0
+71,co-op,formal,oil,0,eatin,1034,2,1,0,5,0,0,NA,NA,NA,11362,0
+74,co-op,combo,gas,0,eatin,701,2,1,0,5,0,39,NA,NA,NA,11426,0
+75,co-op,combo,gas,0,efficiency kitchen,767,3,1,0,5,0,39,NA,797,NA,11426,0
+75,co-op,other,gas,0,eatin,613,1,1,0,4,0,39,NA,641,NA,11426,0
+74,co-op,combo,NA,0,eatin,719,1,1,0,4,0,0,NA,NA,NA,11426,0
+8,condo,other,gas,0,none,NA,NA,1,0,2,0,0,NA,466,31,11102,132
+8,condo,other,gas,0,none,NA,1,1,0,3,0,0,NA,755,54,11102,226
+74,co-op,formal,gas,0,eatin,811,2,1,0,5,0,0,NA,960,NA,11362,0
+59,co-op,formal,gas,1,efficiency,670,1,1,0,4,0,0,NA,NA,NA,11103,0
+NA,condo,combo,NA,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,623,829,11102,0
+33,condo,NA,electric,0,none,NA,NA,1,0,2,0,0,NA,NA,2800,11102,443
+35,condo,combo,electric,0,efficiency kitchen,779,2,2,0,4,0,0,NA,886,3682,11102,0
+76,co-op,NA,gas,0,combo,800,2,1,0,6,0,0,NA,NA,NA,11004,0
+74,co-op,combo,gas,0,efficiency kitchen,631,2,1,0,4,25,39,NA,NA,NA,11004,0
+74,co-op,combo,gas,0,eatin,702,2,1,0,5,0,39,NA,NA,NA,11004,0
+74,co-op,other,gas,0,efficiency kitchen,514,1,1,0,3,25,39,NA,NA,NA,11004,0
+64,co-op,formal,gas,0,eatin,764,2,1,0,4,25,0,NA,1000,NA,11354,0
+69,co-op,combo,gas,0,efficiency,769,2,1,0,4,0,0,NA,900,NA,11354,0
+74,co-op,combo,gas,0,efficiency kitchen,654,1,1,0,3,0,0,NA,NA,NA,11354,0
+18,condo,NA,gas,0,eatin,NA,1,1,0,4,0,0,NA,729,216,11102,373
+70,co-op,combo,oil,0,eatin,NA,1,1,0,4,0,0,NA,NA,NA,11354,650
+74,co-op,combo,gas,0,eatin,723,2,1,0,4,0,39,NA,764,NA,11004,0
+49,co-op,combo,oil,1,efficiency kitchen,885,1,1,0,3,88,50,NA,750,NA,11005,0
+49,co-op,combo,gas,1,efficiency kitchen,1048,1,1,1,3,80,50,NA,835,NA,11005,0
+49,co-op,NA,electric,1,efficiency,1583,1,1,1,4,87,50,NA,1190,NA,11005,0
+49,co-op,formal,NA,1,eatin,1689,1,1,1,4,80,50,NA,1200,NA,11005,0
+49,co-op,formal,oil,1,eatin,1928,1,1,1,4,80,50,NA,1200,NA,11005,0
+49,co-op,NA,oil,1,efficiency kitchen,1751,1,1,1,4,145,50,NA,1200,NA,11005,0
+49,co-op,formal,electric,0,eatin,2258,2,2,1,5,168,50,NA,1549,NA,11005,0
+49,co-op,formal,gas,1,efficiency,2186,2,2,1,5,87,0,NA,1549,NA,11005,0
+49,co-op,combo,gas,1,efficiency kitchen,1118,1,1,0,3,0,0,NA,NA,NA,11005,0
+49,co-op,combo,oil,1,efficiency kitchen,1002,1,1,0,3,145,50,NA,800,NA,11005,0
+49,co-op,formal,electric,1,efficiency kitchen,1346,1,1,1,4,87,50,NA,1010,NA,11005,0
+49,co-op,NA,gas,0,efficiency kitchen,1378,1,1,1,4,87,50,NA,1131,NA,11005,0
+49,co-op,NA,electric,1,efficiency kitchen,1726,1,1,1,4,0,50,NA,1200,NA,11005,0
+49,co-op,NA,electric,1,eatin,1573,1,1,1,4,87,50,NA,1230,NA,11005,0
+49,co-op,NA,oil,1,eatin,2146,2,2,1,5,176,50,NA,1500,NA,11005,0
+49,co-op,formal,electric,1,efficiency,2048,2,2,1,5,87,50,NA,1549,NA,11005,0
+49,co-op,combo,oil,0,efficiency,956,1,1,0,3,0,50,NA,750,NA,11005,0
+49,co-op,combo,gas,1,efficiency,986,1,1,0,4,0,50,NA,834,NA,11005,0
+49,co-op,combo,electric,1,eatin,1193,1,1,0,4,88,0,NA,881,NA,11005,0
+49,co-op,formal,electric,1,eatin,1763,1,1,1,4,80,50,NA,1341,NA,11005,0
+49,co-op,formal,electric,1,eatin,2597,2,2,1,5,87,50,NA,1622,NA,11005,0
+49,co-op,formal,gas,1,eatin,2435,2,2,1,5,80,0,NA,1622,NA,11005,0
+49,co-op,NA,oil,0,eatin,1643,1,1,1,4,88,50,NA,1150,NA,11005,0
+72,co-op,formal,gas,0,eatin,661,2,1,0,4,0,0,NA,571,NA,11427,0
+69,co-op,combo,gas,0,eatin,908,2,1,0,4,0,0,NA,NA,NA,11354,0
+64,co-op,combo,gas,0,efficiency kitchen,638,1,1,0,3,0,0,NA,NA,NA,11354,0
+64,co-op,formal,oil,0,eatin,1022,3,2,0,6,0,0,NA,NA,NA,11354,0
+64,co-op,formal,gas,0,eatin,779,3,2,0,6,0,0,NA,NA,NA,11354,0
+72,co-op,formal,oil,0,eatin,605,1,1,0,4,100,0,NA,890,NA,11354,0
+64,co-op,other,gas,0,efficiency kitchen,347,NA,1,0,2,0,0,NA,NA,NA,11354,0
+14,condo,NA,gas,0,combo,NA,2,1,0,5,0,0,NA,NA,395,11106,350
+14,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,120,11102,282
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1122,13,11354,295
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1122,13,11354,275
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1233,13,11354,295
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1233,13,11354,302
+17,condo,other,gas,0,none,NA,NA,2,0,0,0,0,NA,2454,219,11354,437
+17,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1233,13,11354,289
+17,condo,combo,gas,1,combo,NA,2,2,0,4,0,0,NA,NA,20,11354,220
+69,co-op,combo,gas,0,eatin,718,1,1,0,3,0,0,NA,750,NA,11354,0
+72,co-op,other,oil,0,eatin,590,1,1,0,1,0,40,NA,700,NA,11369,0
+72,co-op,other,oil,0,eatin,722,2,1,0,4,48,40,NA,NA,NA,11369,0
+NA,co-op,NA,NA,0,NA,NA,NA,1,0,4,0,0,NA,NA,NA,"32-42 89th St,  E. Elmhurst NY, 1136",0
+38,condo,combo,gas,1,combo,NA,3,2,1,6,0,0,NA,1633,3802,11356,590
+67,co-op,combo,oil,0,efficiency kitchen,494,1,1,0,3,0,0,NA,700,NA,11372,0
+NA,co-op,formal,oil,0,efficiency kitchen,695,2,1,0,4,0,0,NA,NA,NA,11372,0
+72,co-op,NA,oil,0,efficiency kitchen,642,2,1,0,4,0,0,NA,NA,NA,11372,0
+66,co-op,other,gas,0,efficiency kitchen,507,1,1,0,3,0,0,NA,675,NA,11372,0
+67,co-op,combo,NA,0,efficiency kitchen,482,1,1,0,4,75,0,NA,NA,NA,11372,0
+66,co-op,combo,gas,0,efficiency kitchen,570,1,1,0,3,0,0,NA,730,NA,11372,0
+74,co-op,combo,oil,0,efficiency kitchen,490,1,1,0,3,0,0,NA,NA,NA,11372,0
+66,co-op,NA,gas,0,combo,860,3,1,1,5,0,0,NA,NA,NA,11106,0
+66,co-op,NA,gas,0,combo,661,2,1,0,4,0,0,NA,NA,NA,11106,0
+62,co-op,formal,oil,0,eatin,685,2,2,0,7,0,0,NA,NA,NA,11354,0
+73,co-op,formal,gas,1,eatin,578,1,1,0,4,133,35,NA,NA,NA,11372,0
+85,co-op,NA,gas,0,combo,892,1,1,0,4,0,0,NA,NA,NA,11372,0
+64,co-op,NA,gas,0,combo,800,1,1,0,4,0,0,NA,NA,NA,11377,0
+94,condo,combo,oil,0,eatin,549,1,1,0,3,0,0,NA,1000,3673,11372,0
+16,condo,formal,gas,0,combo,NA,2,2,0,5,0,0,NA,998,45,11354,277
+20,condo,combo,gas,0,eatin,NA,2,2,0,4,0,0,NA,NA,45,11354,245
+20,condo,combo,gas,0,eatin,NA,2,2,0,4,0,0,NA,643,449,11354,258
+44,co-op,NA,gas,0,combo,504,1,1,0,4,0,0,NA,650,NA,11358,0
+74,co-op,formal,gas,0,combo,546,1,2,0,4,0,0,NA,650,NA,11358,0
+108,co-op,formal,gas,0,eatin,467,1,1,0,3,0,0,NA,800,NA,11372,0
+9,condo,formal,gas,0,eatin,NA,1,1,0,2,0,0,NA,495,153,11354,224
+36,condo,combo,gas,0,combo,NA,2,1,1,5,0,0,NA,NA,5363,11354,620
+66,co-op,NA,NA,0,efficiency,NA,1,1,0,3,0,0,NA,547,2424,11372,353
+76,co-op,NA,gas,0,none,686,1,1,0,4,0,0,NA,733,NA,11372,0
+82,co-op,formal,gas,0,eatin,748,1,1,0,4,0,0,NA,950,NA,11372,0
+94,co-op,combo,gas,0,eatin,641,1,1,0,3,0,0,NA,NA,NA,"35-25 77 St,  Jackson Heights NY, 1137",0
+103,co-op,formal,gas,0,efficiency kitchen,812,3,2,0,6,0,30,NA,1250,NA,11372,0
+84,co-op,formal,oil,0,efficiency,783,1,1,0,3,0,50,NA,NA,NA,11372,0
+69,co-op,combo,NA,1,efficiency kitchen,596,1,1,0,4,65,0,NA,650,NA,11372,0
+69,co-op,NA,oil,0,efficiency kitchen,541,1,1,0,3,0,0,NA,720,NA,11372,0
+86,co-op,formal,NA,0,eatin,732,1,1,0,4,0,0,NA,NA,NA,11372,0
+74,co-op,other,gas,0,efficiency kitchen,569,1,1,0,3,0,0,NA,725,NA,11372,0
+79,co-op,NA,oil,0,efficiency kitchen,299,NA,1,0,2,0,0,NA,NA,NA,11372,0
+102,co-op,NA,gas,0,efficiency kitchen,850,2,2,0,5,0,25,NA,1100,NA,11372,0
+97,condo,combo,oil,0,efficiency,NA,2,1,0,4,0,0,NA,738,3284,11372,416
+NA,condo,NA,oil,0,efficiency,NA,1,1,0,5,0,0,NA,555,2595,11372,387
+87,condo,formal,oil,0,eatin,NA,3,1,1,6,0,0,NA,1200,4800,11358,536
+14,condo,NA,gas,0,efficiency kitchen,NA,2,1,0,5,0,0,NA,604,258,11358,224
+12,condo,combo,gas,0,combo,NA,3,2,0,7,0,0,NA,NA,372,11354,460
+74,co-op,combo,oil,0,efficiency kitchen,715,1,1,0,3,0,0,NA,NA,NA,11358,0
+13,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,1040,189,11368,329
+16,condo,combo,gas,0,combo,NA,2,1,0,5,0,0,NA,NA,550,11354,0
+96,co-op,NA,oil,0,efficiency kitchen,565,1,1,0,2,0,50,NA,NA,NA,11372,0
+85,co-op,combo,oil,0,eatin,820,1,1,0,3,0,50,NA,750,NA,11372,0
+96,co-op,NA,oil,0,efficiency kitchen,912,1,1,0,4,0,50,NA,NA,NA,11372,0
+62,co-op,combo,gas,1,efficiency kitchen,720,1,1,0,3,0,0,NA,NA,NA,11372,0
+69,co-op,other,gas,0,eatin,914,2,2,0,5,0,0,NA,1150,NA,11372,0
+105,co-op,formal,gas,0,efficiency kitchen,504,1,1,0,4,0,30,NA,800,NA,11372,0
+108,co-op,NA,oil,0,eatin,528,2,1,0,5,0,0,NA,850,NA,11377,0
+21,condo,formal,gas,0,combo,507,1,1,0,4,200,0,NA,NA,450,11368,0
+87,condo,formal,oil,0,efficiency kitchen,400,1,1,0,5,0,0,NA,NA,2584,11373,0
+88,condo,formal,oil,0,eatin,NA,1,1,0,4,0,0,NA,870,210,11104,546
+37,condo,formal,gas,1,eatin,NA,5,3,0,11,0,0,NA,2200,7774,11356,486
+88,co-op,other,gas,0,efficiency kitchen,549,1,1,0,3,0,50,NA,725,NA,11104,0
+21,condo,formal,gas,0,combo,NA,2,1,1,5,0,0,NA,850,1350,11355,320
+21,condo,other,gas,0,combo,NA,2,1,1,5,0,0,NA,NA,1800,11355,320
+62,co-op,formal,oil,0,efficiency kitchen,515,2,1,0,4,0,0,NA,NA,NA,11377,0
+45,condo,combo,gas,0,eatin,NA,2,1,1,5,0,0,NA,910,4225,11355,602
+29,condo,NA,gas,0,eatin,NA,NA,1,0,3,0,0,NA,569,2425,11377,305
+44,condo,NA,gas,1,eatin,NA,3,2,1,7,0,0,NA,2050,4738,11356,428
+98,co-op,combo,oil,0,efficiency kitchen,660,1,1,0,3,0,0,NA,634,NA,11373,0
+60,co-op,combo,gas,0,efficiency kitchen,540,1,1,0,3,0,0,NA,665,NA,11363,0
+18,condo,formal,gas,0,combo,NA,2,2,0,4,0,0,NA,800,250,11373,219
+63,co-op,NA,oil,0,combo,412,1,1,0,2,0,0,NA,NA,NA,11355,0
+62,co-op,combo,gas,0,efficiency kitchen,410,NA,1,0,2,0,0,NA,NA,NA,11355,0
+39,condo,combo,gas,0,combo,NA,1,1,0,3,0,0,NA,720,2922,11355,215
+68,co-op,NA,gas,0,efficiency kitchen,613,1,1,0,4,0,0,NA,NA,NA,11355,0
+64,co-op,formal,gas,0,combo,NA,1,1,0,4,0,0,NA,800,NA,11355,0
+11,condo,formal,gas,0,combo,NA,1,1,0,3,0,0,NA,804,66,11104,185
+60,co-op,NA,gas,0,eatin,973,3,2,0,6,0,50,NA,1300,NA,11355,0
+63,co-op,NA,gas,0,combo,690,1,1,0,3,0,35,NA,800,NA,11355,0
+63,co-op,NA,gas,0,combo,940,2,2,0,5,0,35,NA,1200,NA,11355,0
+60,co-op,formal,gas,0,eatin,963,3,2,0,6,0,0,NA,1300,NA,11355,0
+63,co-op,NA,oil,0,efficiency,1086,3,2,0,6,120,0,NA,NA,NA,11355,0
+63,co-op,NA,gas,0,combo,787,2,1,0,4,0,0,NA,NA,NA,11355,0
+12,condo,combo,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,892,11361,335
+17,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,17,11355,210
+63,co-op,combo,oil,0,efficiency kitchen,930,2,2,0,5,0,0,NA,NA,NA,11363,0
+93,condo,NA,electric,0,eatin,NA,1,1,0,5,0,0,NA,743,2808,11104,319
+74,co-op,formal,gas,0,eatin,901,3,1,0,7,0,0,NA,1300,NA,11355,0
+70,co-op,formal,gas,0,eatin,700,2,1,0,6,0,0,NA,850,NA,11355,0
+66,condo,combo,oil,0,efficiency,NA,1,1,0,4,0,0,NA,NA,2382,11355,453
+94,co-op,other,oil,0,efficiency kitchen,575,1,1,1,4,0,0,NA,NA,NA,11103,0
+36,condo,combo,gas,0,eatin,210,2,1,1,4,0,0,NA,850,3400,11373,0
+37,condo,combo,gas,0,combo,NA,2,1,1,5,0,0,NA,800,2800,11358,226
+64,co-op,NA,NA,0,eatin,550,NA,1,0,3,0,0,NA,NA,NA,11362,0
+74,co-op,formal,gas,0,combo,460,1,1,0,4,0,0,NA,NA,NA,11377,0
+37,condo,formal,gas,0,combo,NA,2,2,1,7,0,0,NA,NA,3280,11356,376
+36,condo,formal,gas,1,eatin,NA,2,1,1,5,0,0,NA,NA,3740,11373,265
+62,condo,other,gas,0,eatin,NA,1,1,0,3,0,0,NA,663,3200,11373,490
+69,co-op,combo,gas,0,efficiency,670,2,1,0,4,0,0,NA,NA,NA,11378,0
+69,co-op,combo,gas,0,efficiency kitchen,670,2,1,0,4,0,0,NA,NA,NA,11378,0
+37,condo,formal,gas,1,efficiency,NA,2,2,0,6,0,0,NA,NA,2700,11356,380
+63,co-op,combo,gas,0,efficiency,687,1,1,0,3,95,0,NA,NA,NA,11362,0
+63,co-op,formal,gas,0,efficiency kitchen,877,2,1,0,4,0,0,NA,NA,NA,11362,0
+63,co-op,combo,gas,0,efficiency,644,1,1,0,3,0,0,NA,NA,NA,11362,0
+63,co-op,combo,gas,0,efficiency kitchen,634,1,1,0,3,0,0,NA,NA,NA,11362,0
+33,condo,combo,gas,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,1020,1860,11368,280
+69,condo,NA,oil,0,eatin,NA,2,1,0,4,0,0,NA,800,3478,11365,390
+74,co-op,NA,gas,0,efficiency kitchen,673,1,1,0,3,0,30,NA,650,NA,11362,0
+56,co-op,formal,gas,1,eatin,511,NA,1,0,2,180,0,NA,NA,NA,11368,0
+8,condo,formal,gas,0,combo,NA,1,1,0,3,0,0,NA,622,150,11355,0
+8,condo,other,gas,0,combo,NA,2,1,0,4,0,0,NA,900,120,11355,315
+56,co-op,formal,gas,0,efficiency kitchen,863,2,2,0,4,0,0,NA,NA,NA,11374,0
+62,co-op,other,oil,0,eatin,977,3,2,0,7,0,0,NA,1428,NA,11377,0
+97,condo,NA,other,0,eatin,NA,1,1,0,3,0,0,NA,741,245,11377,377
+97,condo,NA,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,258,11377,398
+62,co-op,combo,gas,1,eatin,648,1,1,0,3,150,50,NA,750,NA,11374,0
+57,co-op,combo,gas,0,efficiency ktchen,995,1,1,0,3,150,0,NA,900,NA,"61-20 Grand Central Pky,  Forest Hills NY, 1137",0
+60,co-op,formal,gas,0,efficiency kitchen,1265,2,1,0,4,0,0,NA,1000,NA,11375,0
+59,co-op,formal,gas,0,efficiency kitchen,1601,2,2,0,4,0,40,NA,1200,NA,11375,0
+59,co-op,formal,gas,0,efficiency kitchen,1757,2,2,0,5,0,35,NA,1300,NA,11375,0
+57,co-op,combo,gas,1,efficiency kitchen,1700,3,2,0,6,0,0,NA,1450,NA,11375,0
+60,co-op,combo,gas,0,efficiency kitchen,1034,2,1,0,4,0,0,NA,NA,NA,11375,0
+59,co-op,formal,gas,0,eatin,1708,2,2,0,4,0,0,NA,1300,NA,11375,0
+62,co-op,combo,gas,1,eatin,850,2,1,0,4,150,50,NA,975,NA,11374,0
+64,co-op,formal,oil,1,eatin,1241,3,2,0,6,150,50,NA,1400,NA,11374,0
+64,co-op,combo,NA,0,efficiency kitchen,642,1,1,0,3,0,0,NA,NA,NA,11374,0
+69,co-op,other,oil,0,combo,842,2,1,0,4,0,0,NA,NA,NA,11374,0
+74,co-op,formal,gas,0,efficiency kitchen,709,1,1,0,4,160,50,NA,800,NA,11374,0
+64,co-op,combo,oil,1,combo,462,NA,1,0,0,160,50,NA,310,NA,11374,0
+64,co-op,combo,oil,1,efficiency,938,2,1,0,5,160,0,NA,NA,NA,11374,0
+53,condo,combo,gas,1,eatin,NA,3,2,1,6,0,0,NA,1520,4415,11362,354
+36,condo,combo,gas,1,combo,NA,2,1,1,8,56,0,NA,1000,3500,11374,779
+74,co-op,formal,gas,0,eatin,718,2,1,0,4,0,0,NA,1200,NA,11375,0
+64,co-op,NA,gas,1,combo,811,2,1,0,6,95,0,NA,1550,NA,11375,0
+64,co-op,other,gas,1,combo,811,2,1,0,6,95,0,NA,1250,2499,11375,0
+79,co-op,formal,oil,0,eatin,643,1,1,0,3,0,0,NA,NA,NA,11374,0
+75,condo,combo,gas,0,efficiency kitchen,NA,2,1,0,5,125,0,NA,NA,3606,11374,518
+75,condo,other,NA,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,350,11374,440
+72,condo,NA,gas,0,combo,NA,NA,1,0,2,0,0,NA,NA,2013,11374,0
+72,condo,formal,oil,0,eatin,NA,1,1,0,4,0,0,NA,900,2450,11374,418
+16,condo,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,719,31,11375,560
+16,condo,combo,gas,1,eatin,NA,2,2,0,5,0,0,NA,1250,65,11375,830
+74,co-op,combo,gas,0,combo,690,2,1,0,4,0,50,NA,900,NA,11374,0
+72,co-op,formal,oil,1,eatin,1225,3,2,0,6,150,47,NA,1350,NA,11374,0
+69,co-op,combo,oil,0,combo,445,1,1,0,3,0,0,NA,NA,NA,11374,0
+85,co-op,NA,oil,0,combo,482,NA,1,0,2,0,0,NA,NA,NA,11374,0
+64,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,NA,3047,11362,402
+41,condo,NA,NA,0,eatin,NA,1,1,0,3,0,0,NA,NA,1829,11362,170
+61,co-op,combo,oil,0,efficiency,640,2,1,0,5,0,0,NA,NA,NA,11377,0
+72,co-op,NA,oil,0,efficiency,400,NA,1,0,3,0,50,NA,NA,NA,11377,0
+75,co-op,combo,gas,0,efficiency,859,2,1,0,4,0,0,NA,NA,NA,11364,0
+10,condo,formal,gas,0,eatin,NA,1,2,1,6,0,0,NA,NA,6988,11377,0
+85,co-op,other,oil,0,eatin,799,1,1,0,3,0,45,NA,800,NA,11374,0
+61,condo,formal,oil,1,combo,NA,1,1,0,3,225,0,NA,NA,2413,11374,0
+61,condo,formal,oil,1,eatin,NA,NA,1,0,4,250,0,NA,860,3500,11374,362
+61,condo,formal,oil,0,combo,NA,2,1,0,5,225,0,NA,870,3945,11374,360
+61,condo,formal,oil,1,eatin,NA,2,1,0,5,0,0,NA,NA,4227,11374,437
+61,condo,formal,oil,1,eatin,NA,1,1,0,4,225,0,NA,620,3127,11374,254
+85,co-op,combo,gas,0,eatin,916,2,1,0,5,0,50,NA,NA,NA,11374,0
+61,co-op,combo,oil,1,none,418,NA,1,0,3,0,0,NA,550,NA,11375,0
+74,co-op,formal,gas,0,combo,550,1,1,0,3,0,50,NA,NA,NA,11375,0
+74,co-op,combo,oil,0,efficiency kitchen,671,1,1,0,3,0,50,NA,700,NA,11374,0
+59,co-op,combo,gas,1,efficiency kitchen,943,2,1,0,4,150,50,NA,1000,NA,11375,0
+59,co-op,combo,gas,0,efficiency kitchen,824,1,1,0,3,150,0,NA,NA,NA,11375,0
+59,co-op,NA,oil,1,combo,1165,2,1,0,4,0,0,NA,NA,NA,11375,0
+39,condo,other,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,1300,3491,11379,422
+17,condo,combo,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,911,11379,373
+68,co-op,combo,electric,0,efficiency kitchen,597,1,1,0,3,0,50,NA,600,NA,11375,0
+74,co-op,combo,gas,0,efficiency kitchen,908,2,1,0,4,0,0,NA,NA,NA,11364,0
+69,co-op,formal,gas,1,efficiency kitchen,913,2,1,0,5,130,0,NA,1000,NA,11375,0
+69,co-op,combo,gas,1,combo,632,1,1,0,3,185,50,NA,750,NA,11375,0
+74,co-op,formal,oil,0,efficiency kitchen,534,1,1,0,3,0,0,NA,NA,NA,11375,0
+74,co-op,combo,oil,1,efficiency kitchen,929,2,1,0,5,120,0,NA,NA,NA,11375,0
+74,co-op,formal,gas,0,eatin,500,2,1,0,5,11,65,NA,NA,NA,11364,0
+69,co-op,combo,gas,0,eatin,1103,2,1,1,5,0,0,NA,NA,NA,11375,0
+79,co-op,combo,gas,0,eatin,805,1,1,0,3,189,0,NA,NA,NA,11375,0
+75,co-op,NA,oil,0,combo,679,1,1,0,2,189,32,NA,NA,NA,11375,0
+73,co-op,other,NA,1,eatin,493,1,1,0,3,0,38,NA,NA,NA,11375,0
+69,co-op,formal,oil,0,efficiency,658,1,1,0,3,0,0,NA,700,NA,11367,0
+64,co-op,NA,gas,0,efficiency kitchen,429,NA,1,0,1,0,0,NA,500,NA,11375,0
+74,condo,combo,gas,0,eatin,2127,2,1,0,4,0,0,NA,NA,NA,11364,336
+74,co-op,NA,gas,0,eatin,1075,3,2,0,8,0,50,NA,NA,NA,11375,0
+75,co-op,other,oil,1,efficiency,612,1,1,0,3,133,48,NA,621,NA,11375,0
+92,co-op,formal,gas,1,eatin,996,2,2,0,4,75,0,NA,NA,NA,11375,0
+84,co-op,NA,oil,0,combo,700,1,1,0,2,0,50,NA,NA,NA,11375,0
+74,co-op,formal,NA,0,efficiency kitchen,1013,2,1,0,5,0,0,NA,NA,NA,11367,0
+74,co-op,NA,gas,0,eatin,745,1,1,0,4,0,0,NA,NA,NA,11367,0
+70,co-op,NA,gas,1,efficiency,1620,3,2,0,8,140,36,NA,NA,NA,11375,0
+68,co-op,formal,gas,0,efficiency kitchen,1287,2,2,0,7,0,0,NA,NA,NA,11375,0
+84,co-op,formal,gas,0,eatin,817,1,1,0,4,150,0,NA,725,NA,11375,0
+82,co-op,other,NA,1,eatin,1050,2,1,0,5,150,0,NA,NA,NA,11375,0
+74,co-op,formal,gas,0,efficiency,542,2,1,0,5,0,0,NA,NA,NA,11364,0
+84,co-op,other,other,0,eatin,1335,2,2,0,4,0,50,NA,1155,NA,11375,0
+84,co-op,other,other,0,eatin,1339,2,2,0,5,0,50,NA,1231,NA,11375,0
+84,co-op,other,other,0,eatin,1790,4,2,0,7,0,50,NA,1557,NA,11375,0
+74,condo,formal,oil,0,eatin,NA,2,2,0,5,0,0,NA,1215,4104,11375,740
+74,co-op,combo,gas,0,efficiency kitchen,461,2,1,0,5,0,0,NA,NA,NA,11364,0
+74,co-op,formal,oil,0,efficiency kitchen,652,1,1,0,3,0,0,NA,NA,NA,11367,0
+75,co-op,combo,gas,0,efficiency kitchen,753,2,1,0,5,40,0,NA,NA,NA,11367,0
+57,co-op,formal,gas,0,eatin,1478,2,2,0,6,180,0,NA,1415,NA,11375,0
+57,co-op,formal,gas,1,eatin,1317,2,2,0,5,0,0,NA,NA,NA,11375,0
+62,co-op,NA,gas,1,eatin,750,1,1,0,4,165,0,NA,752,NA,11375,0
+60,co-op,combo,gas,0,efficiency kitchen,687,1,1,0,1,0,0,NA,625,NA,11375,0
+60,co-op,NA,gas,0,combo,540,NA,1,0,2,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,897,1,1,0,3,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,715,1,1,0,3,0,0,NA,NA,NA,11375,0
+60,co-op,NA,gas,0,combo,876,1,1,0,3,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,1092,2,1,0,4,0,0,NA,NA,NA,11375,0
+60,co-op,formal,gas,0,combo,1191,2,1,0,4,0,0,NA,NA,NA,11375,0
+60,co-op,combo,gas,0,combo,683,NA,1,0,3,0,0,NA,NA,NA,11375,0
+74,co-op,combo,oil,0,combo,677,NA,1,0,3,0,0,NA,NA,NA,11375,0
+74,co-op,combo,oil,0,eatin,715,1,1,0,4,0,0,NA,NA,NA,11426,0
+17,condo,formal,gas,0,eatin,NA,3,2,0,8,0,0,NA,1400,394,11365,652
+69,co-op,NA,oil,0,none,1280,1,1,0,4,0,0,NA,700,NA,11375,0
+68,co-op,combo,gas,1,eatin,1042,2,1,0,5,0,0,NA,NA,NA,11375,0
+69,co-op,combo,gas,0,efficiency kitchen,858,1,1,0,3,60,0,NA,850,NA,11357,0
+20,condo,formal,gas,0,efficiency kitchen,NA,3,2,0,7,0,0,NA,1100,54,11365,170
+20,condo,formal,gas,0,efficiency kitchen,NA,3,2,0,6,0,0,NA,1100,54,11365,170
+74,co-op,combo,oil,1,eatin,702,1,1,0,4,0,0,NA,NA,NA,11426,0
+84,condo,other,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,2411,11375,542
+69,co-op,combo,oil,1,efficiency kitchen,1469,3,1,0,5,0,39,NA,NA,NA,11357,0
+74,co-op,combo,oil,0,eatin,514,1,1,0,3,0,39,NA,585,NA,11004,0
+84,co-op,other,other,0,combo,1078,2,1,0,4,0,50,NA,980,NA,11372,0
+84,co-op,other,other,0,combo,1099,2,1,0,4,0,50,NA,1020,NA,11372,0
+84,co-op,other,other,0,combo,1104,2,1,0,4,0,50,NA,1171,NA,11372,0
+84,co-op,other,other,0,eatin,801,2,2,0,4,0,50,NA,1217,NA,11372,0
+84,co-op,formal,other,0,eatin,1788,3,2,0,5,0,0,NA,1518,NA,11372,0
+84,co-op,other,other,0,combo,697,1,1,0,3,0,50,NA,NA,NA,11372,0
+74,co-op,combo,gas,0,efficiency kitchen,673,2,1,0,4,0,39,NA,651,NA,11004,0
+86,co-op,NA,oil,0,eatin,750,1,1,0,3,0,0,NA,NA,NA,11375,0
+74,co-op,combo,gas,0,eatin,702,2,1,0,4,0,39,NA,721,NA,11004,0
+62,co-op,NA,gas,0,efficiency kitchen,470,1,1,0,3,120,0,NA,600,NA,11377,0
+59,co-op,other,gas,0,efficiency kitchen,408,NA,1,0,2,0,0,NA,430,NA,11373,0
+77,co-op,combo,oil,0,efficiency kitchen,630,2,1,0,4,0,0,NA,NA,NA,11004,0
+69,co-op,formal,gas,0,eatin,NA,1,1,0,3,0,0,NA,450,NA,11374,433
+NA,co-op,NA,NA,0,NA,NA,2,1,0,5,0,0,NA,NA,NA,11364,0
+72,co-op,combo,oil,1,combo,505,1,1,0,3,190,50,NA,NA,NA,11375,0
+69,co-op,combo,gas,0,eatin,509,1,1,0,4,0,50,NA,NA,NA,11364,0
+74,co-op,NA,gas,0,eatin,475,NA,1,0,1,0,0,NA,380,NA,11375,0
+74,co-op,combo,gas,0,eatin,722,2,1,0,4,0,39,NA,766,NA,11004,0
+84,co-op,other,oil,0,eatin,615,1,1,0,3,0,50,NA,NA,NA,11375,0
+44,condo,formal,gas,0,eatin,350,2,1,0,4,0,0,NA,900,2936,11373,0
+75,co-op,combo,gas,0,eatin,529,1,1,0,3,0,39,NA,585,NA,11426,0
+84,condo,combo,oil,0,efficiency kitchen,499,1,1,0,4,0,0,NA,NA,142,11103,0
+87,co-op,other,gas,0,eatin,928,2,1,0,4,0,40,NA,1000,NA,11372,0
+85,co-op,combo,oil,0,efficiency kitchen,701,1,1,0,3,0,0,NA,800,NA,11375,0
+86,co-op,formal,oil,0,efficiency,864,1,1,0,3,0,0,NA,NA,NA,11375,0
+92,co-op,combo,gas,0,eatin,879,2,1,0,5,0,50,NA,NA,NA,11375,0
+74,co-op,NA,NA,0,efficiency kitchen,778,2,1,0,5,0,0,NA,750,NA,11367,0
+47,condo,combo,gas,0,eatin,310,1,1,0,4,0,0,NA,NA,1582,11414,0
+74,co-op,NA,gas,0,efficiency,841,2,1,0,5,75,0,NA,NA,NA,"78-07 Springfield Blvd,  Bayside NY, 1136",0
+85,co-op,combo,gas,0,eatin,1178,2,2,0,5,0,0,NA,NA,NA,11372,0
+85,co-op,combo,oil,0,eatin,674,1,1,0,3,0,0,NA,NA,NA,11372,0
+95,co-op,combo,oil,0,eatin,683,1,1,0,3,0,50,NA,NA,NA,11375,0
+74,co-op,NA,gas,0,efficiency kitchen,844,2,1,0,5,0,0,NA,NA,NA,11364,0
+69,co-op,combo,oil,0,efficiency,854,3,1,0,4,0,50,NA,NA,NA,11367,0
+68,co-op,combo,gas,0,efficiency,756,1,1,1,4,0,0,NA,235,NA,"80-35 Springfield Blvd,  Queens Village NY, 1142",0
+68,co-op,combo,gas,0,efficiency,741,1,1,0,4,0,0,NA,850,NA,11364,0
+74,co-op,formal,oil,0,eatin,1116,2,2,0,6,0,0,NA,1200,NA,11373,0
+69,co-op,NA,oil,0,eatin,616,NA,1,0,3,0,0,NA,NA,NA,11004,0
+85,condo,formal,gas,0,efficiency kitchen,NA,3,1,0,6,0,0,NA,950,2255,11373,597
+74,co-op,combo,oil,0,efficiency kitchen,540,1,1,0,3,0,0,NA,700,NA,11415,0
+57,co-op,other,oil,0,eatin,493,2,1,0,4,0,0,NA,NA,NA,11421,0
+74,co-op,combo,electric,0,combo,480,NA,1,0,3,0,0,NA,500,NA,11373,0
+74,co-op,other,gas,0,eatin,932,2,1,0,4,0,0,NA,NA,NA,11372,0
+69,co-op,combo,gas,0,eatin,563,2,1,0,4,0,0,NA,NA,NA,11421,0
+85,co-op,NA,gas,0,efficiency kitchen,834,1,1,0,3,145,0,NA,950,NA,11415,0
+74,co-op,formal,oil,0,eatin,959,2,1,0,4,140,0,NA,1000,NA,11415,0
+74,co-op,combo,oil,0,eatin,745,1,1,0,3,110,0,NA,700,NA,11415,0
+68,co-op,NA,gas,0,eatin,784,1,1,0,3,0,0,NA,NA,NA,11415,0
+92,co-op,combo,oil,0,eatin,NA,2,1,2,4,0,0,NA,NA,NA,11415,0
+102,co-op,other,other,0,combo,674,1,1,0,2,0,0,NA,NA,NA,11415,0
+68,co-op,combo,electric,0,combo,375,1,1,0,3,0,0,NA,508,NA,11373,0
+20,condo,combo,gas,0,combo,NA,1,1,0,3,0,0,NA,NA,150,11415,307
+20,condo,NA,gas,1,eatin,NA,2,1,1,4,0,0,NA,1000,225,11415,439
+70,co-op,combo,gas,1,eatin,685,2,1,0,5,0,0,NA,NA,NA,11421,0
+74,co-op,formal,oil,0,efficiency kitchen,527,1,1,0,2,0,40,NA,600,NA,11415,0
+93,co-op,formal,oil,0,eatin,978,1,1,0,4,0,0,NA,NA,NA,11415,0
+68,co-op,combo,NA,0,eatin,933,2,1,0,5,75,0,NA,NA,NA,11435,0
+68,co-op,formal,gas,0,eatin,983,2,1,0,5,90,50,NA,1200,NA,11435,0
+NA,condo,combo,electric,1,combo,NA,2,1,1,4,0,0,NA,NA,3325,11418,362
+94,co-op,combo,gas,0,eatin,789,2,1,0,4,0,0,NA,1000,NA,11372,0
+59,co-op,formal,gas,0,efficiency kitchen,1054,2,2,0,5,70,0,NA,NA,NA,11414,0
+62,co-op,formal,oil,1,efficiency kitchen,442,NA,1,1,3,0,0,NA,525,NA,11373,0
+70,condo,combo,gas,0,efficiency kitchen,NA,2,1,0,4,0,0,NA,952,3500,11373,552
+65,co-op,formal,gas,1,eatin,805,2,1,0,5,0,50,NA,NA,NA,11435,0
+64,co-op,formal,gas,0,efficiency,1071,2,2,0,5,0,0,NA,NA,NA,11414,0
+85,co-op,formal,gas,1,combo,914,1,1,0,6,0,50,NA,900,NA,11432,0
+74,co-op,other,gas,0,eatin,929,1,1,0,3,0,0,NA,NA,NA,11432,0
+85,co-op,formal,NA,0,efficiency kitchen,910,1,1,0,4,0,0,NA,NA,NA,11432,0
+74,co-op,combo,oil,0,combo,765,2,1,0,4,90,0,NA,NA,NA,11432,0
+71,co-op,combo,gas,1,efficiency kitchen,609,1,1,0,3,0,42,NA,NA,NA,11432,0
+70,co-op,combo,gas,1,combo,461,NA,1,0,3,85,45,NA,NA,NA,11432,0
+83,co-op,formal,NA,0,eatin,917,1,1,0,3,0,0,NA,950,NA,11415,0
+83,co-op,combo,oil,0,eatin,829,1,1,0,4,0,0,NA,NA,NA,11415,0
+72,co-op,NA,oil,0,eatin,393,1,1,0,2,0,56,NA,NA,NA,11435,0
+55,co-op,combo,gas,0,efficiency kitchen,602,1,1,0,3,0,0,NA,650,NA,11415,0
+55,co-op,combo,gas,0,combo,960,2,2,0,6,0,0,NA,NA,NA,11415,0
+12,condo,combo,gas,0,eatin,NA,2,2,0,5,0,0,NA,1096,678,11373,330
+12,condo,formal,gas,0,eatin,NA,3,2,0,7,0,0,NA,1386,850,11373,330
+73,condo,formal,oil,0,eatin,NA,1,1,0,5,0,0,NA,706,2634,11372,379
+99,co-op,combo,oil,0,eatin,647,1,1,0,3,0,50,NA,NA,NA,11418,0
+60,co-op,combo,gas,0,efficiency kitchen,NA,1,1,0,3,0,0,NA,NA,631,11373,0
+64,co-op,combo,oil,0,combo,842,2,1,0,4,0,50,NA,825,NA,11373,0
+60,co-op,combo,oil,1,efficiency kitchen,685,1,1,0,3,0,0,NA,800,NA,11373,0
+58,co-op,formal,oil,0,eatin,1127,3,2,0,6,30,0,NA,NA,NA,11414,0
+87,co-op,combo,oil,0,efficiency kitchen,575,1,1,0,4,0,40,NA,875,NA,11372,0
+73,co-op,NA,gas,0,eatin,804,2,1,0,4,0,0,NA,850,NA,11372,0
+69,co-op,formal,gas,0,combo,644,2,1,0,4,0,50,NA,NA,NA,11427,0
+NA,co-op,combo,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,NA,11373,0
+64,co-op,formal,gas,0,eatin,NA,1,1,0,3,0,0,NA,NA,NA,11373,0
+61,co-op,NA,gas,0,efficiency kitchen,998,2,2,0,5,130,0,NA,NA,NA,11373,0
+61,co-op,combo,gas,0,efficiency kitchen,546,1,1,0,3,130,0,NA,NA,NA,11373,0
+64,co-op,formal,gas,1,eatin,500,NA,1,0,3,0,0,NA,575,NA,11373,500
+97,co-op,NA,oil,0,eatin,631,1,1,0,3,0,0,NA,NA,NA,11432,0
+38,condo,NA,gas,0,none,NA,NA,1,0,0,0,0,NA,NA,2800,11373,500
+55,condo,formal,gas,0,eatin,NA,2,2,0,5,25,0,NA,1200,3242,11414,621
+74,co-op,combo,gas,0,efficiency kitchen,877,1,1,0,4,0,0,NA,NA,NA,11432,0
+74,co-op,formal,oil,0,efficiency kitchen,733,2,1,0,4,0,40,NA,NA,NA,11427,0
+61,co-op,other,gas,0,eatin,677,2,1,0,4,0,0,NA,NA,NA,11432,0
+74,co-op,formal,gas,0,eatin,NA,1,1,0,5,0,0,NA,NA,NA,11432,565
+62,co-op,combo,oil,0,efficiency kitchen,NA,3,2,0,5,25,0,NA,NA,NA,11414,774
+17,condo,formal,gas,1,combo,NA,2,2,0,7,0,0,NA,1550,28,11432,600
+69,co-op,other,gas,0,eatin,767,1,1,0,4,0,0,NA,650,NA,11423,0
+74,co-op,NA,oil,0,efficiency kitchen,439,NA,1,0,3,0,0,NA,NA,NA,11432,0
+65,co-op,combo,gas,0,eatin,NA,2,1,0,5,0,0,NA,800,500,11432,0
+60,co-op,NA,oil,0,efficiency,810,1,1,0,3,0,38,NA,NA,NA,11432,0
+74,co-op,NA,oil,0,efficiency kitchen,461,NA,1,0,2,0,38,NA,NA,NA,11432,0
+64,co-op,formal,gas,0,efficiency kitchen,848,2,1,0,5,0,0,NA,NA,NA,11414,0
+93,co-op,combo,oil,0,eatin,528,1,1,0,3,0,35,NA,1000,NA,11372,0
+89,co-op,NA,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,NA,11432,691
+74,co-op,formal,gas,0,efficiency,720,2,2,0,5,0,0,NA,NA,NA,11414,0
+74,co-op,NA,gas,0,efficiency kitchen,465,NA,1,0,2,0,0,NA,500,NA,11372,0
+72,co-op,formal,gas,0,efficiency kitchen,NA,1,1,0,4,45,0,NA,NA,NA,11372,0
+73,co-op,other,gas,1,eatin,680,2,1,0,4,45,0,NA,NA,NA,11372,0
+74,co-op,formal,gas,1,eatin,NA,3,3,0,7,0,0,NA,NA,4962,11414,0
+8,condo,formal,gas,1,eatin,NA,2,2,0,6,0,0,NA,892,291,11373,284
+66,co-op,combo,oil,0,combo,872,1,1,0,3,60,39,NA,890,NA,11357,0
+37,condo,formal,NA,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,870,4524,11374,507
+37,condo,combo,gas,0,eatin,NA,2,2,0,6,0,0,NA,881,4546,11374,825
+35,condo,formal,gas,0,combo,NA,2,2,0,4,0,0,NA,NA,4800,11374,585
+37,condo,combo,electric,0,eatin,NA,2,2,0,4,0,0,NA,NA,4800,11374,0
+79,co-op,combo,oil,0,efficiency,636,1,1,0,4,0,0,NA,875,NA,11373,0
+65,co-op,combo,oil,1,efficiency kitchen,415,NA,1,0,2,0,0,NA,NA,NA,11373,0
+60,co-op,combo,gas,0,eatin,720,2,1,0,6,0,0,NA,1000,NA,11373,0
+60,co-op,other,gas,0,eatin,655,2,1,0,5,170,0,NA,900,NA,11373,0
+34,condo,other,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,3609,11373,347
+79,co-op,NA,oil,0,eatin,NA,2,1,0,4,0,0,NA,NA,NA,11373,0
+72,co-op,NA,oil,0,combo,1320,3,2,1,6,150,50,NA,1600,NA,11375,0
+69,co-op,combo,gas,1,eatin,1024,3,1,1,6,150,50,NA,1100,NA,11374,0
+69,co-op,combo,gas,0,eatin,807,2,1,0,4,160,50,NA,900,NA,11374,0
+65,co-op,combo,oil,0,eatin,615,1,1,0,3,0,50,NA,775,NA,11374,0
+75,co-op,combo,gas,1,efficiency kitchen,721,1,1,0,3,0,0,NA,800,NA,11374,0
+69,co-op,combo,gas,0,efficiency kitchen,829,2,1,0,4,0,0,NA,875,NA,11374,0
+74,co-op,formal,oil,1,efficiency kitchen,601,1,1,0,3,169,50,NA,800,NA,11374,0
+64,co-op,formal,gas,0,efficiency kitchen,641,1,1,0,3,200,0,NA,780,NA,11374,0
+64,co-op,formal,gas,0,efficiency,601,1,1,0,3,250,0,NA,NA,NA,11374,0
+84,co-op,formal,gas,0,eatin,613,1,1,0,3,0,0,NA,NA,NA,11374,0
+59,co-op,formal,gas,0,eatin,576,2,1,0,6,0,0,NA,NA,NA,11368,0
+72,co-op,other,gas,0,efficiency kitchen,944,2,1,0,6,0,0,NA,875,NA,11374,0
+63,co-op,formal,gas,0,eatin,1065,3,2,0,6,0,50,NA,1200,NA,11368,0
+60,co-op,other,gas,0,eatin,849,2,1,1,6,0,0,NA,1200,NA,11368,0
+63,co-op,formal,oil,0,efficiency kitchen,415,1,1,0,3,0,0,NA,NA,NA,11368,0
+73,co-op,formal,gas,0,efficiency kitchen,NA,1,1,0,5,0,0,NA,NA,NA,11375,0
+74,co-op,formal,gas,0,eatin,724,1,1,0,3,0,0,NA,800,NA,11368,0
+74,co-op,NA,NA,0,efficiency kitchen,646,1,1,0,4,0,0,NA,NA,NA,11368,0
+72,co-op,other,NA,0,eatin,630,NA,1,0,3,0,0,NA,600,NA,11374,0
+72,co-op,combo,electric,0,efficiency kitchen,731,1,1,0,3,0,0,NA,NA,NA,11374,0
+94,co-op,formal,oil,0,eatin,699,1,1,0,3,0,0,NA,NA,NA,11374,0
+65,co-op,formal,oil,0,efficiency kitchen,671,1,1,0,4,0,0,NA,NA,NA,11368,0
+62,co-op,NA,gas,0,eatin,804,2,1,0,5,0,0,NA,NA,NA,11368,0
+72,co-op,NA,oil,0,eatin,NA,1,1,0,3,0,0,NA,NA,NA,11374,757
+69,co-op,combo,oil,0,combo,NA,2,1,0,4,155,0,NA,NA,NA,11374,0
+74,co-op,formal,gas,0,eatin,919,1,1,0,4,60,0,NA,960,NA,11360,0
+74,co-op,formal,gas,0,efficiency kitchen,544,2,1,1,5,175,0,NA,NA,NA,11364,0
+40,condo,formal,gas,1,eatin,NA,3,2,0,8,0,0,NA,NA,3400,11362,402
+64,co-op,combo,oil,0,efficiency kitchen,413,NA,1,0,2,0,50,NA,NA,NA,11369,0
+70,co-op,combo,gas,0,eatin,706,2,1,0,5,0,0,NA,800,NA,11355,0
+49,co-op,formal,gas,0,eatin,830,2,1,0,4,0,0,NA,NA,NA,11375,0
+59,co-op,combo,gas,1,efficiency kitchen,1000,2,1,0,4,35,0,NA,900,NA,11367,0
+14,condo,formal,gas,0,combo,NA,3,2,0,6,0,0,NA,NA,250,11385,250
+68,co-op,NA,gas,0,eatin,822,3,1,0,5,0,0,NA,NA,NA,11105,0
+65,co-op,NA,other,0,eatin,1088,1,1,0,4,60,0,NA,NA,NA,11360,0
+42,condo,formal,gas,0,eatin,NA,1,1,0,4,0,0,NA,950,4471,11360,667
+73,co-op,combo,gas,0,combo,995,3,1,0,5,60,0,NA,NA,NA,11364,0
+12,condo,combo,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,537,11356,267
+64,co-op,combo,oil,0,eatin,530,1,1,0,4,0,45,NA,700,NA,11354,0
+84,co-op,NA,gas,0,efficiency kitchen,NA,3,1,0,6,0,0,NA,NA,NA,11367,888
+74,co-op,combo,gas,1,eatin,620,1,1,0,3,38,0,NA,NA,NA,11423,0
+74,co-op,formal,gas,0,efficiency kitchen,1013,2,1,0,6,0,0,NA,NA,NA,11367,0
+50,condo,formal,gas,0,efficiency kitchen,NA,2,2,0,5,0,0,NA,NA,2850,11415,567
+74,co-op,combo,oil,0,efficiency kitchen,880,2,1,0,5,0,0,NA,NA,NA,11362,0
+72,co-op,other,gas,0,efficiency kitchen,775,2,1,0,5,0,0,NA,950,NA,11374,0
+72,co-op,formal,gas,0,none,595,1,1,0,3,0,0,NA,800,NA,11374,0
+58,co-op,formal,gas,1,eatin,2182,2,2,0,5,162,0,NA,NA,NA,11360,0
+42,condo,NA,gas,0,eatin,NA,1,1,0,4,0,0,NA,NA,3386,11360,555
+74,co-op,formal,gas,0,efficiency kitchen,544,2,1,0,5,175,0,NA,NA,NA,11364,0
+13,condo,formal,gas,0,efficiency kitchen,NA,2,1,0,5,0,0,NA,957,580,11356,275
+25,condo,NA,gas,0,combo,NA,1,1,0,3,0,0,NA,650,1900,11355,246
+54,co-op,combo,oil,0,efficiency kitchen,544,NA,1,0,3,0,0,NA,NA,NA,11432,0
+74,co-op,combo,oil,0,efficiency kitchen,NA,1,1,0,4,0,0,NA,NA,1500,11432,0
+8,condo,formal,gas,1,eatin,NA,2,2,0,5,0,0,NA,988,16,11415,347
+16,condo,combo,gas,0,eatin,162,1,1,0,3,0,0,NA,NA,616,11379,0
+37,condo,combo,gas,0,combo,NA,2,1,0,4,0,0,NA,NA,3588,11355,480
+41,condo,formal,gas,1,eatin,NA,2,2,0,5,99,0,NA,NA,5100,11360,956
+14,condo,formal,gas,0,combo,NA,3,2,0,6,0,0,NA,1500,250,11385,250
+14,condo,formal,gas,0,combo,NA,3,2,0,6,0,0,NA,1600,250,11385,250
+42,condo,formal,gas,1,combo,NA,2,2,0,5,0,0,NA,1134,3785,11360,792

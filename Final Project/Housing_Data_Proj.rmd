@@ -1,0 +1,530 @@
+---
+title: "Final Project"
+author: "Mohammed Z Hasan"
+output: pdf_document
+---
+
+```{r}
+rm(list = ls())
+pacman::p_load(readr)
+
+data = read.csv("housing_data_2016_2017.csv")
+
+
+num_na_sale_price = sum(is.na(data$sale_price))
+cat("Number of NA values in sale_price column: ", num_na_sale_price, "\n")
+```
+
+# Data summary
+
+```{r}
+
+View(data)
+#summary(data)
+#str(data)
+
+```
+
+# Deleting unnecesary features
+
+```{r}
+pacman::p_load(dplyr)
+library(dplyr)
+
+# Remove the unwanted columns and store the result in a new data frame
+data_cleaned = data %>%
+  select(-HITId, -HITTypeId, -Title, -Description, -Keywords, -Reward, -CreationTime, -MaxAssignments, -RequesterAnnotation, -AssignmentDurationInSeconds, -AutoApprovalDelayInSeconds, -Expiration, -NumberOfSimilarHITs, -LifetimeInSeconds, -AssignmentId, -WorkerId, -AssignmentStatus, -AcceptTime, -SubmitTime, -AutoApprovalTime, -ApprovalTime, -RejectionTime, -RequesterFeedback, -WorkTimeInSeconds, -LifetimeApprovalRate, -Last30DaysApprovalRate, -Last7DaysApprovalRate, -URL, -cats_allowed, -date_of_sale, -dogs_allowed, -model_type, -num_floors_in_building, -walk_score, -url, -listing_price_to_nearest_1000, -community_district_num )
+
+pacman::p_load(tidyr)
+library(tidyr)
+
+# changing the "approx_year_built column to "age_of_property" column to better use for evaluation
+data_cleaned = data_cleaned %>%
+  mutate(age_of_property = 2024 - approx_year_built) %>%
+  select(age_of_property, everything(), -approx_year_built)  # remove the old column and move new column to the front
+
+# changing "full_address_or_zip_code" column to just the zip code
+data_cleaned = data_cleaned %>%
+  mutate(zip_code = sub(".*(\\b\\d{5}\\b).*", "\\1", full_address_or_zip_code)) %>%
+  select(-full_address_or_zip_code)
+
+# changing common_charges column to common_charges_numeric column so that we turn it into a numeric data type
+data_cleaned = data_cleaned %>%
+  mutate(common_charges_numeric_dollars = as.numeric(gsub("\\$", "", common_charges))) %>%
+  mutate(common_charges_numeric_dollars = ifelse(is.na(common_charges_numeric_dollars), 0, common_charges_numeric_dollars)) %>%
+  select(-common_charges)
+
+# sale_price and maintenance cost in one instead. There was an issue with sale_price where the commas weren't being handled correctly by gsub function. Had to remove the commas and dollar signs as well. Turned both columns to numeric. adding total_taxes and parking_charges to this as well since it follows same principle. Leaving NA's for total_taxes because its a feature that probably needs imputation and sale_price because that is what needs predicting.
+
+data_cleaned = data_cleaned %>%
+  mutate(
+    maintenance_cost = as.numeric(gsub("[\\$,]", "", maintenance_cost)),
+    sale_price = as.numeric(gsub("[\\$,]", "", sale_price)),
+    total_taxes = as.numeric(gsub("[\\$,]", "", total_taxes)),
+    parking_charges = as.numeric(gsub("[\\$,]", "", parking_charges))
+  ) %>%
+  mutate(
+    parking_charges = ifelse(is.na(parking_charges), 0, parking_charges),
+    num_half_bathrooms = ifelse(is.na(num_half_bathrooms), 0, num_half_bathrooms),
+    num_full_bathrooms = ifelse(is.na(num_full_bathrooms), 0, num_full_bathrooms),
+    pct_tax_deductibl = ifelse(is.na(pct_tax_deductibl), 0, pct_tax_deductibl)
+  )
+
+
+# note: probably need to impute maintenance_cost, sq_footage, and total_taxes
+
+# Garage Exists. After finding all distinct values in this column and seeing that there are no "no" values or anything that contradicts having a garage. It was safe to assume that the Na's are the apartments with "no garage" Also turns the data types into factors and numeric.
+
+data_cleaned = data_cleaned %>%
+  mutate(
+    coop_condo = as.factor(coop_condo),
+    dining_room_type = as.factor(dining_room_type),
+    fuel_type = as.factor(fuel_type),
+    garage_exists = ifelse(tolower(garage_exists) %in% c("yes", "underground", "ug", "1"), 1, 0),
+    kitchen_type = as.factor(kitchen_type),
+    maintenance_cost = as.numeric(gsub("[\\$,]", "", maintenance_cost)),
+    num_bedrooms = as.numeric(num_bedrooms),
+    num_full_bathrooms = as.numeric(num_full_bathrooms),
+    num_half_bathrooms = as.numeric(num_half_bathrooms),
+    num_total_rooms = as.numeric(num_total_rooms),
+    parking_charges = as.numeric(gsub("[\\$,]", "", parking_charges)),
+    pct_tax_deductibl = as.numeric(pct_tax_deductibl),
+    sale_price = as.numeric(gsub("[\\$,]", "", sale_price)),
+    sq_footage = as.numeric(sq_footage),
+    total_taxes = as.numeric(gsub("[\\$,]", "", total_taxes)),
+    zip_code = as.factor(zip_code),
+    common_charges_numeric_dollars = as.numeric(common_charges_numeric_dollars)
+  )
+
+# comparing old data with new cleaned removed columns
+View(data_cleaned)
+View(data)
+# Save the cleaned data back to a new CSV file
+# write_csv(data_cleaned, "data_cleaned.csv")
+
+```
+
+# Impute Using Missforest
+
+```{r}
+pacman::p_load(missForest)
+
+# Create a temporary dataset including only relevant columns
+temp_data = data_cleaned %>%
+  select(-zip_code)  # missforest cannot handle categorical variables with more than 55 unique values so we need to remove zip code from the data set for the time being
+
+# Apply missForest only on the relevant columns.
+imputed_data = missForest(temp_data)
+
+# Replace the original dining_room_type column with the imputed values
+data_cleaned$dining_room_type = imputed_data$ximp$dining_room_type
+data_cleaned$fuel_type = imputed_data$ximp$fuel_type
+data_cleaned$total_taxes = imputed_data$ximp$total_taxes
+data_cleaned$maintenance_cost = imputed_data$ximp$maintenance_cost
+data_cleaned$sq_footage = imputed_data$ximp$sq_footage
+data_cleaned$age_of_property = imputed_data$ximp$age_of_property
+data_cleaned$kitchen_type = imputed_data$ximp$kitchen_type
+data_cleaned$num_bedrooms = imputed_data$ximp$num_bedrooms
+data_cleaned$sale_price = imputed_data$ximp$sale_price
+
+data_cleaned = data_cleaned %>% #rounding num_bedrooms column since missForest imputed decimal values.
+  mutate(num_bedrooms = round(num_bedrooms))
+
+View(data_cleaned)
+```
+
+#Zipcode had addresses without proper zip codes. removed these columns since we cannot derive the zip code from them.
+```{r}
+
+# need to convert to character to filter properly
+data_cleaned = data_cleaned %>%
+  mutate(zip_code = as.character(zip_code))
+
+# Filter rows with valid 5-digit zip codes
+data_cleaned = data_cleaned %>%
+  filter(grepl("^\\d{5}$", zip_code))
+
+# Convert the zip_code column back to integer
+data_cleaned = data_cleaned %>%
+  mutate(zip_code = as.integer(zip_code))
+
+```
+
+Model Training
+# Train-Test split
+
+```{r}
+set.seed(123)
+
+# Split the data into training 0.8 and testing 0.2
+sample_indices = sample(seq_len(nrow(data_cleaned)), size = 0.8 * nrow(data_cleaned))
+train_data = data_cleaned[sample_indices, ]
+test_data = data_cleaned[-sample_indices, ]
+
+# split training data more into training 0.75 and validation 0.25
+sample_indices = sample(seq_len(nrow(train_data)), size = 0.75 * nrow(train_data))
+train_set = train_data[sample_indices, ]
+val_set = train_data[-sample_indices, ]
+
+
+# gives us count for sizes
+cat("Training set size: ", nrow(train_data), "\n")
+cat("Validation set size: ", nrow(val_set), "\n")
+cat("Test set size: ", nrow(test_data), "\n")
+```
+
+#regression tree
+
+```{r}
+pacman::p_load(rpart)
+
+# Training regression tree model
+tree_model = rpart(sale_price ~ ., data = train_data, method = "anova")
+
+# predicting on each set
+tree_train_predictions = predict(tree_model, train_data)
+tree_val_predictions = predict(tree_model, val_set)
+tree_test_predictions = predict(tree_model, test_data)
+
+# Evaluate model for each set
+r2_tree_train = cor(train_data$sale_price, tree_train_predictions)^2
+rmse_tree_train = sqrt(mean((train_data$sale_price - tree_train_predictions)^2))
+
+r2_tree_val = cor(val_set$sale_price, tree_val_predictions)^2
+rmse_tree_val = sqrt(mean((val_set$sale_price - tree_val_predictions)^2))
+
+r2_tree_test = cor(test_data$sale_price, tree_test_predictions)^2
+rmse_tree_test = sqrt(mean((test_data$sale_price - tree_test_predictions)^2))
+
+#using to compare later
+cat("R² for Regression Tree (Training): ", r2_tree_train, "\n")
+cat("RMSE for Regression Tree (Training): ", rmse_tree_train, "\n")
+cat("R² for Regression Tree (Validation): ", r2_tree_val, "\n")
+cat("RMSE for Regression Tree (Validation): ", rmse_tree_val, "\n")
+cat("R² for Regression Tree (Test): ", r2_tree_test, "\n")
+cat("RMSE for Regression Tree (Test): ", rmse_tree_test, "\n")
+```
+
+#regression tree top 10 features
+
+```{r}
+pacman::p_load(ggplot2)
+# extracting variable importance from rpart model
+varImp = function(model) {
+  var_importance = model$variable.importance
+  var_importance = var_importance / sum(var_importance) * 100
+  importance_df = data.frame(Overall = var_importance)
+  return(importance_df)
+}
+
+# Extract feature importance
+feature_importance = as.data.frame(varImp(tree_model))
+feature_importance$Feature = rownames(feature_importance)
+
+# Sort features by importance and select the top 10
+top_features = feature_importance %>%
+  arrange(desc(Overall)) %>%
+  head(10)
+
+# we are using ggplot to show importance order
+ggplot(top_features, aes(x = reorder(Feature, Overall), y = Overall)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  xlab("Feature") +
+  ylab("Importance") +
+  ggtitle("Top 10 Features in Regression Tree Model")
+
+```
+
+#Linear test
+
+```{r}
+pacman::p_load(MASS)
+pacman::p_load(dplyer)
+
+numeric_cols = sapply(data_cleaned, is.numeric)
+numeric_cols = names(numeric_cols[numeric_cols])
+
+numeric_cols = setdiff(numeric_cols, "sale_price")
+
+# Split data into features (X) and target (y)
+X = data_cleaned[, numeric_cols]
+y = data_cleaned$sale_price
+
+# Combine features and target into one dataframe
+data_model = cbind(X, sale_price = y)
+
+# Fitting vanilla OLS on training set
+ols_model = lm(sale_price ~ ., data = train_data)
+
+summary(ols_model)
+
+# Predicting on the sets
+ols_train_predictions = predict(ols_model, train_data)
+ols_val_predictions = predict(ols_model, val_set)
+ols_test_predictions = predict(ols_model, test_data)
+
+# Calculate R² and RMSE for all sets
+r2_ols_train = cor(train_data$sale_price, ols_train_predictions)^2
+rmse_ols_train = sqrt(mean((train_data$sale_price - ols_train_predictions)^2))
+
+r2_ols_val = cor(val_set$sale_price, ols_val_predictions)^2
+rmse_ols_val = sqrt(mean((val_set$sale_price - ols_val_predictions)^2))
+
+r2_ols_test = cor(test_data$sale_price, ols_test_predictions)^2
+rmse_ols_test = sqrt(mean((test_data$sale_price - ols_test_predictions)^2))
+
+#using for comparison later
+cat("R² for OLS (Training): ", r2_ols_train, "\n")
+cat("RMSE for OLS (Training): ", rmse_ols_train, "\n")
+cat("R² for OLS (Validation): ", r2_ols_val, "\n")
+cat("RMSE for OLS (Validation): ", rmse_ols_val, "\n")
+cat("R² for OLS (Test): ", r2_ols_test, "\n")
+cat("RMSE for OLS (Test): ", rmse_ols_test, "\n")
+
+
+```
+
+# Random Forest Model
+
+```{r}
+# Load necessary libraries
+pacman::p_load(randomForest, ggplot2, dplyr)
+
+# Convert appropriate columns to factors
+factor_columns = c("coop_condo", "dining_room_type", "fuel_type", 
+                    "garage_exists", "kitchen_type", "zip_code")
+
+data_cleaned[factor_columns] = lapply(data_cleaned[factor_columns], factor)
+
+set.seed(123)
+
+# Splitting
+sample_indices = sample(seq_len(nrow(data_cleaned)), size = 0.8 * nrow(data_cleaned))
+train_data = data_cleaned[sample_indices, ]
+test_data = data_cleaned[-sample_indices, ]
+
+sample_indices = sample(seq_len(nrow(train_data)), size = 0.75 * nrow(train_data))
+train_set = train_data[sample_indices, ]
+val_set = train_data[-sample_indices, ]
+
+# validation and test sets have the same levels as the training set (was having problems with levels, this is to assure they are same levels)
+for (var in factor_columns) {
+  val_set[[var]] = factor(val_set[[var]], levels = levels(train_set[[var]]))
+  test_data[[var]] = factor(test_data[[var]], levels = levels(train_set[[var]]))
+}
+
+
+# Fit a Random Forest model on the training data
+set.seed(123)
+rf_model = randomForest(sale_price ~ ., data = train_set, ntree = 500, mtry = 3, importance = TRUE)
+
+print(rf_model)
+
+# Validate the model on the validation data
+validation_predictions = predict(rf_model, val_set)
+validation_actuals = val_set$sale_price
+
+# Calculate RMSE w validation
+validation_rmse = sqrt(mean((validation_predictions - validation_actuals)^2))
+print(paste("Validation RMSE: ", validation_rmse))
+
+# Test model test data
+test_predictions = predict(rf_model, test_data)
+test_actuals = test_data$sale_price
+
+# Calculate RMSE on test set
+test_rmse = sqrt(mean((test_predictions - test_actuals)^2))
+print(paste("Test RMSE: ", test_rmse))
+
+
+```
+# oos for random forest
+```{r}
+# Load necessary libraries
+pacman::p_load(randomForest, ggplot2, dplyr)
+
+# Convert appropriate columns to factors
+factor_columns = c("coop_condo", "dining_room_type", "fuel_type", 
+                    "garage_exists", "kitchen_type", "zip_code")
+
+data_cleaned[factor_columns] = lapply(data_cleaned[factor_columns], factor)
+
+set.seed(123)
+
+# Split
+sample_indices = sample(seq_len(nrow(data_cleaned)), size = 0.8 * nrow(data_cleaned))
+train_data = data_cleaned[sample_indices, ]
+test_data = data_cleaned[-sample_indices, ]
+
+sample_indices = sample(seq_len(nrow(train_data)), size = 0.75 * nrow(train_data))
+train_set = train_data[sample_indices, ]
+val_set = train_data[-sample_indices, ]
+
+# Ensure validation and test sets have the same levels as the training set
+for (var in factor_columns) {
+  val_set[[var]] = factor(val_set[[var]], levels = levels(train_set[[var]]))
+  test_data[[var]] = factor(test_data[[var]], levels = levels(train_set[[var]]))
+}
+
+# Fit a Random Forest model on training data
+set.seed(123)
+#even though this doesnt delete a single column, it removes the errors when running next line
+data_cleaned = data_cleaned %>% select_if(~ !any(is.na(.)))
+rf_model = randomForest(sale_price ~ ., data = train_set, ntree = 500, mtry = 3, importance = TRUE)
+
+print(rf_model)
+
+# In-sample predictions (training data)
+train_predictions = predict(rf_model, train_set)
+train_actuals = train_set$sale_price
+
+# Calculate RMSE and R² for training set
+train_rmse = sqrt(mean((train_predictions - train_actuals)^2))
+train_r2 = cor(train_actuals, train_predictions)^2
+
+print(paste("Training RMSE: ", train_rmse))
+print(paste("Training R²: ", train_r2))
+
+# Validate the model on the validation data
+validation_predictions = predict(rf_model, val_set)
+validation_actuals = val_set$sale_price
+
+# Calculate RMSE and R² for validation set
+validation_rmse = sqrt(mean((validation_predictions - validation_actuals)^2))
+validation_r2 = cor(validation_actuals, validation_predictions)^2
+
+print(paste("Validation RMSE: ", validation_rmse))
+print(paste("Validation R²: ", validation_r2))
+
+# Test model on test data
+test_predictions = predict(rf_model, test_data)
+test_actuals = test_data$sale_price
+
+# Calculate RMSE and R² for test set
+test_rmse = sqrt(mean((test_predictions - test_actuals)^2))
+test_r2 = cor(test_actuals, test_predictions)^2
+
+print(paste("Test RMSE: ", test_rmse))
+print(paste("Test R²: ", test_r2))
+
+results = data.frame(
+  Set = c("Training", "Validation", "Test"),
+  RMSE = c(train_rmse, validation_rmse, test_rmse),
+  R2 = c(train_r2, validation_r2, test_r2)
+)
+
+print(results)
+
+```
+# plotting random forest
+```{r}
+
+# Variable Importance
+ggplot(importance_df, aes(x = reorder(Variable, Importance), y = Importance)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  theme_minimal() +
+  ggtitle("Variable Importance Plot") +
+  xlab("Variables") +
+  ylab("Importance")
+
+# Actual vs. Predicted
+actual_vs_predicted = data.frame(Actual = test_actuals, Predicted = test_predictions)
+ggplot(actual_vs_predicted, aes(x = Actual, y = Predicted)) +
+  geom_point() +
+  geom_abline(slope = 1, intercept = 0, color = "red") +
+  theme_minimal() +
+  ggtitle("Actual vs. Predicted Sale Prices") +
+  xlab("Actual Sale Price") +
+  ylab("Predicted Sale Price")
+
+# Residuals
+residuals = data.frame(Residuals = test_actuals - test_predictions)
+ggplot(residuals, aes(x = Residuals)) +
+  geom_histogram(binwidth = 50000, fill = "blue", color = "black") +
+  theme_minimal() +
+  ggtitle("Residuals of the Model") +
+  xlab("Residuals") +
+  ylab("Frequency")
+```
+
+# UNseen data
+
+```{r}
+unseen_data = data.frame(
+  age_of_property = c(10, 20, 15),
+  coop_condo = c("co-op", "condo", "co-op"),
+  dining_room_type = c("formal", "combo", "none"),
+  fuel_type = c("gas", "oil", "electric"),
+  garage_exists = c("1", "0", "1"),
+  kitchen_type = c("eat in", "efficiency", "combo"),
+  maintenance_cost = c(500, 600, 700),
+  num_bedrooms = c(2, 3, 1),
+  num_full_bathrooms = c(1, 2, 1),
+  num_half_bathrooms = c(0, 1, 0),
+  num_total_rooms = c(4, 5, 3),
+  parking_charges = c(0, 20, 0),
+  pct_tax_deductibl = c(0, 39, 0),
+  sq_footage = c(800, 900, 750),
+  total_taxes = c(2500, 3000, 2000),
+  zip_code = c("11355", "11354", "11357"),
+  common_charges_numeric_dollars = c(100, 200, 150)
+)
+
+unseen_data[factor_columns] = lapply(unseen_data[factor_columns], factor)
+
+for (var in factor_columns) {
+  unseen_data[[var]] = factor(unseen_data[[var]], levels = levels(train_set[[var]]))
+}
+
+unseen_data = na.omit(unseen_data)
+l
+unseen_predictions = predict(rf_model, unseen_data)
+
+print(unseen_predictions)
+
+```
+# plotting outliers
+```{r}
+pacman::p_load(ggplot2)
+ggplot(data_cleaned, aes(y = sale_price)) +
+  geom_boxplot() +
+  labs(title = "Boxplot of Sale Price", y = "Sale Price")
+
+pacman::p_load(knitr)
+continuous_vars = c("sale_price", "sq_footage", "num_bedrooms", "num_full_bathrooms", "total_taxes")
+```
+
+```{r}
+
+# View the columns in each dataset
+raw_columns = colnames(data)
+cleaned_columns = colnames(data_cleaned)
+# Identify the featurized columns
+featurized_columns = setdiff(cleaned_columns, raw_columns)
+
+# Classify columns
+provided_columns = intersect(cleaned_columns, raw_columns)
+featurized_columns = setdiff(cleaned_columns, raw_columns)
+
+# Summarize the columns
+list(
+  provided_columns = provided_columns,
+  featurized_columns = featurized_columns
+)
+
+# Identify the featurized columns
+featurized_columns = setdiff(cleaned_columns, raw_columns)
+
+# Classify columns
+provided_columns = intersect(cleaned_columns, raw_columns)
+featurized_columns = setdiff(cleaned_columns, raw_columns)
+
+# Summarize the columns
+list(
+  provided_columns = provided_columns,
+  featurized_columns = featurized_columns
+)
+
+```
